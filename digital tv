@@ -5,7 +5,7 @@ http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdch3x
 http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdch5xjx.stream/playlist.m3u8|Referer=http://pglivetv.com/
 #EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://images.ufoiptv.com/channels/ch7hd.jpg",7HD
 http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdch7xjo.stream/playlist.m3u8|Referer=http://pglivetv.com/
-#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="ttps://teevee-hd.com/img/mcot.png",MCOT HD
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
 http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdch9xhjp.stream/playlist.m3u8|Referer=http://pglivetv.com/
 #EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
 http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdtpbsxjx.stream/playlist.m3u8|Referer=http://pglivetv.com/
@@ -19,7 +19,7 @@ http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdpptv
 http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdchtrxjp.stream/playlist.m3u8|Referer=http://pglivetv.com/
 #EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN 24
 http://tv10.chang55.com/ch04-tnn16/playlist.m3u8
-#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",Mono29
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",Mono29
 http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdmonoqjp.stream/playlist.m3u8|Referer=http://pglivetv.com/
 
 #EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/GMM25-CH1_Thumb_cddd38ace7bd99baa45f889e56ef08bc.png",GMM25
