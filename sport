@@ -8,7 +8,7 @@ http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch95
 http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch96.stream/playlist.m3u8|Referer=http://pglivetv.com/
 
 
-#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/NBA-CH1_Thumb.png",NBA
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.albawaba.com/sites/default/files/styles/d08_standard/public/2020-04/nba%20logo.jpeg?h=8abcec71&itok=YaacqhZz",NBA
 http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/nba.stream/chunks.m3u8|Referer=http://pglivetv.com/
 
 #EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.pglivetv.com/movie/upload/movie_img/BEIN-SPORT-HD1-CH4_Thumb_560ff9ba81007e49251897e24d8450ec.png",True Premier Football HD 1
