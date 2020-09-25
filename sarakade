@@ -4,17 +4,15 @@
 	"author": monitor",
 	"image": "https://lifestyle.campus-star.com/app/uploads/2017/09/l10-2.jpg",
 	"url": "",
-	"groups": [
+	
       
                {
-			"name": "Documentary",
-			"image": "http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg",
+			
 			"url": "https://is.gd/document101",
 			"import": false
 		},
 		
-    ]
-}
+   }
 
 
 
