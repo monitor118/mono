@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/SNOOKER-WORLD-CH1_Thumb_ef9632b5f4240bd902f1ea4fa37cf8da.png",SNOOKER WORLD
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch95.stream/playlist.m3u8|Referer=http://pglivetv.com/
+
+EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/WWE-CH1_Thumb_7a8040dbcdd7077beb8c5d048c281388.png",WWE
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch96.stream/playlist.m3u8|Referer=http://pglivetv.com/
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/NBA-CH1_Thumb.png",NBA
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/nba.stream/chunks.m3u8|Referer=http://pglivetv.com/
+
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.pglivetv.com/movie/upload/movie_img/BEIN-SPORT-HD1-CH4_Thumb_560ff9ba81007e49251897e24d8450ec.png",True Premier Football HD 1
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/prm1.stream/chunks.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD2-CH1_Thumb.png",True Premier Football HD 2
+http://tv10.chang55.com/epl-2/playlist.m3u8
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD2-CH1_Thumb.png",True Premier Football HD 2
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/prm2.stream/chunks.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD3-CH1_Thumb.png",True Premier Football HD 3
+http://tv10.chang55.com/epl-3/playlist.m3u8
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD3-CH1_Thumb.png",True Premier Football HD 3
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/prm3.stream/chunks.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD4-CH1_Thumb.png",True Premier Football HD 4
+http://tv10.chang55.com/epl-4/playlist.m3u8
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD4-CH1_Thumb.png",True Premier Football HD 4
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/prm4.stream/chunks.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD5-CH1_Thumb.png",True Premier Football HD 5
+http://tv10.chang55.com/epl-5/playlist.m3u8
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD5-CH1_Thumb.png",True Premier Football HD 5
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/prm5.stream/chunks.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD1-CH22_Thumb_e6245dad24809950e4c5cad562ae65c3.png",BEIN SPORT 1
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch36.stream/playlist.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/BEIN-SPORT-HD2-CH22_Thumb.png",BEIN SPORT 2
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch73.stream/playlist.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPORT-HD1-CH1_Thumb_270cc22a2f6475198ee7151d8d8b6289.png",TRUESPORT HD 1
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/tsp1hd.stream/chunks.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPORT-HD2-CH1_Thumb_b096693bed670c3c38418e45556bf803.png",TRUESPORT HD 2
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/tsp2hd.stream/chunks.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPORT-HD3-CH1_Thumb_3c71f83986c0ffef2ed9c2d8d32d755b.png",TRUESPORT HD 3
+http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/tsp3hd.stream/chunks.m3u8|Referer=http://pglivetv.com/
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPORT-SD2-CH1_Thumb_e82245146a7dc692d4d6349f42038904.png",TRUESPORT 2
+http://tv10.chang55.com/ch06-tsp2/playlist.m3u8
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPORT-SD7-CH1_Thumb_966eb624bd811121d9b251a9e88978f7.png",TRUESPORT 7
+http://tv10.chang55.com/ch07-tsp7/playlist.m3u8
