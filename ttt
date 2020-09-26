@@ -1,0 +1,257 @@
+{
+	"name": "WiseplayByGarlic",
+	"author": @แอนดรอยด์แอพฟรี",
+	"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/GALIC",
+	"groups": [
+	
+
+
+
+
+
+	        {
+			"name": "Thai TV",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/510px-Flag_of_Thailand.svg.png",
+			"url": "http://tiny.cc/thaitv01",
+			"import": false
+		},	
+
+		{
+			"name": "Entertainment",
+			"image": "https://pbs.twimg.com/profile_images/892744367449964544/TTPUoKHv_400x400.jpg",
+			"url": "http://tiny.cc/entertainment01",
+			"import": false
+		},
+
+               {
+			"name": "Documentary",
+			"image": "http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg",
+			"url": "http://tiny.cc/docs01",
+			"import": false
+		},
+		
+               {
+			"name": "Kids",
+			"image": "https://images.megapixl.com/4907/49070655.jpg",
+			"url": "http://tiny.cc/kids01",
+			"import": false
+		},
+
+
+		{
+			"name": "Worldnews",
+			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d77a6343106623.57e3765daad26.jpg",
+			"url": "http://tiny.cc/worldnews01",
+			"import": false
+		},	
+
+
+
+		{
+			"name": "True Sports",
+			"image": "https://pbs.twimg.com/profile_images/1203405967032893440/V3W6rpf7_400x400.jpg",
+			"url": "http://tiny.cc/truesports",
+			"import": false
+		},
+
+					
+		
+		{
+			"name": "Bein Sports",
+			"image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/sports.png",
+			"url": "http://tiny.cc/beinsports",
+			"import": false
+		},
+		
+		{
+			"name": "World Sports",
+			"image": "https://bizimages.withfloats.com/actual/5c45e8e61ba77d0001198050.jpg",
+			"url": "http://tiny.cc/worldsports",
+			"import": false
+		},
+
+
+
+		{
+			"name": "UK",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/640px-Flag_of_the_United_Kingdom_%282-3%29.svg.png",
+			"url": "http://tiny.cc/uk01",
+			"import": false
+		},	
+
+
+
+		{
+			"name": "USA",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/United_States_-_Rounded_Flag.svg/512px-United_States_-_Rounded_Flag.svg.png",
+			"url": "http://tiny.cc/usa001",
+                        "import": false
+		},
+
+
+    	        {
+			"name": "Horror/Thriller",
+			"image": "https://image.roku.com/developer_channels/prod/5acefbfdec1bfd80e2dfdc48c9cb4754d38ec39dadf4c6abdd82a59fd485b04c.png",
+			"url": "http://tiny.cc/myhorror",
+			"import": false
+		},		
+
+
+         {
+        "name": "20 หนังมาใหม่",
+        "image": "https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png",
+        "stations": [
+
+
+
+
+          {
+             "name": "Antebellum 2020",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/a/acb2f935c81d7c19dbbe0b6a42f5918a.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/62779fb140df5c1db16aa634a3e3f793/62779fb140df5c1db16aa634a3e3f793.m3u8"
+ 
+           },
+ 
+
+
+          {
+             "name": "มาลาซานญ่า ย่านผีอยู่",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/0/06313624a676e645846145e907497e6b.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/1edfb6c63abf67f906452edffb3eeead/1edfb6c63abf67f906452edffb3eeead.m3u8"
+ 
+           },
+ 
+
+         {
+             "name": "มู่หลาน",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/4/41d55424a6f5c1f8f6c3d3572a9b93ac.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/f0e710ff43aaf2991f11e47d157acb23/f0e710ff43aaf2991f11e47d157acb23.m3u8"
+ 
+           },
+				
+
+         {
+             "name": "ฝ่านรกซอมบี้คลั่ง",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/f/ffff169bd7e6c6c19c6bf3fa62be2c06.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/61313de0d681277c616ccba19bb3117f/61313de0d681277c616ccba19bb3117f.m3u8"
+ 
+           },
+
+         {
+             "name": "ตู้นรกไม่ได้ผุดไม่ได้เกิด",  
+             "image": "https://www.037hdmovie.com/wp-content/uploads/2020/03/The-Closet-%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9C%E0%B8%B8%E0%B8%94%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94-2020.jpg",  
+             "url": "https://lb1.one3up.com/hls/3fb07294d7a8f0af4004846868c31312/3fb07294d7a8f0af4004846868c31312.m3u8"
+ 
+           },
+				
+
+         {
+             "name": "มันอยู่ในบ้าน",  
+             "image": "https://www.037hdmovie.com/wp-content/uploads/2020/09/You-Should-Have-Left-2020-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",  
+             "url": "https://lb1.one3up.com/hls/68445865cb9c58245ec48be39890a206/68445865cb9c58245ec48be39890a206.m3u8"
+ 
+           },
+
+
+         {
+             "name": "โรงแรมผีจองเวร",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/4/437ef42c98ccbb17f8e921423a197859.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/b6f27251b3a5e7db2cb0272c08b9dc48/b6f27251b3a5e7db2cb0272c08b9dc48.m3u8"
+ 
+           },
+
+
+         {
+             "name": "เอวา มาแล้วฆ่า",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/8/836d2099b424756696730757872712bd.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/63d4886c2ce6c19d4cb74ebc8a302d1b/63d4886c2ce6c19d4cb74ebc8a302d1b.m3u8"
+ 
+           },
+
+
+         {
+             "name": "กระชากนรก โคตรไอ้เข้",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/f/fd438fa3bc1eeb30ca806e500fcb196c.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/7def7abd5f7352e27f33f8d82c6a97c4/7def7abd5f7352e27f33f8d82c6a97c4.m3u8"
+ 
+           },
+
+
+
+         {
+             "name": "เฮียคลั่ง ดับเครื่องชน",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/1/182cd891c73cd3ebaa2ba26355e0ba47.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/652889535d5b5eb782c6193fd4f6fc18/652889535d5b5eb782c6193fd4f6fc18.m3u8"
+ 
+           },
+
+         {
+             "name": "Balkan Line",  
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/5/5f75ec4ff41d53b68a54eba1a5dab62e.jpg",  
+             "url": "https://cdn.livedoomovies.com/hls/dbe36047a7a504440e72c2e63d200593/dbe36047a7a504440e72c2e63d200593.m3u8"
+ 
+           },
+
+         {
+             "name": "ถนนทางเลือก",  
+             "image": "https://www.037hdmovie.com/wp-content/uploads/2020/09/The-Roads-Not-Taken-2020.jpg",  
+             "url": "https://lb1.one3up.com/hls/1a0d937de1460d1e09117caeee2ca8c7/1a0d937de1460d1e09117caeee2ca8c7.m3u8"
+ 
+           },
+
+
+
+         {
+             "name": "We need to talk about AI",  
+             "image": "https://m.media-amazon.com/images/M/MV5BODg0ZGM1ODEtMjY1OS00M2JmLTgzZDMtYWZmYTYyNjhiOTE4XkEyXkFqcGdeQXVyMTY5NzIzMQ@@._V1_.jpg",  
+             "url": "https://lb1.one3up.com/hls/2dbdd56749469130f7b21ea4c23dc15e/2dbdd56749469130f7b21ea4c23dc15e.m3u8"
+ 
+           },
+
+         {
+             "name": "The King of Staten Island",  
+             "image": "https://m.media-amazon.com/images/M/MV5BYzkxMzMzOTgtNmZhMS00MGM0LTk3MzUtMjE1MzI4MzU5ZjkzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX178_AL_.jpg",  
+             "url": "https://lb1.one3up.com/hls/085b2bbcd97ba84482edf317cf9b3f78/085b2bbcd97ba84482edf317cf9b3f78.m3u8"
+ 
+           },
+
+         {
+             "name": "I Still Believe",  
+             "image": "https://yucommentator.com/wp-content/uploads/2020/06/I-Still-Believe-Poster.jpg",  
+             "url": "https://lb1.one3up.com/hls/6777eafedab626eab6b371a4208a85d7/6777eafedab626eab6b371a4208a85d7.m3u8"
+ 
+           },
+
+
+         {
+             "name": "The Paramedic",  
+             "image": "https://movie2uhd.com/wp-content/uploads/2020/09/The-Paramedic-2020.jpg",  
+             "url": "https://lb1.one3up.com/hls/24183a945015d6db32744c70b1a2d80a/24183a945015d6db32744c70b1a2d80a.m3u8"
+ 
+           },
+
+
+
+
+
+
+
+
+
+
+
+
+	       ]
+
+	},	
+
+
+
+
+
+
+		
+		
+    ]
+}
