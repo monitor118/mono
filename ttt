@@ -2,17 +2,17 @@
 	"name": "monitor",
 	"author": "nopalito",
 	"image": "https://www.documentary.org/images/magazine/2004/SchoolDoc_Sep2004.jpg",
-	"url": "",
+	"url": "https://github.com/monitor118/mono/edit/master/ttt",
 	"groups": [
 
               {
-		"name": "สารคดี",
+		"name": "Documentary",
 		"image": "https://lifestyle.campus-star.com/app/uploads/2017/09/l10-2.jpg",
 		"url": "https://is.gd/document101",
 		"import": false
 	     },
 	      {
-		"name": "กีฬา",
+		"name": "sport",
 		"image": "https://image.freepik.com/free-vector/ball-icon-set_1284-39976.jpg",
 		"url": "https://raw.githubusercontent.com/monitor118/mono/master/sport",
 		"import": false
@@ -26,6 +26,6 @@
 	     },
          ]  
 }
- 
+
 
  
