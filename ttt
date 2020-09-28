@@ -17,6 +17,14 @@
 		"url": "https://raw.githubusercontent.com/monitor118/mono/master/sport",
 		"import": false
 	     },
-           ]
+           
+	    {
+		"name": "Digital TV",
+		"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
+		"url": "https://github.com/monitor118/mono/blob/master/digital%20tv",
+		"import": false
+	     },
+         ]  
 }
+
 
