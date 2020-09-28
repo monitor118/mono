@@ -1,184 +1,25 @@
-
 {
       'name': 'monitor','author': 'nopalito',
        'image':'https://resources.matcha-jp.com/resize/720x2000/2017/01/18-13986.jpeg',
          'url': '',
-                  'groups': [{ "name": "ทีวีออนไลน์", "author": "monitor",                                        
-                  "image":"https://img.apksum.com/9b/biopic.beautystorestudio.livetvchannelsguide/1.2/icon.png",
-                       "url": "", 
-                         "groups": [
+                  'groups': [
+                      {
+                          "name": "ทีวีออนไลน์", "author": "monitor",                                        
+                         "image":"https://img.apksum.com/9b/biopic.beautystorestudio.livetvchannelsguide/1.2/icon.png",
+                            "url": "", 
+                                "groups": [
                                                            { 
                                                                  "name": "ดิจิตอลทีวี", "image": "https://i.imgur.com/B0XTMoo.png",                                                                         
                                                                  "info": "", 
                                                                       "stations": [ {name:"CH3HD",image:"https://images.ufoiptv.com/channels/ch3hd.jpg",
                                                                        url:"https://cdn1.ufalive.center/app/ch3hd/playlist.m3u8",referer:"https://dooballz.com/"
-                                                            },
-                                                           {
-                                                                   name:"CH5HD",image:"https://images.ufoiptv.com/channels/ch5hd.jpg",
-                                                                   url:"https://cdn1.ufalive.center/app/ch5hd/playlist.m3u8",referer:"https://dooballz.com/"
-                                                          },
-                                                         {
-                                                                name:"CH7HD",image:"https://images.ufoiptv.com/channels/ch7hd.jpg",
-                                                                 url:"https://cdn1.ufalive.center/app/ch7hd/playlist.m3u8",referer:"https://dooballz.com/"
-                                                        },
-                                                       {
-                                                              name:"MCOTHD",image:"https://images.ufoiptv.com/channels/hd-mcot.jpg",
-                                                              url:"https://cdn1.ufalive.center/app/mcothd/playlist.m3u8",referer:"https://dooballz.com/"
-                                                       },
-                                                      {
-                                                          name:"PPTVHD",image:"https://images.ufoiptv.com/channels/hd-pptv.jpg",
-                                                          url:"https://cdn1.ufalive.center/app/pptv/playlist.m3u8",referer:"https://dooballz.com/" 
-                                                      },
-                                                     {
-                                                         name:"ThairathTV",image:"https://images.ufoiptv.com/channels/hd-thairath.jpg",
-                                                         url:"https://cdn1.ufalive.center/app/thairathtv/playlist.m3u8",referer:"https://dooballz.com/"
-                                                    }, 
-                                                   {
-                                                       name:"ONE31HD",image:"https://images.ufoiptv.com/channels/hd-gmmone.jpg",
-                                                       url:"https://cdn1.ufalive.center/app/one31/playlist.m3u8",referer:"https://dooballz.com/" 
-                                                 },
-                                                {
-                                                    name:"AmarinTVHD",image:"https://images.ufoiptv.com/channels/hd-amarin.jpg",
-                                                    url:"https://cdn1.ufalive.center/app/amarintv/playlist.m3u8",referer:"https://dooballz.com/" 
-                                                },
-                                                 {
-                                                    name:"TPBS",image:"https://images.ufoiptv.com/channels//hd-tpbs.jpg",
-                                                   url:"https://doomovie.com/live/thai-pbs",referer:"" 
-                                               },
-                                              {
-                                                   name:"NBT",image:"https://images.ufoiptv.com/channels/sd-nbt.jpg",
-                                                   url:"https://doomovie.com/live/nbt",referer:"https://www.ballsoi8.com" 
-                                               },
-                                             {
-                                                 name:"True4U",image:"https://images.ufoiptv.com/channels/sd-24u.jpg",
-                                                 url:"https://cdn1.ufalive.center/app/true4u/playlist.m3u8",referer:"https://dooballz.com/"
-                                             },
-                                            {
-                                               name:"TNN16",image:"https://images.ufoiptv.com/channels/sd-tnn24.jpg",
-                                               url:"https://doomovie.com/live/tnn24",referer:"" 
-                                            },
-                                           {
-                                              name:"GMM25",image:"https://images.ufoiptv.com/channels/sd-gmmchannel.jpg",
-                                              url:"https://cdn1.ufalive.center/app/gmm25/playlist.m3u8",referer:"https://dooballz.com/"
-                                          },
-                                         {
-                                              name:"NationTV",image:"https://images.ufoiptv.com/channels/sd-nation.jpg",
-                                              url:"https://cdn1.ufalive.center/app/nationtv/playlist.m3u8",referer:"https://dooballz.com/"
-                                          },
-                                         {
-                                             name:"CH8",image:"https://images.ufoiptv.com/channels/ch8hd.jpg",
-                                             url:"https://doomovie.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-8",referer:"" 
-                                          },
-                                         {
-                                              name:"NewTV",image:"https://images.ufoiptv.com/channels/sd-new.jpg",
-                                              url:"https://tv.trueid.net/embed/newtv?autoplay=yes&nopageview=yes",referer:"https://dooballz.com/"
-                                          },
-                                         {
-                                              name:"Workpoint",image:"https://images.ufoiptv.com/channels/hd-workpoint.jpg",
-                                              url:"https://cdn1.ufalive.center/app/workpoint/playlist.m3u8",referer:"https://dooballz.com/"
-                                         },
-                                        {
-                                             name:"Mono29",image:"https://images.ufoiptv.com/channels/hd-mono.jpg",
-                                            url:"https://cdn1.ufalive.center/app/mono29/playlist.m3u8",referer:"https://dooballz.com/" 
-                                         },
-                                        {
-                                            name:"Trueplookpanya",image:"https://images.ufoiptv.com/channels/sd-tppy.jpg",
-                                            url:"http://sodaza.tk/freetv/true.php?ch=trueplookpanya"
-                                       },
-                                      {
-                                          name:"TNN16",image:"https://images.ufoiptv.com/channels/sd-tnn24.jpg",
-                                          url:"http://sodaza.tk/freetv/true.php?ch=tnn",referer:""},
-                                        ]
-                                   },
-                                    { 
-                                        "name": "สารคดี", "image": "https://i.imgur.com/iMJQv90.png", 
-                                        "stations": [
-                                        {
-                                            name:"HistoryHD",image:"https://images.ufoiptv.com/channels/hd-history.jpg",
-                                            url:"https://player.we-play.tv/channel.php?name=history&cate=documentary",referer:"https://player.we-play.tv"
-                                    },
-                                       {
-                                           name:"H2",image:"https://images.ufoiptv.com/channels/hd-history2.jpg",
-                                           url:"https://player.we-play.tv/channel.php?name=h2&cate=documentary",referer:"https://player.we-play.tv"
-                                     },
-                                   {
-                                         name:"DiscoveryAsia",image:"https://images.ufoiptv.com/channels/hd-discovery.jpg",
-                                        url:"https://player.we-play.tv/channel.php?name=disasia&cate=documentary",referer:"https://player.we-play.tv"
-                                   },
-                                   {
-                                        name:"DiscoveryChannel",image:"https://images.ufoiptv.com/channels/sd-discovery.jpg",
-                                        url:"https://player.we-play.tv/channel.php?name=discovery&cate=documentary",referer:"https://player.we-play.tv"
-                                } ,
-                                {
-                                      name:"AnimalPlanet",image:"https://images.ufoiptv.com/channels/sd-animalplanet.jpg",
-                                      url:"https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",referer:"https://player.we-play.tv"
-                                },
-                               {
-                                    name:"NationalGeographic",image:"https://images.ufoiptv.com/channels/hd-natgeo.jpg",
-                                   url:"https://player.we-play.tv/channel.php?name=natgeo&cate=documentary", referer:"https://player.we-play.tv"
-                                  },
-                               {
-                                   name:"NatGeoWild",image:"https://images.ufoiptv.com/channels/hd-natgeowild.jpg",
-                                   url:"https://player.we-play.tv/channel.php?name=natwild&cate=documentary",  referer:"https://player.we-play.tv"
-                                }, 
-                               {
-                                   name:"Samrujlok",image:"https://images.ufoiptv.com/channels/hd-samrujlok.jpg",
-                                   url:"http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8",referer:""
-                              },
-                              {
-                                   name:"BBCEarth",image:"https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
-                                   url:"https://player.we-play.tv/channel.php?name=bbc-earth&cate=documentary",referer:"https://player.we-play.tv"
-                              },
-                               {
-                                     name:"BBCLifestyle",image:"https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",
-                                     url:"https://player.we-play.tv/channel.php?name=bbc-lifestyle&cate=documentary",referer:"https://player.we-play.tv"
-                               },
-                              {
-                                   name:"LoveNature4K",image:"https://i.imgur.com/XWDSCI7.png",
-                                   url:"https://player.we-play.tv/channel.php?name=lovenature&cate=documentary",referer:"https://player.we-play.tv"
-                              },
-                              {
-                                  name:"TRUEEXPLOREWILD",image:"https://images.ufoiptv.com/channels/sd-expwild.jpg",
-                                 url:"https://www.streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",referer:"https://freetvdd.com/"
-                              }, 
-                             {
-                                  name:"TRUEEXPLORELIFE",image:"https://images.ufoiptv.com/channels/sd-explife.jpg",
-                                  url:"https://www.streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8",referer:"https://freetvdd.com/"
-                             },
-                             {
-                                 name:"TRUEEXPLORESCI",image:"https://images.ufoiptv.com/channels/sd-expsci.jpg",
-                                url:"https://www.streaming.livescorethai.net/iptv/sd-expsci.stream/playlist.m3u8",referer:"https://freetvdd.com/"
-                            },
-                            {
-                                name:"SangJanTV",image:"https://i.imgur.com/CsU6zV4.png",
-                                url:"https://www.fwiptv.cc/player_demo.php?channel=60254",referer:""
-                             },
-                           {
-                               name:"ThinTai",image:"https://i.imgur.com/JPEEKVj.png",
-                              url:"https://www.fwiptv.cc/player_demo.php?channel=61235",referer:""
-                          },
-                        {
-                               name:"WorldAnimal",image:"https://i.imgur.com/1QE2zm2.png",
-                              url:"http://203.154.243.89:1201",referer:""
-                      },
-                       {
-                             name:"Hisport",image:"https://i.imgur.com/q4F2kjB.png",url:"http://203.154.243.89:11203",referer:""
-                     },
-                     {
-                          name:"PSI",image:"https://i.imgur.com/c6Hl1yV.png",
-                         url:"https://www.fwiptv.cc/player_demo.php?channel=9039",referer:""
-                      },
-                   {
-                       "name": "สารคดี สำรวจโลก","image": "https://fewallaround.files.wordpress.com/2012/09/329468_10151024352777226_962601679_o2.jpg",
-                       "url":"https://www.youtube.com/embed?v=4ZJAc6F2284&list=PLoQ0EVnVVXcmq8YLbYcvQpSFm4XnhaI-g",
-                         "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36","embed": "true"
-                   },
-                 {
-                       "name": "แบร์กิล","image": "https://mango.dooneetv.com/files/2018/1518431567.jpg",
-                       "url": "https://www.youtube.com/embed?v=6QyL_0iDVGc&list=PLzQQ-4tXZQ1J9swditpDZr0W0XfM8fI_w",
-                       "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36",
-                        "embed": "true"}, 
-                     ] 
-                 }
-          
-                       
+                                                            }
+                                                            
+                                                            
+                                                          ]
+                                                          
+                                                          }
+                                                           ]
+                                                        }
+                                                            
+                                                            
