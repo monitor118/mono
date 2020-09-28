@@ -1,25 +1,4 @@
 {
       'name': 'monitor','author': 'nopalito',
        'image':'https://resources.matcha-jp.com/resize/720x2000/2017/01/18-13986.jpeg',
-         'url': '',
-                  'groups': [
-                      {
-                          "name": "ทีวีออนไลน์", "author": "monitor",                                        
-                         "image":"https://img.apksum.com/9b/biopic.beautystorestudio.livetvchannelsguide/1.2/icon.png",
-                            "url": "", 
-                                "groups": [
-                                                           { 
-                                                                 "name": "ดิจิตอลทีวี", "image": "https://i.imgur.com/B0XTMoo.png",                                                                         
-                                                                 "info": "", 
-                                                                      "stations": [ {name:"CH3HD",image:"https://images.ufoiptv.com/channels/ch3hd.jpg",
-                                                                       url:"https://cdn1.ufalive.center/app/ch3hd/playlist.m3u8",referer:"https://dooballz.com/"
-                                                            },
-                                                            
-                                                            
-                                                               ],
-                                                          
-                                                             },
-                                                           ],
-                                                        }
-                                                            
-                                                            
+  }
