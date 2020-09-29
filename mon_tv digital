@@ -1,0 +1,101 @@
+{
+		"name": "ดิจิตอล ทีวี",
+	
+	"author": "nopalito",
+	
+	"image":"https://www.hs3lzx.com/wp-content/uploads/2014/04/doodee-sticker.png",
+
+		"url": "",
+		
+
+		"stations":[
+                    {
+			    "name": "CH3",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-ch3.png",
+                            "url": "https://player.we-play.tv/channel.php?name=ch3hd&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    
+		    {
+			    "name": "CH5",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-ch5.png",
+                            "url": "https://player.we-play.tv/channel.php?name=ch5hd&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },
+				   
+		    {
+			    "name": "CH7",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-ch7.png",
+                            "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "MCOT HD",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-mcot.png",
+                            "url": "https://player.we-play.tv/channel.php?name=mcothd&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "Thai PBS",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-tpbs.png",
+                            "url": "https://player.we-play.tv/channel.php?name=thaipbs&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "PPTV HD",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+                            "url": "https://player.we-play.tv/channel.php?name=pptv&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },
+				   
+
+		    {
+			    "name": "ไทยรัฐ",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-thairath.png",
+                            "url": "https://player.we-play.tv/channel.php?name=thairathtv&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },				   
+
+		    {
+			    "name": "ONE HD",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-gmmone.png",
+                            "url": "https://player.we-play.tv/channel.php?name=one31&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },	
+				   
+		    {
+			    "name": "Amarin TV",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-amarin.png",
+                            "url": "https://player.we-play.tv/channel.php?name=amarintv&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },	
+
+		    {
+			    "name": "GMM25",
+                            "image": "https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",
+                            "url": "https://player.we-play.tv/channel.php?name=gmm25&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "Workpoint",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
+                            "url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "MONO29",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-mono.png",
+                            "url": "https://player.we-play.tv/channel.php?name=mono29&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		
+		
+		
+    ]
+}
