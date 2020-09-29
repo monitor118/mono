@@ -1,0 +1,171 @@
+{
+		"name": "กีฬา",
+	
+	"author": "nopalito",
+	
+	"image":"https://digitalgoa.com/wp-content/uploads/2016/12/sports-in-Goa.png",
+
+		"url": "",
+		
+
+		"stations":[
+                   
+			 
+		    {
+			    "name": "True Premier Football HD 1",
+                            "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
+                            "url": "https://player.we-play.tv/channel.php?name=true-epl-1&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "True Premier Football HD 2",
+                            "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tpf2&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },				   
+
+		    {
+			    "name": "True Premier Football HD 3",
+                            "image": "https://overseer.blackboxsys.net/images/png/epl-3.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tpf3&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "True Premier Football HD 4",
+                            "image": "https://overseer.blackboxsys.net/images/png/epl-4.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tpf4&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+				   
+		    {
+			    "name": "True Premier Football HD 5",
+                            "image": "https://overseer.blackboxsys.net/images/png/epl-5.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tpf5&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "True Sport HD",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-tsport1.png",
+                            "url": "https://player.we-play.tv/channel.php?name=thd1&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+		    {
+			    "name": "True Sport HD2",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-tsport2.png",
+                            "url": "https://player.we-play.tv/channel.php?name=thd2&cate=sports",
+		            "referer": "https://player.we-play.tv"
+ 		},
+		
+		
+			    {
+			    "name": "True Sport HD3",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-tsport3.png",
+                            "url": "https://player.we-play.tv/channel.php?name=thd3&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },	
+		
+			    {
+			    "name": "True Sport 2",
+                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport2.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tsp2&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },		
+		
+			    {
+			    "name": "True Sport 5",
+                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tsp5&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },		
+		
+			    {
+			    "name": "True Sport 6",
+                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport6.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tsp6&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },		
+		
+			    {
+			    "name": "True Sport 7",
+                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+{name:"ThaiThai",image:"https://www.doofree88.com/storage/live/0fOZOKWgUnuhwZqZbTD0gX3giN8qXydJoSwA4ml5.png",url:"https://doomovielive.b-cdn.net/sd-thaithai_480/index.m3u8",referer:"https://doomovie.com/"},				   
+		
+			    {
+			    "name": "FOX Sports HD",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-foxsports1.png",
+                            "url": "https://player.we-play.tv/channel.php?name=fox1&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+			    {
+			    "name": "FOX Sports 2",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-foxsports2.png",
+                            "url": "https://player.we-play.tv/channel.php?name=fox2&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+				   
+	    {
+			    "name": "FOX Sports 3",
+                            "image": "https://overseer.blackboxsys.net/images/png/sd-foxsports3.png",
+                            "url": "https://player.we-play.tv/channel.php?name=fox3&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+	    {
+			    "name": "beIN SPORTS 1",
+                            "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
+                            "url": "https://player.we-play.tv/channel.php?name=bein1&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+	    {
+			    "name": "beIN SPORTS 2",
+                            "image": "https://overseer.blackboxsys.net/images/png/epl-bein2.png",
+                            "url": "https://player.we-play.tv/channel.php?name=bein2&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+
+	    {
+			    "name": "Golf Channel",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-golf.png",
+                            "url": "https://player.we-play.tv/channel.php?name=golf&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+	    {
+			    "name": "True Tennis",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-tennis.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tennis&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+	    {
+			    "name": "NBA",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-nba.png",
+                            "url": "https://player.we-play.tv/channel.php?name=nba&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+				   
+	    {
+			    "name": "Motor Vision",
+                            "image": "https://en.motorvision.tv/wp-content/uploads/2017/10/motorvision-tv-logo-2017.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=motor-vision&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },		
+		
+	    {
+			    "name": "NFL Network",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
+                            "url": "https://player.we-play.tv/channel.php?name=nfl&cate=sports",
+		            "referer": "https://player.we-play.tv"
+                   },
+		
+	
+		
+    ]
+}
