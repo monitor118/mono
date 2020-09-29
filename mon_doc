@@ -1,0 +1,122 @@
+{
+		"name": "monitor",
+	
+	"author": "nopalito",
+	
+	"image":"https://www.documentary.org/images/magazine/2004/SchoolDoc_Sep2004.jpg",
+
+		"url": "",
+		
+
+		"stations":[
+                    {
+		
+
+		    {
+			    "name": "Discovery Asia",
+                            "image": "https://images.ufoiptv.com/channels/hd-discovery.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Discovery Channel",
+                            "image": "https://images.ufoiptv.com/channels/sd-discovery.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=discovery&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Animal Planet",
+                            "image": "https://images.ufoiptv.com/channels/sd-animalplanet.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "National Geographic",
+                            "image": "https://images.ufoiptv.com/channels/hd-natgeo.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=natgeo&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Nat Geo Wild",
+                            "image": "https://images.ufoiptv.com/channels/hd-natgeowild.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=natwild&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Samrujlok",
+                            "image": "https://images.ufoiptv.com/channels/hd-samrujlok.jpg",
+                            "url": "http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "BBC Earth",
+                            "image": "https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=bbc-earth&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "BBC Lifestyle",
+                            "image": "https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=bbc-lifestyle&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "LoveNature 4K",
+                            "image": "https://i.imgur.com/XWDSCI7.png",
+                            "url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "TRUE EXPLORE WILD",
+                            "image": "https://images.ufoiptv.com/channels/sd-expwild.jpg",
+                            "url": "https://www.streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
+		            "referer": "https://freetvdd.com/"
+                    },
+		    {
+			    "name": "TRUE EXPLORE LIFE",
+                            "image": "https://images.ufoiptv.com/channels/sd-explife.jpg",
+                            "url": "https://www.streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8",
+		            "referer": "https://freetvdd.com/"
+                    },
+		    {
+			    "name": "TRUE EXPLORE SCI",
+                            "image": "https://images.ufoiptv.com/channels/sd-expsci.jpg",
+                            "url": "https://www.streaming.livescorethai.net/iptv/sd-expsci.stream/playlist.m3u8",
+		            "referer": "https://freetvdd.com/"
+                    },
+		    
+		   
+		    {
+			    "name": "World Animal",
+                            "image": "https://i.imgur.com/1QE2zm2.png",
+                            "url": "http://203.154.243.89:1201",
+		            "referer": ""
+                    },
+		    {
+			    "name": "PSI",
+                            "image": "https://i.imgur.com/c6Hl1yV.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=9039",
+		            "referer": ""
+                    },				
+				
+ {
+			    "name": "BLUEANT ENTERTAINMENT",
+                            "image": "https://i.imgur.com/S6pcUMa.png",
+                            "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "BLUEANT EXTREME",
+                            "image": "https://i.imgur.com/QHTy31a.png",
+                            "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True X-ZYTE",
+                            "image": "https://i.imgur.com/C4zXAY5.png",
+                            "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		  
+    ]
+}
