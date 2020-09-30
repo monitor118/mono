@@ -106,8 +106,8 @@
 			{
 			    "name": "True Sport 7",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
-                            "url":"http://tv10.chang55.com/ch07-tsp7/playlist.m3u8",
-			    "referer":"",
+                            "url":"http://tv10.chang55.com/ch07-tsp7/playlist.m3u8"
+			   // "referer":"",
 			    //"url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports",
 		            //"referer": "https://player.we-play.tv"
                    	},
