@@ -83,7 +83,8 @@
 		    {
 			    "name": "Workpoint",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
-                            "url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
+                             "url" :"http://www.onlinethailand.net/tv_online/Workpoint-TV.php"
+		       //"url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
 		            "referer": "https://player.we-play.tv"
                    },
 
