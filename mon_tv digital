@@ -84,7 +84,7 @@
 			    "name": "Workpoint",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
                              "url":  "https://www.workpointtv.com/live-stream-page/"
-			     "refer":"https://workpoint.co.th"
+			     "referer":"https://workpoint.co.th"
 			   //"url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
 		           //"referer": "https://player.we-play.tv"
                    },
