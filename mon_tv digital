@@ -83,10 +83,10 @@
 		    {
 			    "name": "Workpoint",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
-                             "url" :"http://www.onlinethailand.net/tv_online/Workpoint-TV.php"
-			      "referer":"http://www.onlinethailand.net/tv_online/"
-		            //"url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
-		           //"referer": "https://player.we-play.tv"
+                            // "url" :"http://www.onlinethailand.net/tv_online/Workpoint-TV.php"
+			    //  "referer":"http://www.onlinethailand.net/tv_online/"
+		            "url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
+		           "referer": "https://player.we-play.tv"
                    },
 
 		    {
