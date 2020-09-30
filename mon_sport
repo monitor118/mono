@@ -9,11 +9,13 @@
 		
 
 		"stations":[
-                    	{
+              
+	
+	      		{
 		           "name" :"Snooker World",
 			   "image":"https://wst.tv/wp-content/uploads/2015/06/WS-logo.jpg",
 			   "url":"http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch95.stream/playlist.m3u8",
-			   "referer":"http://pglivetv.com/"  
+			   "referer":"http://pglivetv.com"  
                        	},
 
                        	{       
