@@ -83,8 +83,10 @@
 		    {
 			    "name": "Workpoint",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
-                             "url":  "https://www.workpointtv.com/live-stream-page/",
-			     "referer":"https://workpoint.co.th"
+			      "url": "http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdwpchxjp.stream/playlist.m3u8",
+			      "referer":"http://pglivetv.com/"
+                            // url:"https://cdn1.ufalive.center/app/workpoint/playlist.m3u8",
+			    // referer:"https://dooballz.com/"
 			   //"url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
 		           //"referer": "https://player.we-play.tv"
                    },
