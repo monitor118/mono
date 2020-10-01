@@ -60,10 +60,12 @@
                    },				   
 
 		    {
-			    "name": "ONE HD",
+			   //http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdonepxjp.stream/playlist.m3u8|Referer=http://pglivetv.com/
+			   
+			   "name": "ONE HD",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-gmmone.png",
-                            "url": "https://player.we-play.tv/channel.php?name=one31&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                            "url": "http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdonepxjp.stream/playlist.m3u8",
+		            "referer": "http://pglivetv.com"
                    },	
 				   
 		    {
