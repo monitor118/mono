@@ -76,11 +76,14 @@
 		    {
 			    "name": "BBC Earth",
                             "image": "https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
-                        //"url": "https://player.we-play.tv/channel.php?name=bbc-earth&cate=documentary",
-			"url":"https://drive.google.com/file/d/1f09ynnf1kbZrIj_DHx_RhjCnPp6XMh9Y/view",
-			"referer": ""
+                            "url": "https://player.we-play.tv/channel.php?name=bbc-earth&cate=documentary",
+			    "referer": "https://player.we-play.tv"
 
-		            //"referer": "https://player.we-play.tv"
+			//"url":"https://drive.google.com/file/d/1f09ynnf1kbZrIj_DHx_RhjCnPp6XMh9Y/view",
+			//"referer": ""
+
+		            
+
                     },
 		    {
 			    "name": "BBC Lifestyle",
