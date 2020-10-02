@@ -85,8 +85,8 @@
 		    {
 			    "name": "Workpoint",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
-			      "url": "http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdwpchxjp.stream/playlist.m3u8",
-			      "referer":"http://pglivetv.com/"
+			      "url": "https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/workpoint/",
+			      "referer":"http://freetvdd.com"
                             // url:"https://cdn1.ufalive.center/app/workpoint/playlist.m3u8",
 			    // referer:"https://dooballz.com/"
 			   //"url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
