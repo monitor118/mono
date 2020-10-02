@@ -78,8 +78,10 @@
 		    {
 			    "name": "BBC Earth",
                             "image": "https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
-                            "url": "https://player.we-play.tv/channel.php?name=bbc-earth&cate=documentary",
-			    "referer": "https://player.we-play.tv"
+			    "url":"https://freetvdd.com/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/bbc-earth/", 	                           
+			    "referer":"https://freetvdd.com"
+			   //"url": "https://player.we-play.tv/channel.php?name=bbc-earth&cate=documentary",
+			    //"referer": "https://player.we-play.tv"
 
 			//"url":"https://drive.google.com/file/d/1f09ynnf1kbZrIj_DHx_RhjCnPp6XMh9Y/view",
 			//"referer": ""
