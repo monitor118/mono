@@ -38,7 +38,16 @@
                             "url": "https://player.we-play.tv/channel.php?name=natgeo&cate=documentary",
 		            "referer": "https://player.we-play.tv"
                     },
-		    
+		    		
+		    {
+			    "name": "Samrujlok",
+                            "image": "https://images.ufoiptv.com/channels/hd-samrujlok.jpg",
+			    "url":"https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8",
+                           //  "url":"https://www.doomovie-hd.com/?r=tv_view&id=130",
+			   //"url": "http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8",
+		            "referer": "https://www.livedoomovies.com"
+			    
+                    },
 		    {
 			    "name": "Discovery Channel",
                             "image": "https://images.ufoiptv.com/channels/sd-discovery.jpg",
@@ -66,16 +75,7 @@
                     },
 
 	
-		
-		    {
-			    "name": "Samrujlok",
-                            "image": "https://images.ufoiptv.com/channels/hd-samrujlok.jpg",
-			    "url":"https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8",
-                           //  "url":"https://www.doomovie-hd.com/?r=tv_view&id=130",
-			   //"url": "http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8",
-		            "referer": "https://www.livedoomovies.com"
-			    
-                    },
+
 		    {
 			    "name": "BBC Earth",
                             "image": "https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
