@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://wst.tv/wp-content/uploads/2015/06/WS-logo.jpg",SNOOKER WORLD
-http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch95.stream/playlist.m3u8|Referer=http://pglivetv.com/
+//http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch95.stream/playlist.m3u8|Referer=http://pglivetv.com/
+https://api.worldwidetv.club/kodi/q0/storage28/md0/Vol3/2015/2012.(2009).m3u8
 
 
 #EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://staticg.sportskeeda.com/wp-content/uploads/2016/09/36561eef964a99ba46bd614dd310f419-1474293354-800.jpg",WWE
