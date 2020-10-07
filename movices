@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.mubis.es%2Fpeliculas%2F2012&psig=AOvVaw3b06jKQ3N-56B_G3XruWpY&ust=1602131613678000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCIoMDToewCFQAAAAAdAAAAABAV",2012
+#EXTINF:-1 group-title="ช่องหนัง" tvg-logo="http://www.mubis.es/media/movies/527/63790/2012-original.jpg",2012
 
 https://api.worldwidetv.club/kodi/q0/storage28/md0/Vol3/2015/2012.(2009).m3u8
