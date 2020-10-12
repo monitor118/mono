@@ -78,7 +78,7 @@
 			    "name": "Voice TV",
                             "image": "https://teevee-hd.com/img/voicetv.png",
                             "url": "https://edge6a.v2h-cdn.com//appt3//WOWSH.stream_720p//chunklist_w142679599.m3u8",
-		            //"referer": "https://player.we-play.tv"
+		            "referer": "https://edge6a.v2h-cdn.com"
                    },	
 		    {
 			    "name": "GMM25",
