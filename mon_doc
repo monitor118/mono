@@ -142,6 +142,12 @@
                             "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/",
 		            "referer": "https://player.we-play.tv"
                     },
+		    {
+		  	    "name": "History",
+                            "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
+                            "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-hd/",
+		            "referer": "https://player.we-play.tv"
+                    },
 		
 		 
 	 
