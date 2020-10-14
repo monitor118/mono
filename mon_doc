@@ -153,13 +153,13 @@
 		  	    "name": "H2(1)",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
                             "url": "http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8",
-		            "referer": ""
+		            "referer": "http://dootvthai-hd.com"
                     },
 		    {
 		  	    "name": "History(1)",
                             "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
                             "url": " http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8",
-		            "referer": ""
+		            "referer": "http://dootvthai-hd.com"
                     }, 
 	 
 		
