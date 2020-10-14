@@ -101,8 +101,10 @@
 		    {
 			    "name": "MONO29",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-mono.png",
-                            "url": "https://player.we-play.tv/channel.php?name=mono29&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                     	    "url"  :"https://www.adintrend.tv/hd/ch38?t=live",
+			    "referer":"https://www.adintrend.tv",	     
+		    // "url": "https://player.we-play.tv/channel.php?name=mono29&cate=digitaltv",
+		    //        "referer": "https://player.we-play.tv"
                    },
 
 		   {
