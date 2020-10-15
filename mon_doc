@@ -135,27 +135,15 @@
                             "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment",
 		            "referer": "https://player.we-play.tv"
                     },
-		    {
-		  	    "name": "H2",
-                            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                            "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/h2/",
-		            "referer": "https://player.we-play.tv"
-                    },
-		    {
-		  	    "name": "History",
-                            "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
-                            "url": "https://www.we-play.tv/videos/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-hd/",
-		            "referer": "https://player.we-play.tv"
-                    },
-		
+	
 		   {
-		  	    "name": "H2(1)",
+		  	    "name": "H2",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
                             "url": "http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8",
 		            "referer": "http://dootvthai-hd.com"
                     },
 		    {
-		  	    "name": "History(1)",
+		  	    "name": "History",
                             "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
                             "url": " http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8",
 		            "referer": "http://dootvthai-hd.com"
