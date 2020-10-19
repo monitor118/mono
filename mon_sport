@@ -225,8 +225,19 @@
 			     "image":"https://il.mahidol.ac.th/upload/img/2020-08-16-090017.jpg",
 			     "url":"http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600",     
 			     "referer":"http://zabava-htlive.cdn.ngenix.net"
-			 }
-
+			 },
+			 {   
+			    "name":"Eursport 48 4k",
+			     "image":"https://il.mahidol.ac.th/upload/img/2020-08-16-090017.jpg",
+			     "url":"http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-178200",     
+			     "referer":"http://zabava-htlive.cdn.ngenix.net"
+			 },
+			 {
+			     "name":"Eursport 50 4k",
+			     "image":"https://il.mahidol.ac.th/upload/img/2020-08-16-090017.jpg",
+			     "url":"http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000",     
+			     "referer":"http://zabava-htlive.cdn.ngenix.net"
+			 },
 
 
 	
