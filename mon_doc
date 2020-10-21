@@ -80,10 +80,8 @@
 		    {
 			    "name": "BBC Earth",
                             "image": "https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
-			   "url":"http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8", 	                           
-			   // "referer":"https://freetvdd.com"
-			 //  "url": "https://player.we-play.tv/channel.php?name=bbc-earth&cate=documentary",
-			    "referer": ""
+                 	    "url":"https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/playlist.m3u8", 	                           
+			    "referer": "https://doofootball.livestream-cdn.com"
 
 
 
@@ -93,8 +91,8 @@
 		    {
 			    "name": "BBC Lifestyle",
                             "image": "https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",
-                            "url": "https://player.we-play.tv/channel.php?name=bbc-lifestyle&cate=documentary",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/playlist.m3u8",
+		            "referer": "https://doofootball.livesstream-cdn.com"
                     },
 		    
 		    {
