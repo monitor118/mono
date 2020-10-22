@@ -39,8 +39,8 @@
 		    {
 			    "name": "National Geographic",
                             "image": "https://images.ufoiptv.com/channels/hd-natgeo.jpg",
-                            "url": "https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/playlist.m3u8",
-		            "referer": "https://doofootball.livestream-cdn.com"
+                            "url": http://103.253.72.107:9997/natgeo/tracks-v1a1/mono.m3u8",
+		            "referer": ""
                     },
 		    		
 		    {
