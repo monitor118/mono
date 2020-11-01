@@ -27,6 +27,17 @@
 			   "referer": "http://cdnak19.cast4u.info"
 			  // http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 	               	},
+          		{   
+			   "name":"WWE Network",
+		           "image":"https://pmcvariety.files.wordpress.com/2020/07/wwe-logo.jpg?w=600",
+			   "url":"https://ustvgo.tv/wwe-network/",
+			   "referer": ""			
+			},
+			
+			
+			
+			
+			
 
                         {
 			    "name": "True Premier Football HD 1",
