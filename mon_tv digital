@@ -61,7 +61,8 @@
 
 		    {
 			   //http://pglivetv.com/test_live.php?link=https://tv5.chang55.com:448/live2/tvdonepxjp.stream/playlist.m3u8|Referer=http://pglivetv.com/
-			   
+			 
+			 
 			   "name": "ONE HD",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-gmmone.png",
                             "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f",
