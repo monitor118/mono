@@ -17,8 +17,9 @@
                             	"url": "https://api.worldwidetv.club/kodi/q0/storage28/md0/Vol3/2015/2012.(2009).m3u8",
 		            	"referer": ""
                     	},
-		   	{	"name":"Peninsula ฝ่านรกซอมบี้คลั่ง",
-				"image":https://mpics.mgronline.com/pics/Images/563000007201607.JPEG",
+		   	{	
+				"name":"Peninsula ฝ่านรกซอมบี้คลั่ง",
+				"image":"https://mpics.mgronline.com/pics/Images/563000007201607.JPEG",
 				"url":"https://www.we-play.tv/watching/movie/peninsula-2020",
 				"referer":"https://www.we-play/"
 			},				
