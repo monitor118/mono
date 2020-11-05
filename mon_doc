@@ -39,8 +39,11 @@
 		    {
 			    "name": "National Geographic",
                             "image": "https://images.ufoiptv.com/channels/hd-natgeo.jpg",
-                            "url": "https://www.we-play.tv/watching/tv/national-geographic",
-		            "referer": "https://www.we-play.tv"  
+			    "url":"https://doofootball.livestream-cdh.com/iptv/hd-natgeo.stream/playlist.m3u8",
+			    "referer":"https://doofootball.livestream-cdh.com"
+                            //"url": "https://www.we-play.tv/watching/tv/national-geographic",
+		            //
+			    "referer": "https://www.we-play.tv"  
                     },
 		    		
 		    {
