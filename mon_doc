@@ -55,7 +55,13 @@
                             "url": "https://player.we-play.tv/channel.php?name=discovery&cate=documentary",
 		            "referer": "https://player.we-play.tv"
                     },		    
-		    
+		    {  
+			    "name": "Waku Waku Japan",
+			    "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
+			    "url": "https://we-play.tv/watching/tv/waku-waku-japan",
+			    "referer": "https://we-play.tv/"
+		    },		
+		
 		    {
 			    "name": "World Animal",
                             "image": "https://i.imgur.com/1QE2zm2.png",
