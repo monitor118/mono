@@ -101,20 +101,20 @@
 		    {
 			    "name": "TRUE EXPLORE WILD",
                             "image": "https://images.ufoiptv.com/channels/sd-expwild.jpg",
-                            "url": "https://www.streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
-		            "referer": "https://freetvdd.com/"
+                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8",
+		            "referer": "https://doofootball.livestream-cdn.com"
                     },
 		    {
 			    "name": "TRUE EXPLORE LIFE",
                             "image": "https://images.ufoiptv.com/channels/sd-explife.jpg",
-                            "url": "https://www.streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8",
-		            "referer": "https://freetvdd.com/"
+                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8",
+		            "referer": "https://doofootball.livestream-cdn.com"
                     },
 		    {
 			    "name": "TRUE EXPLORE SCI",
                             "image": "https://images.ufoiptv.com/channels/sd-expsci.jpg",
-                            "url": "https://www.streaming.livescorethai.net/iptv/sd-expsci.stream/playlist.m3u8",
-		            "referer": "https://freetvdd.com/"
+                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8",
+		            "referer": "https://doofootball.livestream-cdn"
                     },
 		    
 		   				
