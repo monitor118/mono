@@ -111,8 +111,8 @@
 		    {
 			    "name": "TRUE EXPLORE LIFE",
                             "image": "https://images.ufoiptv.com/channels/sd-explife.jpg",
-                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8",
-		            "referer": "https://doofootball.livestream-cdn.com"
+                            "url": "http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8",
+		            "referer": ""
                     },
 		    {
 			    "name": "TRUE EXPLORE SCI",
