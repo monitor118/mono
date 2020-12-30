@@ -55,6 +55,26 @@
                             "url": "https://player.we-play.tv/channel.php?name=discovery&cate=documentary",
 		            "referer": "https://player.we-play.tv"
                     },		    
+		    	    {
+			    "name": "Discovery Asia",
+                            "image": "https://images.ufoiptv.com/channels/hd-discovery.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		   {
+		  	    "name": "H2",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
+                           // "url": "https://stream1.xn--l3cm7a5azd.live/02_H2HD_720p/chunklist.m3u8",
+         	           // "referer": "https://stream1.xn--l3cm7a5azd.live"
+			    "url": "https://www.we-play.tv/watching/tv/history-h2",
+		            "referer": "https://www.we-play.tv"
+                    },
+		    {
+		  	    "name": "History",
+                            "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
+                            "url": " https://www.we-play.tv/watching/tv/history-hd",
+		            "referer": "https://www.we-play.tv"
+                    }, 
 		    {  
 			    "name": "Waku Waku Japan",
 			    "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
@@ -75,26 +95,14 @@
 		     //"url": "https://www.fwiptv.cc/player_demo.php?channel=9039",
 		            "referer": ""
                     },		
-		    {
-			    "name": "Discovery Asia",
-                            "image": "https://images.ufoiptv.com/channels/hd-discovery.jpg",
-                            "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
-		            "referer": "https://player.we-play.tv"
-                    },
-
 	
-
 		    {
 			    "name": "BBC Earth",
                             "image": "https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
                  	    "url":"https://www.doomovie-hd.com/?r=tv_view&id=52",
 			    //"url":"https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8", 	                           
 			    "referer": "https://www.doomovie-hd.com"
-
-				
-
-		            
-
+         
                     },
 		    {
 			    "name": "BBC Lifestyle",
@@ -142,20 +150,6 @@
 		            "referer": "https://player.we-play.tv"
                     },
 	
-		   {
-		  	    "name": "H2",
-                            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                           // "url": "https://stream1.xn--l3cm7a5azd.live/02_H2HD_720p/chunklist.m3u8",
-         	           // "referer": "https://stream1.xn--l3cm7a5azd.live"
-			    "url": "https://www.we-play.tv/watching/tv/history-h2",
-		            "referer": "https://www.we-play.tv"
-                    },
-		    {
-		  	    "name": "History",
-                            "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
-                            "url": " https://www.we-play.tv/watching/tv/history-hd",
-		            "referer": "https://www.we-play.tv"
-                    }, 
 	 	    {	   
 			   "name": "Outdoor America",
       			    "image": "https://www.outdooramerica.com/wp-content/uploads/2020/04/Outdoor-America-logo-color.png",
