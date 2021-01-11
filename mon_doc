@@ -117,10 +117,11 @@
 		    {
 			    "name": "BBC Earth",
                             "image": "https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
-                 	      "url":"https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-earth/",
+                 	      "url":"https://doomovielive.b-cdn.net/sd-bbcearth_720/index.m3u8",
+			      "referer": "https://doomovie.com/"
 			   // "url":"https://www.doomovie-hd.com/?r=tv_view&id=52",
 			    //"url":"https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8", 	                           
-			    "referer": "https://freetvdd.com"
+			    //"referer": "https://freetvdd.com"
          
                     },
 		    {
