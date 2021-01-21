@@ -23,9 +23,10 @@
 		           "image":"https://1000logos.net/wp-content/uploads/2017/05/Emblem-WWE.jpg",
 		           //"url":"http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch96.stream/playlist.m3u8",
 			   //"referer": "http://pglivetv.com/"
-			   "url":"http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8",
-			   "referer": "http://cdnak19.cast4u.info"
-			  // http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+			   "url":"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
+			   "referer": "https://dooball66.com/",
+		            "playInNatPlayer": "true"
+			   // http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 	               	},
           		{   
 			   "name":"WWE Network",
