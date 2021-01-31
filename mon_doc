@@ -37,7 +37,8 @@
 		    
 		    {
 			    "name": "Animal Planet",
-                            "image": "https://images.ufoiptv.com/channels/sd-animalplanet.jpg",
+                           "imge":"https://1.bp.blogspot.com/-C0hs69_zP1g/XTPzL6yB9mI/AAAAAAABtbY/ozpj7Snxvh48PXyL7mxxDcnL8uF4aZ5aQCLcBGAs/s1600/animal%2Blogo.jpg",
+			  // "image": "https://images.ufoiptv.com/channels/sd-animalplanet.jpg",
                             "url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
 		            "referer": "https://player.we-play.tv"
                     },
