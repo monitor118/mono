@@ -1,3 +1,4 @@
+{
 "name": "ช่องภาพยนตร์",
 	
 	          "author": "monitor",
@@ -501,5 +502,5 @@
      "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
      "import": false
 },
-]
+  ]
 }
