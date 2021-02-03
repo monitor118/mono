@@ -5,42 +5,4 @@
 	       	   "image":"https://image.shutterstock.com/image-vector/online-cinema-background-movie-reel-600w-1064314817.jpg"",
                    "url": "https://raw.githubusercontent.com/monitor118/mono/master/cenima",
 		
-
-		"stations":[
-                    
-		             {
-                                "name":"Angela’s Christmas Wish อธิษฐานคริสต์มาสของแองเจิลลา 2020",
-                                "image":"https://movie222hd.com/wp-content/uploads/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-402x582.jpg",
-                                "url"  :"https://p2p.nazeemovie.com/files/d42f91b65bc45b7d79f5e903aa26e2d1_720p.mp4.m3u8",
-                                "referer":""
-                    		    
-		              },
-		              { 
-			       "name":"ARCTIC JUSTICE 2019",
-				 "image":"https://movie222hd.com/wp-content/uploads/ARCTIC-JUSTICE-2019.jpg",
-				 "url":"https://p2p.nazeemovie.com/files/11a1eeb7ae4372851cc92dbe76384901_720p.mp4.m3u8",
-				 "referer":""
-			      },	 
-			      {
-			        "name":"Jurassic World Camp Cretaceous จูราสสิค เวิลด์ ค่ายครีเทเชียส 2020",
-				"image":"https://movie222hd.com/wp-content/uploads/%E0%B8%88%E0%B8%B9%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84-%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%AA.jpg",
-				"url":"https://p2p.nazeemovie.com/files/5cb63f43dc25acc4a83a1f41fcb3a5cb_720p.m3u8",
-				"referer":""
-			      },
-			      {
-			        "name":"Transformers: War For Cybertron Trilogy Siege S1 2020",
-				"image":"https://movie222hd.com/wp-content/uploads/UNnuVhf2TqAu8IZ6Pn7UIPbFto8SzzLmGmRqlp.jpg",
-				"url":"https://p2p.nazeemovie.com/files/a7969ee9cc33c8e95316d369a02bf0b2_720p.m3u8",
-				"referer":""				
-			      },
-			      {
-			       "name":"Wonder Park สวนสนุกสุดอัศจรรย์",
-			       "image":"https://freemovie2020.com/images/movie/f397X8UBAvqPmexgkPbY2HKhXnw2GJZ1553413775.jpg",
-			       "url":"https://cdn-21.vip-streaming.com:30443/freemovie2020/2-ssd/movie/store-7/A_Wonder_Park_2019_US_720.mp4/playlist.m3u8",
-			       referer":""
-
-			      },
-           		    
-       
-           ]
-       }
+}
