@@ -1,0 +1,13 @@
+{"name":"ภาพยนตร์ OnLine",
+ "author": "monitor",
+"image":"https://thumbs.gfycat.com/AdorableImmediateGalapagostortoise-size_restricted.gif",
+"stations":
+[
+
+{
+    "name":"HBO",
+    "image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",
+    "url":"https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8" 
+},
+  ]
+}
