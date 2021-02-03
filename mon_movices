@@ -1,14 +1,13 @@
 
 {
-		"name": "ภาพยนตร์",
+		"name": "ภาพยนตร์ On Line",
 	
 	        "author": "monitor",
 	
-		"image":"https://www.kvhmobileworld.kvh.com/wp-content/uploads/2014/07/shutterstock_36402481.jpg",
-
-	 	"url": "https://raw.githubusercontent.com/monitor118/mono/master/mon_movices",
+		"image":"https://image.shutterstock.com/image-vector/online-cinema-background-movie-reel-600w-1064314817.jpg",
+                "url"  : "https://raw.githubusercontent.com/monitor118/mono/master/cenima",
 		
-
+		
 		"stations":[
                     
 		    	{
