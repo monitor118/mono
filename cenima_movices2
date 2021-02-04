@@ -63,7 +63,7 @@
 {
     "name":"Fox Family",
     "image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
-    "url": "https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8"
+    "url": "https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8",
 },
 {
     "name":"FOX​ MOVIE​",
@@ -98,7 +98,7 @@
 {
     "name":"Warner",
     "image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",
-    "url": "https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8"
+    "url": "https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8",
 },
 {
     "name":"SUN MOVIES",
@@ -118,7 +118,7 @@
 {
   "name":"SANOOK MOVIES",
   "image":"https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",
-  "url":"https://cdn6.goprimetime.info/feed//LC53/index.m3u8,
+  "url":"https://cdn6.goprimetime.info/feed//LC53/index.m3u8",
    
   },
   ]
