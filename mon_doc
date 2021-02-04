@@ -61,7 +61,7 @@
 			    "name": "Samrujlok",
                             "image": "https://bit.ly/33mwVq4",
 	        	    "url":" http://61.19.242.134/feed/LC8/index.m3u8",
-			      //"url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
+			    //"url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
 		            "referer": ""
 					    
                     },
@@ -176,7 +176,7 @@
  		   {	   
 			    "name": "Mysci",
       			    "image": "http://www.nextsteptv.com/mysci/wp-content/uploads/2018/03/myscihd-01-260361.png",
-      			    "url": "http://27.254.142.14/mysci.m3u8",
+      			    "url": "https://boxmovielive.com/live/mysci.m3u8",
       			    "playInNatPlayer": "true"
 			    
 			    
