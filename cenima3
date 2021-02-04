@@ -7,180 +7,124 @@
 		
 
 		"stations":[
-                    
-		 
- 		    		    	     
-		    {
+                  		 
+			{
 		    	"name":"HBO",
                         "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",		
 			"url":"https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8",
 		        "referer": ""
-		    },  
-		    {
-			    "name": "LoveNature 4K sub thai",
-                            "image": "https://i.imgur.com/XWDSCI7.png",
-                              "url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary",
-		          "referer": "https://player.we-play.tv"
-	
-			                      	    
-		    },
-		    
-		    {
-			    "name": "Animal Planet",
-                            "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-                            "url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
-		            "referer": "https://player.we-play.tv"
-                    },
+		    	},  
+		  	{
+    			"name":"HBO Family",
+     			"image":"https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",
+     			"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
+			},
+			{
+    			"name":"HBO Signature",
+    			"image":"="https://il.mahidol.ac.th/upload/img/2020-10-22-083214.jpg",
+    			"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
+			},
+			{
+    			"name":"Red by HBO",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",
+    			"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
+			},
+			{
+    			"name":"HBO Hits",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",
+    			"url":"http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8",
 
-    
-		    {
-			    "name": "Nat Geo Wild",
-                            "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                            "url": "https://player.we-play.tv/channel.php?name=natwild&cate=documentary",
-		            "referer": "https://player.we-play.tv"
-                    },
-	     
-		    {
-			    "name": "National Geographic",
-                            "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
-			    "url": "https://www.we-play.tv/watching/tv/national-geographic",
-		             "referer": "https://www.we-play.tv"  
-                    },
-		    		
-		    {
-			    "name": "Samrujlok",
-                            "image": "https://bit.ly/33mwVq4",
-	        	    "url":" http://61.19.242.134/feed/LC8/index.m3u8",
-			      //"url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
-		            "referer": ""
-					    
-                    },
-		    {
-			    "name": "Discovery Channel",
-                            "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
-                            "url": "https://player.we-play.tv/channel.php?name=discovery&cate=documentary",
-		            "referer": "https://player.we-play.tv"
-                    },		    
-		    	    {
-			    "name": "Discovery Asia",
-                            "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-                            "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
-		            "referer": "https://player.we-play.tv"
-                    },
-		   {
-		  	    "name": "H2",
-                            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                           // "url": "https://stream1.xn--l3cm7a5azd.live/02_H2HD_720p/chunklist.m3u8",
-         	           // "referer": "https://stream1.xn--l3cm7a5azd.live"
-			    "url": "https://www.we-play.tv/watching/tv/history-h2",
-		            "referer": "https://www.we-play.tv"
-                    },
-		    {
-		  	    "name": "History",
-                            "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
-                            "url": " https://www.we-play.tv/watching/tv/history-hd",
-		            "referer": "https://www.we-play.tv"
-                    }, 
-		    {  
-			    "name": "Waku Waku Japan",
-			    "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
-			    "url": "https://we-play.tv/watching/tv/waku-waku-japan",
-			    "referer": "https://we-play.tv/"
-		    },		
-		
-		    {
-			    "name": "PSI",
-                            "image": "https://i.imgur.com/c6Hl1yV.png",
-                            "url":"http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
-		     //"url": "https://www.fwiptv.cc/player_demo.php?channel=9039",
-		            "referer": ""
-                    },	
-				
-		    {
-	                    "name": "BBC Earth THAI",
-                            "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-                            //"url": "https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8",
-			    "url": "http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8",
-			    "referer": "https://www.livedoomovies.com/"
-                     },
-		
-		    {
-	                    "name": "BBC Earth",
-                            "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-                            "url": "https://doomovielive.b-cdn.net/sd-bbcearth_720/index.m3u8",
-			    "referer": "https://doomovie.com/"
-                     },
-		
-		    {
-			    "name": "BBC Lifestyle",
-                            "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
-                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/playlist.m3u8",
-		            "referer": "https://doofootball.livesstream-cdn.com"
-                    },
-		    
-		    {
-			    "name": "TRUE EXPLORE WILD",
-                            "image": "https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",
-                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8",
-		            "referer": "https://doofootball.livestream-cdn.com"
-                    },
-		    {
-			    "name": "TRUE EXPLORE LIFE",
-                            "image": "https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",
-                            "url": "http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8",
-		            "referer": ""
-                    },
-		    {
-			    "name": "TRUE EXPLORE SCI",
-                            "image": "https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",
-                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8",
-		            "referer": "https://doofootball.livestream-cdn"
-                    },
-		    
-		   				
-                    {
-			    "name": "BLUEANT ENTERTAINMENT",
-                            "image": "https://i.imgur.com/S6pcUMa.png",
-                            "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment",
-		            "referer": "https://player.we-play.tv"
-                    },
-		    {
-			    "name": "BLUEANT EXTREME",
-                            "image": "https://i.imgur.com/QHTy31a.png",
-                            "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment",
-		            "referer": "https://player.we-play.tv"
-                    },
-		    {
-			    "name": "True X-ZYTE",
-                            "image": "https://i.imgur.com/C4zXAY5.png",
-                            "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment",
-		            "referer": "https://player.we-play.tv"
-                    },
-	
-	 	    {	   
-			   "name": "Outdoor America",
-      			    "image": "https://www.outdooramerica.com/wp-content/uploads/2020/04/Outdoor-America-logo-color.png",
-      			      "url": "https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8",
-      			   "playInNatPlayer": "true"
-		   },
- 		   {	   
-			    "name": "Mysci",
-      			    "image": "http://www.nextsteptv.com/mysci/wp-content/uploads/2018/03/myscihd-01-260361.png",
-      			    "url": "http://27.254.142.14/mysci.m3u8",
-      			    "playInNatPlayer": "true"
-			    
-			    
+			},
 
-		   },
-		   {
-		   	     "name":"Travel",
-			     "image":"https://tvreleasedates.com/wp-content/uploads/2019/05/tchannel.png",
-			     "url":"https://ustvgo.tv/travel-channel-live-free",
-			     "referer":""
-	           }
-		   
-			            
-
- 
-    ]
-}
+			{
+   			"name":"true film HD",
+   			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg",
+   			"url": "https://www.we-play.tv/watching/tv/true-film-hd",
+ 			},
+			{
+    			"name":"True Thai Film",
+    			"image":""https://f.ptcdn.info/204/072/000/qmo17gaymBHehnuw13Z-o.png",
+    			"url":"http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8",
+			},
+			{
+    			"name":"True Asian Series HD",
+    			"image":""https://f.ptcdn.info/204/072/000/qmo17gb71OCwDTrKXHC-o.png",
+    			"url":"http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8"
+	    
+			},
+			{
+    			"name":"Fox Action",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",
+    			"url": "https://laos-tech-live.b-cdn.net/hd-foxaction_720/index.m3u8"
+			},
+			
+			{
+    			"name":"Fox Premium",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",
+    			"url": "https://laos-tech-live.b-cdn.net/hd-foxpremium_720/index.m3u8"
+			},
+			
+			{
+    			"name":"Fox Family",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
+    			"url": "https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8",
+			},
+			{
+    			"name":"FOX​ MOVIE​",
+    			"image":"https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",
+    			"url":"https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8",
+			},
+			{
+    			"name":"Fox Thai",
+    			"image":"https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",
+    			"url":"https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8",
+			},
+			{
+    			"name":"Fox Action",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",
+    			"url":"https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8",
+			},
+			{
+    			"name":"FOX Life",
+    			"image":""https://freetvdd.com/wp-content/uploads/2019/12/fox-life.png", 
+    			"url":"http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8",
+			},
+			{
+    			"name::"Channel 8",
+    			"image":"http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",
+    			"url":"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+			},
+			{
+    			"name":"AXN (true visions)",
+    			"image":"https://i.postimg.cc/pXM9pyqH/axn.jpg",
+    			"url":"https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8",
+			},
+			{
+    			"name":"Warner",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",
+    			"url": "https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8",
+			},
+			{
+    			"name":"SUN MOVIES",
+    			"image":""https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",
+    			"url":"https://cdn6.goprimetime.info/feed/LC1/index.m3u8 ",
+	    
+			},
+			{
+    			"name":"SAMURAI",
+    			"imag":""https://il.mahidol.ac.th/upload/img/2021-01-06-104010.jpg",
+    			"url":"https://cdn6.goprimetime.info/feed/LC2/index.m3u8 ",
+			},
+			{
+  			"name":"BOX​FILM",
+  			"image":""https://il.mahidol.ac.th/upload/img/2021-01-06-103341.jpg",
+  			"url":"https://cdn6.goprimetime.info/feed/LC52/index.m3u8 ",
+			{
+  			"name":"SANOOK MOVIES",
+  			"image":"https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",
+  			"url":"https://cdn6.goprimetime.info/feed//LC53/index.m3u8",
+   
+  			}
+			      
+		    ]
+		}
