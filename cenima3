@@ -2,7 +2,7 @@
 		"name": "ภาพยนตร์ On Line",
 	
 	          "author": "monitor",
-	       	   "image":"https://i.gifer.com/g3Xm.gif",
+	       	   "image":"https://i.gifer.com/IDKH.gif",
                    "url": "https://raw.githubusercontent.com/monitor118/mono/master/cenima3",
 		
 
@@ -20,6 +20,75 @@
      			"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
 			"refuere":""
 			}
-			      
+			{
+    			"name":"HBO Signature",
+    			"image":"="https://il.mahidol.ac.th/upload/img/2020-10-22-083214.jpg",
+    			"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
+			},
+			{
+    			"name":"Red by HBO",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",
+    			"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
+			},
+			{
+    			"name":"HBO Hits",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",
+    			"url":"http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8",
+			
+			},
+
+			{
+			"name":"true film HD",
+   			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg",
+   			"url": "https://www.we-play.tv/watching/tv/true-film-hd",
+ 			},
+			{
+    			"name":"True Thai Film",
+    			"image":""https://f.ptcdn.info/204/072/000/qmo17gaymBHehnuw13Z-o.png",
+    			"url":"http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8",
+			},
+			{
+    			"name":"True Asian Series HD",
+    			"image":""https://f.ptcdn.info/204/072/000/qmo17gb71OCwDTrKXHC-o.png",
+    			"url":"http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8"
+    
+			},
+			{
+    			"name":"Fox Action",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",
+    			"url": "https://laos-tech-live.b-cdn.net/hd-foxaction_720/index.m3u8"
+			},
+		
+			{
+    			"name":"Fox Premium",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",
+    			"url": "https://laos-tech-live.b-cdn.net/hd-foxpremium_720/index.m3u8"
+			},
+
+			{
+    			"name":"Fox Family",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
+    			"url": "https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8",
+			},
+			{
+    			"name":"FOX​ MOVIE​",
+    			"image":"https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",
+    			"url":"https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8",
+			},
+			{
+    			"name":"Fox Thai",
+    			"image":"https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",
+    			"url":"https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8",
+			},
+			{
+    			"name":"Fox Action",
+    			"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",
+    			"url":"https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8",
+			},
+			{
+    			"name":"FOX Life",
+    			"image":""https://freetvdd.com/wp-content/uploads/2019/12/fox-life.png", 
+    			"url":"http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8",
+			},	      
 		    ]
 		}
