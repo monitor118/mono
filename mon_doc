@@ -38,8 +38,10 @@
 		    {
 			    "name": "Animal Planet",
                             "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-                            "url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
-		            "referer": "https://player.we-play.tv"
+                             "url": "http://27.254.142.14/animalplanet.m3u8",
+       			     "import": false
+			    //"url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
+		            //"referer": "https://player.we-play.tv"
                     },
 
     
