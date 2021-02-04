@@ -1,13 +1,28 @@
 {
- "name":"ภาพยนตร์ OnLine",
- "author": "monitor",
-"image":"https://thumbs.gfycat.com/AdorableImmediateGalapagostortoise-size_restricted.gif",
-"stations":
-[
-{
-    "name":"HBO",
-    "image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",
-    "url":"https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8" ,
-}
-  ]
+		"name": "ภาพยนตร์ On Line",
+	
+	          "author": "monitor",
+	       	   "image":"https://i.gifer.com/g3Xm.gif",
+                   "url": "https://raw.githubusercontent.com/monitor118/mono/master/mon_doc",
+		 "stations":[
+      {
+			    "name": "Animal Planet",
+               "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
+               "url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
+		             "referer": "https://player.we-play.tv"
+      },
+      {
+               "name": "BBC Earth",
+               "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+               "url": "https://doomovielive.b-cdn.net/sd-bbcearth_720/index.m3u8",
+			            "referer": "https://doomovie.com/"
+                     },
+		
+		  
+	           }
+		   
+			            
+
+ 
+    ]
 }
