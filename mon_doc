@@ -74,22 +74,22 @@
 		    	    {
 			    "name": "Discovery Asia",
                             "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-                            "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
-		            "referer": "https://player.we-play.tv"
+                           "url":"https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8",
+			   //"url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
+		            "referer": ""
                     },
 		   {
 		  	    "name": "H2",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                           // "url": "https://stream1.xn--l3cm7a5azd.live/02_H2HD_720p/chunklist.m3u8",
-         	           // "referer": "https://stream1.xn--l3cm7a5azd.live"
-			    "url": "https://www.we-play.tv/watching/tv/history-h2",
-		            "referer": "https://www.we-play.tv"
+                         "url":"https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8",
+			    //"url": "https://www.we-play.tv/watching/tv/history-h2",
+		            "referer": ""
                     },
 		    {
 		  	    "name": "History",
                             "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
-                            "url": " https://www.we-play.tv/watching/tv/history-hd",
-		            "referer": "https://www.we-play.tv"
+                            "url": " https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8",
+		            "referer": ""
                     }, 
 		    {  
 			    "name": "Waku Waku Japan",
