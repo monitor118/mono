@@ -20,7 +20,7 @@
   				"name": "HBO Signature",  
   				"image": "https://i.ibb.co/pKqqD75/HBO-signature.png",  
   				"url": "https://we-play.tv/watching/tv/hbo-signature",
-  				"referer": "https://www.we-play.tv/",
+  				"referer": "https://www.we-play.tv/"
   				//"playInNatPlayer": "true"
 			},
 			{
@@ -44,12 +44,13 @@
 			{
      				"name": "FOX ไทย",
      				"image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     				//"url": "https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8"},
+     				//"url": "https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8"
+			
 
 				"url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8", 
      				"import": false  
 			},			
-			/ *{
+			{
      				"name": "Fox Life",
      				"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
      				"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8", 
@@ -72,7 +73,7 @@
 				"name":"Warner TV",
 				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",
 				"url": "https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8",
-			},*/ 
+			}, 
 			
 	]
 }
