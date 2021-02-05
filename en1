@@ -21,7 +21,12 @@
   				"referer": "https://www.we-play.tv/"
   				//"playInNatPlayer": "true"
 			},
-			
+			{
+				"name":"HBO Hits",
+				"image":"https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",
+				"url":"https://www.we-play.tv/watching/tv/hbo-hits",
+				"referer": "https://we-play.tv/"
+			},
 			
 			
        ]
