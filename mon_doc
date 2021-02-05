@@ -160,11 +160,13 @@
                             "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment",
 		            "referer": "https://player.we-play.tv"
                     },
-		    {
+		 
+		 		 
+		 {
 			    "name": "True X-ZYTE",
                             "image": "https://i.imgur.com/C4zXAY5.png",
-                            "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://www.doo2you.com/true-x-zyte/",
+		            "referer": "https://www.doo2you.com"
                     },
 	
 	 	    {	   
