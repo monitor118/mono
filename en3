@@ -48,30 +48,7 @@
 				"url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8", 
      				"import": false  
 			},			
-			{
-     				"name": "Fox Life",
-     				"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     				"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8", 
-      				"import": false
-			},
-			{
-     				"name": "True Film HD",
-     				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
-     				"url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment",
-				"referer": "https://player.we-play.tv"
-			},
-
-			{
-				"name":"CINEMAX",
-				"image":"https://www.234.in.th/images/2020/11/20/cinemax.png",
-				"url":"https://www.we-play.tv/watching/tv/cinemax",
-				"referer": "https://we-play.tv/"
-			},
-			{
-				"name":"Warner TV",
-				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",
-				"url": "https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8",
-			}, 
+			
 			
 			
        ]
