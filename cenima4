@@ -14,6 +14,15 @@
   				"url": "https://we-play.tv/watching/tv/hbo-hd",
   				"referer": "https://www.we-play.tv/",
   				"playInNatPlayer": "true"		 		
-			}	
+			},	
+			
+			{
+  				"name": "HBO Signature",  
+  				"image": "https://i.ibb.co/pKqqD75/HBO-signature.png",  
+  				"url": "https://we-play.tv/watching/tv/hbo-signature",
+  				"referer": "https://www.we-play.tv/",
+  				"playInNatPlayer": "true"
+			},
+			
 	]
 }
