@@ -1,0 +1,44 @@
+{
+		"name": "ภาพยนตร์ On Line",
+	
+	          "author": "monitor",
+	       	   "image":"https://i.gifer.com/IDKH.gif",
+                   "url": "https://raw.githubusercontent.com/monitor118/mono/master/cenima3",
+		
+
+		"stations":[
+                  		 
+			{   		        
+		  		"name": "HBO",  
+  				"image": "https://www.tvchinese.net/uploads/tv/hbohd.jpg",  
+  				"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
+  				"import": false
+			},
+			{
+  				"name": "HBO Signature",  
+  				"image": "https://i.ibb.co/pKqqD75/HBO-signature.png",  
+  				"url": "https://we-play.tv/watching/tv/hbo-signature",
+  				"referer": "https://www.we-play.tv/"
+  				//"playInNatPlayer": "true"
+			},
+			{
+				"name":"HBO Hits",
+				"image":"https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",
+				"url":"https://www.we-play.tv/watching/tv/hbo-hits",
+				"referer": "https://we-play.tv/"
+			},
+			{
+     				"name": "RedbyHBO",
+     				"image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
+     				"url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
+     				"import": false
+			},
+			{
+     				"name": "FOX MOVIES",
+     				"image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     				"url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment",
+				"referer": "https://player.we-play.tv"
+ 			},	
+			
+       ]
+      }
