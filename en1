@@ -60,6 +60,11 @@
      				"url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment",
 				"referer": "https://player.we-play.tv"
 			},
-			
+			{
+				"name":"CINEMAX",
+				"image":"https://www.234.in.th/images/2020/11/20/cinemax.png",
+				"url":"https://www.we-play.tv/watching/tv/cinemax",
+				"referer": "https://we-play.tv/"
+			},
        ]
       }
