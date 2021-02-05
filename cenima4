@@ -38,7 +38,8 @@
 			{
      				"name": "FOX MOVIES",
      				"image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     				"url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
+     				"url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment",
+				"referer": "https://player.we-play.tv"
  			},
 			{
      				"name": "FOX ไทย",
