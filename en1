@@ -66,5 +66,10 @@
 				"url":"https://www.we-play.tv/watching/tv/cinemax",
 				"referer": "https://we-play.tv/"
 			},
+			{
+				"name":"Warner TV",
+				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",
+				"url": "https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8",
+			}, 
        ]
       }
