@@ -1,0 +1,18 @@
+{
+		"name": "ภาพยนตร์ On Line",
+	
+	          "author": "monitor",
+	       	   "image":"https://i.gifer.com/IDKH.gif",
+                   "url": "https://raw.githubusercontent.com/monitor118/mono/master/cenima3",
+		
+
+		"stations":[
+                  		 
+			{   		        
+		  		"name": "HBO",  
+  				"image": "https://www.tvchinese.net/uploads/tv/hbohd.jpg",  
+  				"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
+  				"import": true
+			},
+       ]
+      }
