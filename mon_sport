@@ -11,19 +11,13 @@
 		"stations":[
               
 	
-	      		{
-		           "name" :"Snooker World",
-			   "image":"https://wst.tv/wp-content/uploads/2015/06/WS-logo.jpg",
-			   "url":"http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch95.stream/playlist.m3u8",
-			   "referer":"http://pglivetv.com"  
-                       	},
-
+	      		
                        	{       
 		           "name":"WWE",
 		           "image":"https://1000logos.net/wp-content/uploads/2017/05/Emblem-WWE.jpg",
 			   "url":"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
 		           "userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-N960F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36",
-			   //"referer": "https://dooball66.com/",
+			   "referer": "",
   			    //"playInNatPlayer": "true"
 	               //"userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-N960F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36",
 			     "import": false
