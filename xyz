@@ -1,0 +1,21 @@
+{
+		"name": "ภาพยนตร์ online",
+	
+	             "author": "monitor",
+	       	   "image":"https://i.gifer.com/IDKH.gif",
+                   "url": "https://raw.githubusercontent.com/monitor118/mono/master/cenima3",
+		
+
+		"stations":[
+                    
+		    {
+			    "name": "LoveNature 4K",
+                            "image": "https://i.imgur.com/XWDSCI7.png",
+                            "url": "http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8",
+					                  "referer": ""
+                    
+		    
+		    },
+		  
+    ]
+}
