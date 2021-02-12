@@ -28,6 +28,13 @@
                          	"url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
 			  	"referer": ""
                     
+		   },
+		     {
+			    	"name": "FOX MOVIES",
+                            	"image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",
+                         	"url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment",
+			  	"referer": ""
+                    
 		   }
 			    
           ]
