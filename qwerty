@@ -58,6 +58,18 @@
 			  	"referer": ""
                     
 		   },
+		   {
+		   		"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",
+				"url": "http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8"
+			},
+			{
+				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",
+				"url": "http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8"
+			},
+			{
+				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
+				"url": "https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8"
+			},
 		      {
 			    	"name": "True Film HD",
                             	"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
@@ -79,6 +91,9 @@
 			  	"referer": ""
                     
 		   }
-			    
+		   {
+		   		"image":"https://i.ytimg.com/vi/hGnizLy0Pzw/hqdefault.jpg",
+				"url": "https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8"
+		  }, 
           ]
         }
