@@ -1,3 +1,4 @@
+{
 "name": "ภาพยนตร์ On Line",
 	
 	          "author": "monitor",
@@ -15,7 +16,12 @@
 		    
 		    },            
                    
-                   "name": "HBO",  
+                    {
+		  "name": "HBO",  
   				"image": "https://www.tvchinese.net/uploads/tv/hbohd.jpg",  
   				"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
   				"import": false
+		    }
+	   ]
+	}
+		    
