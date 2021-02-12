@@ -42,6 +42,13 @@
                          	"url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8",
 			  	"referer": ""
                     
+		   },
+		    {
+			    	"name": "FOX Life",
+                            	"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
+                         	"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8",
+			  	"referer": ""
+                    
 		   }
 			    
           ]
