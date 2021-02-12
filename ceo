@@ -6,6 +6,11 @@
                    "url": "https://raw.githubusercontent.com/monitor118/mono/master/ceo",
                    
        "stations":[
-       
+       		    {
+		  "name": "HBO",  
+  				"image": "https://www.tvchinese.net/uploads/tv/hbohd.jpg",  
+  				"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
+  				"import": false
+		   }	
 	   ]
 	}
