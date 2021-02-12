@@ -1,0 +1,53 @@
+{
+		"name": "ภาพยนตร์ On Line",
+	
+	          "author": "monitor",
+	       	   "image":"https://i.gifer.com/IDKH.gif",
+                   "url": "https://raw.githubusercontent.com/monitor118/mono/master/cenima3",
+		"stations":[
+                    
+		    {
+			    "name": "LoveNature 4K",
+                            "image": "https://i.imgur.com/XWDSCI7.png",
+                          
+			
+                       "url": "http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8",
+			//    "url":"https://bamus-eng-roku.amagi.tv/playlist.m3u8",
+		              "referer": ""
+                    
+		    
+		    },
+		     
+		    {
+			    "name": "LoveNature 4K",
+                            "image": "https://i.imgur.com/XWDSCI7.png",		
+			     "url":"https://bamus-eng-roku.amagi.tv/playlist.m3u8",
+		              "referer": ""
+		    },  
+		    {
+			    "name": "LoveNature 4K sub thai",
+                            "image": "https://i.imgur.com/XWDSCI7.png",
+                              "url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary",
+		          "referer": "https://player.we-play.tv"
+	
+			                      	    
+		    },
+		    
+		    {
+			    "name": "Animal Planet",
+                            "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
+                             "url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+
+    
+		    {
+			    "name": "Nat Geo Wild",
+                            "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+                            "url": "https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8",
+		            "import": false
+                    }
+                      
+                  ]
+                  }
+	     
