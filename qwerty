@@ -13,13 +13,15 @@
                          	"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
 			  	"referer": ""
                     
-		         },
-			    {
-			    	"name": "HBO Hits",
-                            	"image": "image":"https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",
-                         	"url": "https://www.we-play.tv/watching/tv/hbo-hits",
+		    },
+		   
+		    {
+			    	"name": "HBO",
+                            	"image": "https://www.tvchinese.net/uploads/tv/hbohd.jpg",
+                         	"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
 			  	"referer": ""
                     
-		         }
+		   }
+			    
           ]
         }
