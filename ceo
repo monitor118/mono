@@ -7,10 +7,16 @@
                    
        "stations":[
        		    {
-		  "name": "HBO",  
+		  		"name": "HBO",  
   				"image": "https://www.tvchinese.net/uploads/tv/hbohd.jpg",  
   				"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
   				"import": false
-		   }	
+		   },	
+		   {
+				"name":"HBO Hits",
+				"image":"https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",
+				"url":"https://www.we-play.tv/watching/tv/hbo-hits",
+				"referer": "https://we-play.tv/"	    
+		    },            
 	   ]
 	}
