@@ -63,6 +63,11 @@
 		    {
 				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
 				 "url":"https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8"
-		    }
+		    },
+		    {
+			    	"name": "True Film HD",
+                            	"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
+                         	"url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment"
+		    }	  	
            ]
         }
