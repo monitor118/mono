@@ -13,8 +13,30 @@
                          	"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
 			  	"referer": ""
                     
-		    }
+		    },
 		      
-		    
+		          
+		    {
+			    	"name": "HBO Signature",
+                            	"image": "https://i.ibb.co/pKqqD75/HBO-signature.png",
+                         	"url": "https://we-play.tv/watching/tv/hbo-signature",
+			  	"referer": ""
+                    
+		    },
+		   
+		    {
+			    	"name": "RedbyHBO",
+                            	"image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
+                         	"url": "https://www.we-play.tv/watching/tv/hbo-hits",
+			  	"referer": ""
+                    
+		    },
+		    {
+			    	"name": "HBO Hits",
+                            	"image": "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",
+                         	"url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
+			  	"referer": ""
+                    
+		   }
           ]
         }
