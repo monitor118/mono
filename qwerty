@@ -59,11 +59,7 @@
 		   {
 				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",
 				"url": "http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8",
-			},
-			{
-				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
-				 "url":"https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8",
-				// "url": "https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8"
 			}
+			
           ]
         }
