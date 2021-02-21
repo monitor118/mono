@@ -13,83 +13,8 @@
                          	"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
 			  	"referer": ""
                     
-		    },
+		    }
 		      
-		    {
-			    	"name": "HBO Signature",
-                            	"image": "https://i.ibb.co/pKqqD75/HBO-signature.png",
-                         	"url": "https://we-play.tv/watching/tv/hbo-signature",
-			  	"referer": ""
-                    
-		    },
-		   
-		    {
-			    	"name": "RedbyHBO",
-                            	"image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
-                         	"url": "https://www.we-play.tv/watching/tv/hbo-hits",
-			  	"referer": ""
-                    
-		   },
-		       {
-			    	"name": "HBO Hits",
-                            	"image": "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",
-                         	"url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
-			  	"referer": ""
-                    
-		   },
-		     
-		   {
-			    	"name": "FOX ไทย",
-                            	"image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
-                         	"url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8",
-			  	"referer": ""
-                    
-		   },
-		    {
-			    	"name": "FOX Life",
-                            	"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
-                         	"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8",
-			  	"referer": ""
-                    
-		   },
-		   {
-		   		"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",
-				"url": "http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8"
-			},
-			{
-				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",
-				"url": "http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8"
-			},
-			{
-				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
-				 "url":"https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8",
-				// "url": "https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8"
-			},
-		      {
-			    	"name": "True Film HD",
-                            	"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
-                         	"url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment",
-			  	"referer": ""
-                    
-		   },
-		     {
-			    	"name": "CINEMAX",
-                            	"image": "https://www.234.in.th/images/2020/11/20/cinemax.png",
-                         	"url": "https://www.we-play.tv/watching/tv/cinemax",
-			  	"referer": ""
-                    
-		   },
-		    {
-			    	"name": "Warner TV",
-                            	"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",
-                         	"url": "https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8",
-			  	"referer": ""
-                    
-		   },
-		   {
-		   		"image":"https://i.ytimg.com/vi/hGnizLy0Pzw/hqdefault.jpg",
-				"url": "https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
-				"referer:""
-		  }
+		    
           ]
         }
