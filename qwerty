@@ -80,10 +80,20 @@
 				 "url":"https://www.we-play.tv/watching/tv/warner-tv"
 		    },
 		    {
+			    	"name": "True Series",
+                            	"image": "https://f.ptcdn.info/204/072/000/qmo17g5mzW350RxWq4o-o.png",
+                         	"url": "http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8"
+		    },	 
+		      {
+			    	"name": "True AXN",
+                            	"image": "https://i.postimg.cc/pXM9pyqH/axn.jpg",
+                         	"url": "https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8"
+		    },	 
+		     {
 			    	"name": "True Film HD",
                             	"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
-                         	"url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment"
-		    },	  
+                         	"url": "http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8"
+		    },	 
 		     {
 			    	"name": "True Asian Series",
                             	"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-asianseries.png",
