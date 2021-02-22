@@ -1,5 +1,5 @@
  {
-		"name": "ภาพยนตร์ On Line",
+		"name": "Movies TV",
 	
 	          "author": "monitor",
 	       	   "image":"https://i.gifer.com/IDKH.gif",
@@ -73,6 +73,11 @@
 				"name": "FOX Family",
 				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",
 				 "url":"https://www.we-play.tv/watching/tv/fox-family-movies"
+		    },
+		     {
+				"name": "Warner TV",
+				"image":"https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",
+				 "url":"https://www.we-play.tv/watching/tv/warner-tv"
 		    },
 		    {
 			    	"name": "True Film HD",
