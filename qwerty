@@ -79,11 +79,7 @@
 				"image":"https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",
 				 "url":"https://www.we-play.tv/watching/tv/warner-tv"
 		    },
-		    {
-			    	"name": "True Series",
-                            	"image": "https://f.ptcdn.info/204/072/000/qmo17g5mzW350RxWq4o-o.png",
-                         	"url": "http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8"
-		    },	 
+		   
 		      {
 			    	"name": "True AXN",
                             	"image": "https://i.postimg.cc/pXM9pyqH/axn.jpg",
