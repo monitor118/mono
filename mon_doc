@@ -78,30 +78,30 @@
 			    "name": "Discovery Channel",
                             "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                             
-			    //"url": "https://player.we-play.tv/channel.php?name=discovery&cate=documentary",
-			     "url": "http://160.119.77.116:8081/iptv/sd-discovery.stream/playlist.m3u8"
+			    "url": "https://player.we-play.tv/channel.php?name=discovery&cate=documentary"
+			    // "url": "http://160.119.77.116:8081/iptv/sd-discovery.stream/playlist.m3u8"
 			    
                     },		    
 		    	    {
 			    "name": "Discovery Asia",
                             "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-                           "url":"https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8",
-			   //"url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
+                           //"url":"https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8",
+			   "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
 		            "referer": ""
                     },
 		   {
 		  	    "name": "H2",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                             "url":"https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8",
-			    //"url": "https://www.we-play.tv/watching/tv/history-h2",
-		            "referer": ""
+                             //"url":"https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8",
+			    "url": "https://www.we-play.tv/watching/tv/history-h2"
+		            
                     },
 		    {
 		  	    "name": "History",
                             "image": "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
-                            "url": " https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8",
-		            "referer": ""
-                    }, 
+                             "uri":"https://www.we-play.tv/watching/tv/history-hd"
+			   //"url": " https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8",
+		                                }, 
 		    {  
 			    "name": "Waku Waku Japan",
 			    "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
