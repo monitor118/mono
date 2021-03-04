@@ -20,7 +20,15 @@
  				"webviewType": "chrome",
  				"embed": true
 			},
-						
+			{
+				"name": "3BB Sport 1",
+				"image":"https://sv1.picz.in.th/images/2020/12/06/jgW47y.png",
+				"url": "https://www.we-play.tv/watching/tv/3bb-sports-1",
+				"referer": "https://we-play.tv/",
+				"playInNatPlayer": "true"
+			},
+			
+			{
 		        	"name": "WWE USA",
 				"image": "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
 				"url": "https://squidmantv.lfctv.online/temp/tv.m3u8?ch=uswwe&token=1a518affcde70cca6c139ebbb5e445e53b2399a9",
