@@ -48,7 +48,8 @@
 		   {
 			    	"name": "FOX ไทย",
                             	"image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
-                         	"url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8",
+                         	 "url":"https://www.we-play.tv/watching/tv/fox-thai",
+				//"url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8",
 			  	"referer": ""
                     
 		   },
