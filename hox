@@ -1,0 +1,22 @@
+{
+		"name": "TV Online",
+	
+	"author": "monitor",
+	
+	"image":"https://www.hs3lzx.com/wp-content/uploads/2014/04/doodee-sticker.png",
+
+		"url": "https://raw.githubusercontent.com/monitor118/mono/master/mon_tv%20digital",
+		
+
+		"stations":[
+                    {
+			    "name": "CH3",
+                            "image": "https://overseer.blackboxsys.net/images/png/hd-ch3.png",
+                            "url": "https://player.we-play.tv/channel.php?name=ch3hd&cate=digitaltv",
+		            "referer": "https://player.we-play.tv"
+                    }
+		    
+		   
+		
+    ]
+}
