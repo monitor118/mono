@@ -34,8 +34,9 @@
 		    },
 		    {
 			    	"name": "HBO Hits",
-                            	"image": "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",
-                         	"url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
+                            	"image": "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",		
+                         	"url":"https://www.we-play.tv/watching/tv/hbo-hits",
+				//"url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
 			  	"referer": ""
                     
 		   },
@@ -57,19 +58,21 @@
 		    {
 			    	"name": "FOX Life",
                             	"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
-                         	"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8",
+                         	"url":"https://www.we-play.tv/watching/tv/fox-life",
+				//"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8",
 			  	"referer": ""
                     },	    
 		
 		    {
 		    		"name": "FOX Action",
 		   		"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",
-				"url": "http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8"
+				"url": "https://www.we-play.tv/watching/tv/fox-action-movies"
 		    },
 		    {
 		    		"name": "FOX Premium",
 				"image":"https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",
-				"url": "http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8"
+				"url":"https://www.we-play.tv/watching/tv/fox-movies"
+				//"url": "http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8"
 		    },
 		    {
 				"name": "FOX Family",
