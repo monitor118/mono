@@ -58,8 +58,9 @@
 		    {
 			    	"name": "FOX Life",
                             	"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
-                         	"url":"https://www.we-play.tv/watching/tv/fox-life"
+                         	"url":"https://www.we-play.tv/watching/tv/fox-life",
 				//"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8",
+				"referer":"https://www.we-play.tv"
 			  	
                     },	    
 		
