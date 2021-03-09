@@ -6,7 +6,23 @@
                    "url": "https://raw.githubusercontent.com/monitor118/mono/master/qwerty",
 
 		"stations":[
-                    
+                      {
+				"name": "Warner TV",
+				"image":"https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",
+				 "url":"https://www.we-play.tv/watching/tv/warner-tv"
+		    },
+		     {
+				"name": "Warner TV 1",
+				"image":"https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",
+				 "url":"http://203.154.243.89:1205"
+
+		    },
+		   
+		    {
+			    	"name": "True AXN",
+                            	"image": "https://i.postimg.cc/pXM9pyqH/axn.jpg",
+                         	"url": "https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8"
+		    },	 
 		   {
 			    	"name": "True Film HD",
                             	"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
