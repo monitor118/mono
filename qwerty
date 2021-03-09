@@ -8,105 +8,105 @@
 		"stations":[
 		  
 		  {
-			    	"name": "HBO",
-                            	"image": "https://www.tvchinese.net/uploads/tv/hbohd.jpg",
-                         	 "url":":https://www.we-play.tv/watching/tv/hbo-hd",
+			    	"name"  : "HBO",
+                            	"image" : "https://www.tvchinese.net/uploads/tv/hbohd.jpg",
+                         	 "url"  : ":https://www.we-play.tv/watching/tv/hbo-hd",
 				//"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
-			  	"referer": ""
+			  	"referer" : ""
                     
 		    },
 		  {
-			    	"name": "HBO Signature",
-                            	"image": "https://i.ibb.co/pKqqD75/HBO-signature.png",
-                         	"url": "https://we-play.tv/watching/tv/hbo-signature",
-			  	"referer": ""
+			    	"name"  : "HBO Signature",
+                            	"image" : "https://i.ibb.co/pKqqD75/HBO-signature.png",
+                         	"url"   : "https://we-play.tv/watching/tv/hbo-signature",
+			  	"referer"  : ""
                     
 		    },
 		 
 		    {
-			    	"name": "RedbyHBO",
-                            	"image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
-                         	"url": "https://www.we-play.tv/watching/tv/hbo-hits",
+			    	"name"   : "RedbyHBO",
+                            	"image"  : "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
+                         	"url"    : "https://www.we-play.tv/watching/tv/hbo-hits",
 			  	"referer": ""
                     
 		    },
                         {
-			    	"name": "HBO Hits",
-                            	"image": "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",		
-                         	"url":"https://www.we-play.tv/watching/tv/hbo-hits",
+			    	"name"   : "HBO Hits",
+                            	"image"  : "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",		
+                         	"url"    : "https://www.we-play.tv/watching/tv/hbo-hits",
 				//"url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
-			  	"referer": ""
+			  	"referer" : ""
                     
 		   },
 		   {
-			    	"name": "HBO family ",
-                            	"image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png",
-                         	"url": "https://www.we-play.tv/watching/tv/hbo-family",
-			  	"referer": ""
+			    	"name"   : "HBO family ",
+                            	"image"  : "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png",
+                         	"url"    : "https://www.we-play.tv/watching/tv/hbo-family",
+			  	"referer" : ""
                     
 		   },
 		    
 		    {
-			    	"name": "FOX ไทย",
-                            	"image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
-                         	 "url":"https://www.we-play.tv/watching/tv/fox-thai",
+			    	"name"   : "FOX ไทย",
+                            	"image"  : "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
+                         	 "url"   :"https://www.we-play.tv/watching/tv/fox-thai",
 				//"url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8",
-			  	"referer": ""
+			  	"referer" : ""
                     
 		   },
 		    {
-			    	"name": "FOX Life",
-                            	"image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
-                         	"url":"https://www.we-play.tv/watching/tv/fox-life",
+			    	"name"   : "FOX Life",
+                            	"image"  : "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
+                         	"url"    :"https://www.we-play.tv/watching/tv/fox-life",
 				//"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8",
-				"referer":"https://www.we-play.tv"
+				"referer" :"https://www.we-play.tv"
 			  	
                     },	    
 		
 		    {
-		    		"name": "FOX Action",
-		   		"image":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Fox_action.png",
-				"url": "https://www.we-play.tv/watching/tv/fox-action-movies"
+		    		"name"   : "FOX Action",
+		   		"image"  :"https://upload.wikimedia.org/wikipedia/commons/b/bc/Fox_action.png",
+				"url"    : "https://www.we-play.tv/watching/tv/fox-action-movies"
 		    },
 		    {
-		    		"name": "FOX Premium",
-				"image":"https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png",
-				"url":"https://www.we-play.tv/watching/tv/fox-movies"
+		    		"name"   : "FOX Premium",
+				"image"  :"https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png",
+				"url"    :"https://www.we-play.tv/watching/tv/fox-movies"
 				//"url": "http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8"
 		    },
 		    {
-				"name": "FOX Family",
-				"image":"http://tvsmagazine.com/images/channels/sm_FFM.jpg",
-				 "url":"https://www.we-play.tv/watching/tv/fox-family-movies"
+				"name"   : "FOX Family",
+				"image"  :"http://tvsmagazine.com/images/channels/sm_FFM.jpg",
+				 "url"   :"https://www.we-play.tv/watching/tv/fox-family-movies"
 		    },
 		    
 		    
 		    {
-				"name": "Warner TV",
-				"image":"https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",
-				 "url":"https://www.we-play.tv/watching/tv/warner-tv"
+				"name"   : "Warner TV",
+				"image"  :"https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",
+				 "url"   :"https://www.we-play.tv/watching/tv/warner-tv"
 		    },
 		     {
-				"name": "Warner TV 1",
-				"image":"https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",
-				 "url":"http://203.154.243.89:1205"
+				"name"   : "Warner TV 1",
+				"image"  :"https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",
+				 "url"   :"http://203.154.243.89:1205"
 
 		    },
 		   
 		    {
-			    	"name": "True AXN",
-                            	"image": "https://i.postimg.cc/pXM9pyqH/axn.jpg",
-                         	"url": "https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8"
+			    	"name"   : "True AXN",
+                            	"image"  : "https://i.postimg.cc/pXM9pyqH/axn.jpg",
+                         	"url"    : "https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8"
 		    },	 
 		   {
-			    	"name": "True Film HD",
-                            	"image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
-                         	"url": "http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8"
+			    	"name"   : "True Film HD",
+                            	"image"  : "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
+                         	"url"    : "http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8"
 		    },	 
 		     {
-			    	"name": "True Asian Series",
-                            	"image": "https://www.jpopthailand.com/th/wp-content/uploads/2015/02/380400_354085558003868_1981452853_n.jpg",
-                         	"url": "https://www.we-play.tv/watching/tv/true-asian-series-hd"
+			    	"name"   : "True Asian Series",
+                            	"image"  : "https://www.jpopthailand.com/th/wp-content/uploads/2015/02/380400_354085558003868_1981452853_n.jpg",
+                         	"url"    : "https://www.we-play.tv/watching/tv/true-asian-series-hd"
 				
 		    }	  
            ]   
