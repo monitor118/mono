@@ -6,7 +6,16 @@
                    "url": "https://raw.githubusercontent.com/monitor118/mono/master/qwerty",
 
 		"stations":[
-		   {
+		  
+		  {
+			    	"name": "HBO",
+                            	"image": "https://www.tvchinese.net/uploads/tv/hbohd.jpg",
+                         	 "url":":https://www.we-play.tv/watching/tv/hbo-hd",
+				//"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
+			  	"referer": ""
+                    
+		    },
+		  {
 			    	"name": "HBO Signature",
                             	"image": "https://i.ibb.co/pKqqD75/HBO-signature.png",
                          	"url": "https://we-play.tv/watching/tv/hbo-signature",
