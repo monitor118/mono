@@ -92,7 +92,20 @@
 				 "url"   :"http://203.154.243.89:1205"
 
 		    },
-		   
+		    {
+		    		"name"   :"Paramount",
+				"image"	 :"https://sv1.picz.in.th/images/2021/01/26/lXBSHz.png",
+				"url"	 :"https://player.we-play.tv/channel.php?name=paramount&cate=entertainment",
+				"referer" :"https://player.we-play.tv"
+				},
+
+   		    {
+		    		"name"   :"True X-ZYTE",
+				"image"  :"https://sv1.picz.in.th/images/2020/11/30/jfJyNR.png",
+				"url"    :"https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f&ref=none",
+				"referer":"https://dooball66.com"
+		    },
+
 		    {
 			    	"name"   : "True AXN",
                             	"image"  : "https://i.postimg.cc/pXM9pyqH/axn.jpg",
