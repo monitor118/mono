@@ -107,12 +107,10 @@
                     },	
 				
 		    {
-	                    "name": "BBC Earth",
-                            "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-                            //"url": "https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8",
-			    "url": "http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8",
-			    "referer": "https://www.livedoomovies.com/"
-                     },
+	                    "name"  : "BBC Earth",
+                            "image" : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+                            "url"   : " https://www.doofree88.com/live/bbc-earth",
+		    },
 		
 		    
 		
