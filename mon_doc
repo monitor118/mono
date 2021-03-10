@@ -121,7 +121,19 @@
                             "url": "https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/playlist.m3u8",
 		            "referer": "https://doofootball.livesstream-cdn.com"
                     },
-		    
+		    {
+		    	     name  : "Nature",
+			     image : "https://sv1.picz.in.th/images/2021/02/10/otLNhE.png",
+			     url   : "https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8"
+			     
+	           },
+		   {
+		            "name"  : "Nature2",
+			    "image" : "https://sv1.picz.in.th/images/2021/02/10/otLNhE.png",
+			    "url"   : "http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8",
+			    "playInNatPlayer": "true"
+	         },
+
 		    {
 			    "name": "TRUE EXPLORE WILD",
                             "image": "https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",
