@@ -7,14 +7,70 @@
 		
 
 		"stations":[
-                
-		       {
-						name	: " ",
-						image	: "https://sv1.picz.in.th/images/2021/01/30/leF7tZ.png",
-						parental: "true",
-						url	: "https://www.dropbox.com/s/qmdriybjlczbik4/sexy%20%E0%B8%8A%E0%B8%B8%E0%B8%94.w3u?dl=1",
-						https://www.dropbox.com/s/qmdriybjlczbik4/sexy%20%E0%B8%8A%E0%B8%B8%E0%B8%94.w3u?dl=1
-						import	: false
-					},
+                	    {
+	                                                                                                                                                                                                                                     
+				"name": "   Live 24  ",
+"image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
+"url": "https://www.dropbox.com/s/01cn24rnuwt21fn/live%2024.w3u?dl=1",
+"import": false
+},
+{                                                                                                                                                                                                                                     
+"name": " Japan+inter uncen",
+"image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
+"url": "https://www.dropbox.com/s/bzbv8ou310zsulx/Inter18%20.w3u?dl=1",
+"import": false
+},
+
+{                                                                                                                                                                                                                                             
+"name": "    Japan  cen1",
+"image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
+"url": "https://www.dropbox.com/s/24xmwbq66sl1tx0/Japan%20can.w3u?dl=1",
+"import": false
+},                                                                                                                                                                                                                            
+{                                                                                                                                                                                                                                             
+"name": "    Japan  cen 2",
+"image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
+"url": "https://www.dropbox.com/s/59ripy8q1fs7d8t/Japan%20%20cen2.m3u?dl=",
+"import": false
+}, 
+ {
+"name": "    Japan ซับไทย 1080p",
+"image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
+"url": "https://www.dropbox.com/s/9hfwy2gcjcuqlfp/Japan%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%20.w3u?dl=1",
+"import": false
+},
+{
+"name": "    xจีน ",
+"image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
+"url": "https://www.dropbox.com/s/5y2zla3xloap1pf/DAKOCAN.m3u?dl=1",
+"import": false
+},
+ {
+"name": "    xไทย ",
+"image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
+"url": "https://www.dropbox.com/s/5ffotob845pmoma/thai.w3u?dl=1",
+"import": false
+},
+
+
+
+]
+
+},
+
+
+ {
+			"name": "  เกาหลี เรท R  ",
+	    	"image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
+            "groups":  [
+
+
+
+    {"name":"   เกาหลี เรท R",image:"https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",url:"https://www.dropbox.com/s/qk9bfq28dqjd14a/%E0%B9%80%E0%B8%A3%E0%B8%97R.w3u?dl=1","referer": "https://wiseplay-thailand.nat"},
+    {"name":"   ไทย เรท R",image:"https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",url:"https://www.dropbox.com/s/b1nval8v82ya4wj/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%97%20R%20%E0%B9%84%E0%B8%97%E0%B8%A2.w3u?dl=1","referer": "https://wiseplay-thailand.nat"},
+ 
+
+			]
+			},
     ]
 }
