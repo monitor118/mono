@@ -1,28 +1,23 @@
- 
 
 
     {
-	"name": " Real Movie Permium",
-	"author": "Playlist Developers",
+	"name": " ภาพยนตร์ รวบรวม",
+	"author": "monitor",
 	"image": "https://sv1.picz.in.th/images/2021/01/20/lAyETz.png",
 	"url": "",
-
-  "groups":                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [
-	
-                                                                                                                                                                                                                                                                                                                                                                              {
-			"name": " ประเภท หนัง",
-	    	"image": "https://sv1.picz.in.th/images/2021/01/24/lrDT1N.png",
+		"groups":                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [
+	                  {
+				"name": " ประเภท หนัง",
+	    			"image": "https://sv1.picz.in.th/images/2021/01/24/lrDT1N.png",
           
-     	"groups": [
-
-
-	{
-					"name": " ",
-					"image": "https://sv1.picz.in.th/images/2021/01/25/lre4Yz.png",
-					"url": "https://www.dropbox.com/s/997hq7ed6yw4al1/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99.w3u?dl=1",
-					"import": false
-				},
-                                                                                                                                                                                                                                                                                                                     {
+     			"groups": [
+					{
+						name	: " ",
+						image	: "https://sv1.picz.in.th/images/2021/01/25/lre4Yz.png",
+						url	: "https://www.dropbox.com/s/997hq7ed6yw4al1/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99.w3u?dl=1",
+						import	: false
+					},
+                                      	{
 "name": "","image": "https://sv1.picz.in.th/images/2021/01/25/lrLRGf.png","url": "https://www.dropbox.com/s/sighegl9v5tfq0c/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2.w3u?dl=1","import": false
 },
 			{
@@ -63,12 +58,7 @@
 ]
 },
 
-                      {
-"name": "    คลังหนัง..3000เรื่อง",
-"image": "https://sv1.picz.in.th/images/2021/02/20/ooXs1t.png",
-"url": "https://www.dropbox.com/s/95avjkyzozy42je/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.w3u?dl=1",
-"import": false
-},   
+ 
 
 
 
@@ -98,19 +88,7 @@
                                 },
 
 
-                  {
-"name": " รายการทีวี   ",
-"image": "https://sv1.picz.in.th/images/2021/02/20/ooXHzN.png",
-"url": "https://www.dropbox.com/s/1j8hy55hwylomct/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5.w3u?dl=1",
-"import": false
-                                },
 
-{
-"name": "   CONCERT",
-"image": "https://sv1.picz.in.th/images/2021/01/20/lAyoUu.png",
-"url": "https://www.dropbox.com/s/qdulo6zt9a8hjg2/CONCERT.w3u?dl=1",
-"import": false
-},
 
 
 
