@@ -60,7 +60,7 @@
                  																			
                     			{
 						name	: " TOP IMDb  ",
-						image	: "https://sv1.picz.in.th/images/2021/01/24/lroIi8.png",
+						image	: "https://www.catdumb.tv/wp-content/uploads/2019/12/1-31.jpg",
 						//url	: "https://www.dropbox.com/s/n56fr0lh4r17dnq/TOP%20IMDb.w3u?dl=1",
 						url	: "https://raw.githubusercontent.com/monitor118/mono/master/imdb",
 						import	: false
