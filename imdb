@@ -1,4 +1,12 @@
 
+{
+		"name": " IMDB",
+		"author": "monitor",
+		"image":"https://sv1.picz.in.th/images/2021/01/24/lrDkuv.png",
+		"url": "",
+		
+
+		"stations":[
             { 
                   name  : "Juveniles (2018) เด็กและเยาวชน (9.6) พากย์ไทย", 
                   image : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/05/2cfd0z9t6mw-14552-poster.jpg",
@@ -307,4 +315,6 @@
 "image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/03/d9fwom7bhzs-12925-poster.jpg",
 "url": "https://redirect.cherry1688.com/view/8dfde0e4-ab10-5d03-bfd7-93d468b4da49.m3u8",
 "playInNatPlayer": "true"
-},
+   },
+  ]
+}
