@@ -76,56 +76,66 @@
                   image   : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/01/15229335475485bb7bbea12.jpg",
                   url     : "https://redirect.cherry1688.com/view/b10129ce-2ba7-527f-8eee-e23feeec8155.m3u8",
                   playInNatPlayer  : "true"
-},
-{ "name": "The Call (Call) | Netflix (2020) สายตรงต่ออดีต (9) พาย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/11/yjgwWbN2IgUiMXOZd4NrlnqdMeq.jpg",
-"url": "https://redirect.cherry1688.com/view/7357c994-de3a-527b-bcb8-0b1fd181fc49.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "Long Live the King (2019) ฮีโร่แห่งมกโพจงเจริญ (9) ซาวด์แทร็ก(T)",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/04/g6brionqe29-13408-poster.jpg",
-"url": "https://redirect.cherry1688.com/view/de95b491-e36f-5e26-9aae-1aaaa49e45f4.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "Born Bone Born (2018) บอร์น โบน บอร์น (9) พากย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/04/k0hn85xlyro-14034-poster.jpg",
-"url": "https://redirect.cherry1688.com/view/654f0279-7baa-5c77-96b3-f4c22be44b7d.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "The Dark Knight (2008) แบทแมน อัศวินรัตติกาล (9) พากย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/12/d7uyejzpbk6-669-poster.jpg",
-"url": "https://redirect.cherry1688.com/view/badce73b-d7b0-5cbe-8349-26104c7fee59.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "The Enchanting Phantom (2020) โปเยโปโลเย (9) พากย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/05/qan4xgi6ok7-14203-poster.jpg",
-"url": "https://redirect.cherry1688.com/view/993cb821-1d99-5efd-88f5-df354385905b.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "สยามยุทธ Siam Yuth The Dawn of the Kingdom (2015)(8.9) พากย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/Siam-Yuth.jpg",
-"url": "https://redirect.cherry1688.com/view/fdd65d33-f957-5508-b061-1c3c695cce10.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "The Good, the Bad and the Ugly (1996) มือปืนเพชรตัดเพชร (8.9) พากย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/The-Good-the-Bad-and-the-Ugly.jpg",
-"url": "https://redirect.cherry1688.com/view/384df709-8320-513e-8b63-673022a6e4fc.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "Klaus (2019) มหัศจรรย์ตำนานคริสต์มาส (8.9) พากย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/tgkm0rjld73-10572-poster.jpg",
-"url": "https://redirect.cherry1688.com/view/4cb22de1-050c-5a54-b9fe-6c42288d6489.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "Schindler’s List (1993) ชะตากรรมที่โลกไม่ลืม (8.9) พากย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/schindlerslist2.jpg",
-"url": "https://redirect.cherry1688.com/view/84023510-91cd-50c6-9a94-9b5e6c8f1b16.m3u8",
-"playInNatPlayer": "true"
-},
-{ "name": "Baahubali 2 The Conclusion (2017) เปิดตำนานบาฮูบาลี ภาค 2 (8.9) พากย์ไทย",
-"image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/sXf30F2HFpsFPXlNz7jpOySSV9I.jpg",
-"url": "https://redirect.cherry1688.com/view/505d806c-a082-5e73-aa7f-fe7b96a71dd2.m3u8",
-"playInNatPlayer": "true"
+            },
+            { 
+                  name    : "The Call (Call) | Netflix (2020) สายตรงต่ออดีต (9) พาย์ไทย",
+                  image   : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/11/yjgwWbN2IgUiMXOZd4NrlnqdMeq.jpg",
+                  url     : "https://redirect.cherry1688.com/view/7357c994-de3a-527b-bcb8-0b1fd181fc49.m3u8",
+                  playInNatPlayer : "true"
+            },
+            { 
+                 name     : "Long Live the King (2019) ฮีโร่แห่งมกโพจงเจริญ (9) ซาวด์แทร็ก(T)",
+                 image    : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/04/g6brionqe29-13408-poster.jpg",
+                 url      : "https://redirect.cherry1688.com/view/de95b491-e36f-5e26-9aae-1aaaa49e45f4.m3u8",
+                 playInNatPlayer : "true"
+            },
+            { 
+                 name     : "Born Bone Born (2018) บอร์น โบน บอร์น (9) พากย์ไทย",
+                 image    : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/04/k0hn85xlyro-14034-poster.jpg",
+                 url      : "https://redirect.cherry1688.com/view/654f0279-7baa-5c77-96b3-f4c22be44b7d.m3u8",
+                 playInNatPlayer : "true"
+            },
+            { 
+                 name     : "The Dark Knight (2008) แบทแมน อัศวินรัตติกาล (9) พากย์ไทย",
+                 image    : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/12/d7uyejzpbk6-669-poster.jpg",
+                 url      : "https://redirect.cherry1688.com/view/badce73b-d7b0-5cbe-8349-26104c7fee59.m3u8",
+                 playInNatPlayer : "true"
+            },
+            { 
+                 name      : "The Enchanting Phantom (2020) โปเยโปโลเย (9) พากย์ไทย",
+                 image     : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2020/05/qan4xgi6ok7-14203-poster.jpg",
+                 url       : "https://redirect.cherry1688.com/view/993cb821-1d99-5efd-88f5-df354385905b.m3u8",
+                 playInNatPlayer : "true"
+            },
+            {
+                 name      : "สยามยุทธ Siam Yuth The Dawn of the Kingdom (2015)(8.9) พากย์ไทย",
+                 image     : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/Siam-Yuth.jpg",
+                 url       : "https://redirect.cherry1688.com/view/fdd65d33-f957-5508-b061-1c3c695cce10.m3u8",
+                 playInNatPlayer : "true"
+            },
+            { 
+                 name      : "The Good, the Bad and the Ugly (1996) มือปืนเพชรตัดเพชร (8.9) พากย์ไทย",
+                 image     : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/The-Good-the-Bad-and-the-Ugly.jpg",
+                 url       : "https://redirect.cherry1688.com/view/384df709-8320-513e-8b63-673022a6e4fc.m3u8",
+                 playInNatPlayer : "true"
+            },
+            { 
+                name       : "Klaus (2019) มหัศจรรย์ตำนานคริสต์มาส (8.9) พากย์ไทย",
+                image      : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/tgkm0rjld73-10572-poster.jpg",
+                url        : "https://redirect.cherry1688.com/view/4cb22de1-050c-5a54-b9fe-6c42288d6489.m3u8",
+                playInNatPlayer : "true"
+            },
+            { 
+                name       : "Schindler’s List (1993) ชะตากรรมที่โลกไม่ลืม (8.9) พากย์ไทย",
+                image      : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/schindlerslist2.jpg",
+                url        : "https://redirect.cherry1688.com/view/84023510-91cd-50c6-9a94-9b5e6c8f1b16.m3u8",
+                playInNatPlayer : "true"
+            },
+            { 
+               name        : "Baahubali 2 The Conclusion (2017) เปิดตำนานบาฮูบาลี ภาค 2 (8.9) พากย์ไทย",
+               image       : "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/11/sXf30F2HFpsFPXlNz7jpOySSV9I.jpg",
+               url         : "https://redirect.cherry1688.com/view/505d806c-a082-5e73-aa7f-fe7b96a71dd2.m3u8",
+               playInNatPlayer : "true"
 },
 { "name": "Star Wars: Episode 5 The Empire Strikes Back (1980) จักรวรรดิเอมไพร์โต้กลับ (8.8) พากย์ไทย",
 "image": "https://i0.wp.com/www.doomovie-free.com/wp-content/uploads/2019/12/mfabn791w8q-2663-poster.jpg",
