@@ -2,7 +2,7 @@
 		"name": " หนังแอคชั่น",
 		"author": "monitor",
 		"image":"https://img.online-station.net/_content/2018/1213/gallery/1544675494.jpg",
-		"url": "https://raw.githubusercontent.com/monitor118/mono/master/action",
+		"url": "https://github.com/monitor118/mono/master/action",
 		
 
 		"stations":[
@@ -14,7 +14,7 @@
   url   : "https://www.doo2you.com/movies/unhinged/"
   },
 {
-  namae: " Unhinged เฮียคลั่งดับเครื่องชน บรรยายไทย",
+  name: " Unhinged เฮียคลั่งดับเครื่องชน บรรยายไทย",
   image: "https://movie222hd.com/wp-content/uploads/p694.jpg",
   url:   "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Unhinged_2020/Unhinged_2020_ST.mp4/index.m3u8"
   },
