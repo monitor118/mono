@@ -94,6 +94,7 @@
 						name	: " NETFLIX movies  ",
 						image	: "https://www.234.in.th/images/2021/01/24/142789085_782518955946504_5241989861283217931_n.png",
 						url	: "https://www.dropbox.com/s/75fq7ehk0bt8di6/NETFLIX%20movie.w3u?dl=1",
+							   
 						import	: false
                                 	},	
 
