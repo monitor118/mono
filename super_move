@@ -11,6 +11,15 @@
 	    			"image": "http://csinema.com/wp-content/uploads/2017/05/Klasifikasi-Genre-Dalam-Film.jpg",
           
      			"groups": [
+					
+                     			{
+						name	: "    คลังหนัง..3000เรื่อง",
+						image	: "https://sv1.picz.in.th/images/2021/02/20/ooXs1t.png",
+						url	: "https://www.dropbox.com/s/f566olh5s7obzym/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.w3u?dl=1",
+						import	: false
+					},   
+					
+					
 					{
 						name	: "Action ",
 						image	: "https://img.online-station.net/_content/2018/1213/gallery/1544675494.jpg",
@@ -21,39 +30,48 @@
                                       	{
 						name	: "ผจญภัย",
 						image	: "https://sv1.picz.in.th/images/2021/01/25/lrLRGf.png",
-						url	: "https://www.dropbox.com/s/sighegl9v5tfq0c/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2.w3u?dl=1",
+						url	: "https://dl.dropbox.com/s/j5cwlgr65rid428/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2.w3u?dl=0",
 						import	: false
 					},
 					
                                         {
 						name	: "ตลก comedy" ,
 						image	: "https://sv1.picz.in.th/images/2021/01/25/lrLbC0.png",
-						url	: "https://www.dropbox.com/s/ckl5oc3tdl0dbnx/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B8%A5%E0%B8%81.w3u?dl=1",
+						url	: "https://dl.dropbox.com/s/lakei9tbv7bivwv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B8%A5%E0%B8%81.w3u?dl=0",
 						import	: false
 					},	                                                                                                                             
 					{
 						name	: "สยองขวัญ เขย่าประสาท",
 						image	: "https://sv1.picz.in.th/images/2021/01/25/lrLaJS.png",
-						url	: "https://www.dropbox.com/s/hesgxs8u6c7z9l6/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D.w3u?dl=1",
+						url	: "https://dl.dropbox.com/s/d2h82m5xepk5ec2/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D.w3u?dl=0",
 						import	: false
 					},
-                                        {
+                                        
+					{
+						name    : "animation",
+						image	: "https://sv1.picz.in.th/images/2021/01/25/lrLqHz.png",
+						url	: "https://dl.dropbox.com/s/klx0h79pchtlckf/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B9%88%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99.w3u?dl=0",
+						import	: false
+					},
+
+			
+					{
 						name	: "สงคราม",
 						image	: "https://sv1.picz.in.th/images/2021/01/25/lrLG5g.png",
-						url	: "https://www.dropbox.com/s/z7oqib6zo6peida/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1.w3u?dl=1",
+						url	: "https://dl.dropbox.com/s/s06nfxlpvbeobt4/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1.w3u?dl=0",
 						import	: false
 					},
 
                                        	{
 						name	: "Drama ",
 						image	: "https://sv1.picz.in.th/images/2021/01/25/lrLJVW.png",
-						url	: "https://www.dropbox.com/s/zierdrydzwr8om6/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95.w3u?dl=1",
+						url	: "https://dl.dropbox.com/s/dbnthyhklmxqdj6/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95.w3u?dl=0",
 						import	: false
 					},
                                       	{
 						name	: "Family",
 						image	: "https://sv1.picz.in.th/images/2021/01/25/lrLeS2.png",
-						url	: "https://www.dropbox.com/s/loqlcvccyxbvqzf/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7.w3u?dl=1",
+						url	: "https://dl.dropbox.com/s/hen0qxvdc6zrtwk/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7.w3u?dl=0",
 						import	: false
 					}
 				     ]
