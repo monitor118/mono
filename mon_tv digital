@@ -89,14 +89,10 @@
                    },
 
 		    {
-			    "name": "Workpoint",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
-			      "url": "https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/workpoint/",
-			      "referer":"http://freetvdd.com"
-                            // url:"https://cdn1.ufalive.center/app/workpoint/playlist.m3u8",
-			    // referer:"https://dooballz.com/"
-			   //"url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv",
-		           //"referer": "https://player.we-play.tv"
+			    name    : "Workpoint",
+                            image   : "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
+			    url	    : "https://www.dailymotion.com/video/x6g9qjj/",
+			   
                    },
 
 		    {
@@ -109,10 +105,10 @@
                    },
 
 		   {
-			    "name": "MONOPLUS",
-                            "image": "https://www.brandage.com/images/content/980E807-639BFEB-71438E9.jpg",
-                            "url": "https://edge4-bkk.3bb.co.th/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8",
-		            "referer": "https://edge4-bkk.3bb.co.th"
+			    name: "MONOPLUS",
+                            image: "https://www.brandage.com/images/content/980E807-639BFEB-71438E9.jpg",
+                            url: "https://www.doo2you.com/doballsod/tv/161"
+		            
                    },
 	
 	
