@@ -91,8 +91,8 @@
 		    {
 			    name    : "Workpoint",
                             image   : "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
-			    //url     :"https://www.dailymotion.com/video/x6g9qjj"
-			    url	    : "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8"
+			    url     :"https://www.dailymotion.com/video/x6g9qjj"
+			    //url	    : "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8"
 			   	       
                    },
 
