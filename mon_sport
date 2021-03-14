@@ -47,25 +47,26 @@
 			       },
 			       {	
 				name	: "BT SPORTS 1",  
-				image	: "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
-				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
-				referer	: "https://dooball66.com/",
-				playInNatPlayer: "true"
+				image	: "https://doo2you.com/icon/BTSport1HD.png",  
+				url	: "https://www.doo2you.com/doballsod/tv/47",
+				//playInNatPlayer: "true"
 				},
 				{
 				name	: "BT SPORTS 2",  
-				image	: "http://runnel.ir/ax/logo/BT_Sport_2_Small.png",  
-				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f",
-				referer	: "https://dooball66.com/",
+				image	: "https://doo2you.com/icon/BTSport2HD.png",  
+				url	: "https://www.doo2you.com/doballsod/tv/48",
 				playInNatPlayer: "true"
 				},
 				{
 				name	: "BT SPORTS 3",  
-				image	: "http://runnel.ir/ax/logo/BT_Sport_3_Small.png",  
-				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f",
-				referer	: "https://dooball66.com/",
-				playInNatPlayer: "true"
-				},          				
+				image	: "https://doo2you.com/icon/BTSport3HD.png",  
+				url	: "https://www.doo2you.com/doballsod/tv/49",
+				},     
+				{
+				name	: "BT SPORTS ESPN",  
+				image	: "https://doo2you.com/icon/btsportespn.png",  
+				url	: "https://www.doo2you.com/doballsod/tv/54",
+				},          
 
                         	{
 			    "name": "True Premier Football HD 1",
