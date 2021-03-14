@@ -45,7 +45,12 @@
 //"referer": "https://dooball66.com/",
 				//"isHost": "true"
 			       },
-			     
+			      {	
+				name	: "BT SPORTS 1",  
+				image	: "https://doo2you.com/icon/BTSport1HD.png",  
+				url	: "https://www.doo2you.com/doballsod/tv/47"
+				//playInNatPlayer: "true"
+				},
 
                         	{
 			    "name": "True Premier Football HD 1",
