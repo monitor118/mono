@@ -57,6 +57,11 @@
 				url	: "https://www.doo2you.com/doballsod/tv/48",
 				playInNatPlayer: "true"
 				},
+				{
+				name	: "BT SPORTS 3",  
+				image	: "https://doo2you.com/icon/BTSport3HD.png",  
+				url	: "https://www.doo2you.com/doballsod/tv/49"
+				},     
 
                         	{
 			    "name": "True Premier Football HD 1",
