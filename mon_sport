@@ -48,7 +48,7 @@
 			       {	
 				name	: "BT SPORTS 1",  
 				image	: "https://doo2you.com/icon/BTSport1HD.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/47",
+				url	: "https://www.doo2you.com/doballsod/tv/47"
 				//playInNatPlayer: "true"
 				},
 				{
@@ -60,12 +60,12 @@
 				{
 				name	: "BT SPORTS 3",  
 				image	: "https://doo2you.com/icon/BTSport3HD.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/49",
+				url	: "https://www.doo2you.com/doballsod/tv/49"
 				},     
 				{
 				name	: "BT SPORTS ESPN",  
 				image	: "https://doo2you.com/icon/btsportespn.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/54",
+				url	: "https://www.doo2you.com/doballsod/tv/54"
 				},          
 
                         	{
