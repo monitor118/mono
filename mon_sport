@@ -25,7 +25,7 @@
 				"image": "https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png",  
 				"url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8",
 				"playInNatPlayer": "true"
-},
+			},
 			{
 				"name": "3BB Sport 1",
 				"image":"https://sv1.picz.in.th/images/2020/12/06/jgW47y.png",
@@ -45,28 +45,7 @@
 //"referer": "https://dooball66.com/",
 				//"isHost": "true"
 			       },
-			       {	
-				name	: "BT SPORTS 1",  
-				image	: "https://doo2you.com/icon/BTSport1HD.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/47"
-				//playInNatPlayer: "true"
-				},
-				{
-				name	: "BT SPORTS 2",  
-				image	: "https://doo2you.com/icon/BTSport2HD.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/48",
-				playInNatPlayer: "true"
-				},
-				{
-				name	: "BT SPORTS 3",  
-				image	: "https://doo2you.com/icon/BTSport3HD.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/49"
-				},     
-				{
-				name	: "BT SPORTS ESPN",  
-				image	: "https://doo2you.com/icon/btsportespn.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/54"
-				},          
+			     
 
                         	{
 			    "name": "True Premier Football HD 1",
