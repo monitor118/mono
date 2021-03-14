@@ -45,9 +45,29 @@
 //"referer": "https://dooball66.com/",
 				//"isHost": "true"
 			       },
-          				
+			       {	
+				name	: "BT SPORTS 1",  
+				image	: "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
+				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
+				referer	: "https://dooball66.com/",
+				playInNatPlayer: "true"
+				},
+				{
+				name	: "BT SPORTS 2",  
+				image	: "http://runnel.ir/ax/logo/BT_Sport_2_Small.png",  
+				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f",
+				referer	: "https://dooball66.com/",
+				playInNatPlayer: "true"
+				},
+				{
+				name	: "BT SPORTS 3",  
+				image	: "http://runnel.ir/ax/logo/BT_Sport_3_Small.png",  
+				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f",
+				referer	: "https://dooball66.com/",
+				playInNatPlayer: "true"
+				},          				
 
-                        {
+                        	{
 			    "name": "True Premier Football HD 1",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
                             "url": "https://www.andaman888th.com/?p=6892",
