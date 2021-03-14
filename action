@@ -21,13 +21,24 @@
   {
 	name: " MAD MAX 1",
   	image: "",
-  	url:   "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Unhinged_2020/Unhinged_2020_ST.mp4/index.m3u8"
+  	url:   "chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://server7.oneplayer.online/hls/txsZMUy/file_360.mp4/index-v1-a1.m3u8"
   	
 	},
 {
 	name: " MAD MAX 2",
   	image: "",
-  	url:   "https://server7.oneplayer.online/.../fil.../index-v1-a1.m3u8"
+  	url:   "https://l.facebook.com/l.php?u=https%3A%2F%2Fserver7.oneplayer.online%2Fhls%2FWMueNqF%2Ffile_360.mp4%2Findex-v1-a1.m3u8"
+  	
+	},
+{
+	name: " MAD MAX 3",
+  	image: "",
+  	url:   "https://l.facebook.com/l.php?u=https%3A%2F%2Fserver5.oneplayer.online%2Fhls%2FQxGrHcC%2Ffile_360.mp4%2Findex-v1-a1.m3u8"
+  	
+	},
+	name: " MAD MAX 4 ",
+  	image: "",
+  	url:   "https://l.facebook.com/l.php?u=https%3A%2F%2Fserver16.oneplayer.online%2Fhls%2Fjz76rfC%2Ffile_360.mp4%2Findex-v1-a1.m3u8"
   	
 	},
 
