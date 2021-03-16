@@ -11,13 +11,15 @@
 {
 "name"	: "Last Dance Ep.1",  
 "image"	: "https://mainstand.co.th/photos/3/BASKETBALL/TheLastDance/93788394_2563736490504952_495783712953204736_n.jpg",  
-"url"	: "https://www.dooseries.tv/player/12561",
+//"url"	: "https://www.dooseries.tv/player/12561",
+"url"	: "https://www.doomovie-hd.com/?r=movie_view&id=20633&disc=1",
 //https://govmovie.org/the-last-dance-s01e01/ep/122683"
 "playInNatPlayer": "true"
     },
     {
 "name"	: "Last Dance Ep.2",  
 "image"	: "https://mainstand.co.th/photos/3/BASKETBALL/TheLastDance/93788394_2563736490504952_495783712953204736_n.jpg",  
+"url"	: "https://www.doomovie-hd.com/?r=movie_view&id=20633&disc=2",
 "url"	: "https://govmovie.org/the-last-dance-s01e02/ep/122684",
 "playInNatPlayer": "true"
     },
