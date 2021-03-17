@@ -103,18 +103,7 @@
 			    "referer":"https://www.adintrend.tv"	     
 		    // "url": "https://player.we-play.tv/channel.php?name=mono29&cate=digitaltv",
 		    //        "referer": "https://player.we-play.tv"
-                   },
-
-		   {
-			    name: "MONOPLUS",
-                            image: "https://www.brandage.com/images/content/980E807-639BFEB-71438E9.jpg",
-                            url: "https://www.doo2you.com/doballsod/tv/161"
-		            
-                   },
-	
-	
-	
-
+                   }
 		
     ]
 }
