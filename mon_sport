@@ -19,6 +19,14 @@
   				"url": "https://www.premierdream.com/program/",
  				"webviewType": "chrome",
  				"embed": true
+				
+				
+			},
+			{
+				name 	:"HighLights Premier League",  
+				image	: "https://img.pptvhd36.com/thumbor/2020/07/24/program-46e359869f.jpg",  
+				url	: "https://sport.trueid.net/premier-league/clips"
+				//playInNatPlayer": "true"
 			},
 			{
 				"name": "ROH",  
