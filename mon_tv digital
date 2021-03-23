@@ -92,7 +92,7 @@
 			    name    : "Workpoint",
                             image   : "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
 			   // url     :"https://www.workpointtv.com/live-stream-page/"
-			    url	    : "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8"
+			    url	    : "http://160.119.77.117/iptv/hd-workpoint.stream/chunks.m3u8"
 			   	       
                    },
 
