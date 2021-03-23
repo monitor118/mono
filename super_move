@@ -5,7 +5,8 @@
 	"author": "monitor",
 	"image": "https://image.shutterstock.com/image-vector/online-cinema-background-movie-reel-600w-1064314817.jpg",
 	"url": "https://github.com/monitor118/mono/edit/master/super_move",
-		"groups":                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [
+		"groups":
+			[
 	                  {
 				"name": " ประเภท หนัง",
 	    			"image": "http://csinema.com/wp-content/uploads/2017/05/Klasifikasi-Genre-Dalam-Film.jpg",
