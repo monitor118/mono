@@ -10,13 +10,10 @@
 				"name": " ประเภท หนัง",
 	    			"image": "http://csinema.com/wp-content/uploads/2017/05/Klasifikasi-Genre-Dalam-Film.jpg",
           
+	  
+	  
      			"groups": [
-					{
-						name	: "justice league 2021",
-						image	: "https://miro.medium.com/max/6400/1*mQt5qBuhUtInK8W-swCwmQ.jpeg",
-						url	: "https://we-play.tv/watching/movie/zack-snyders-justice-league-2021",
-						import	: false
-					},   
+					
 					
                      			{
 						name	: "คลังหนัง 3000เรื่อง",
@@ -100,6 +97,14 @@
 						name	: " NETFLIX movies  ",
 						image	: "https://www.234.in.th/images/2021/01/24/142789085_782518955946504_5241989861283217931_n.png",
 						url	: "https://raw.githubusercontent.com/monitor118/mono/master/netflix",
+							   
+						import	: false
+                                	},	
+
+					{
+						name	: " justice-league-2021 ",
+						image	: "https://miro.medium.com/max/6400/1*mQt5qBuhUtInK8W-swCwmQ.jpeg",
+						url	: "https://we-play.tv/watching/movie/zack-snyders-justice-league-2021",
 							   
 						import	: false
                                 	},	
