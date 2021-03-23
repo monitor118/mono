@@ -107,9 +107,10 @@
                     },	
 				
 		    {
-	                    "name"  : "BBC Earth",
-                            "image" : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-                            "url"   : "https://www.doofree88.com/live/bbc-earth"
+	                    name  : "BBC Earth",
+                            image : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+                            url	  : "http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8"
+			   //"url"   : "https://www.doofree88.com/live/bbc-earth"
 			    
 		    },
 		
