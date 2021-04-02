@@ -9,12 +9,7 @@
 		"stations":[
                 
 		     
-		    {
-			    "name": "LoveNature 4K",
-                            "image": "https://i.imgur.com/XWDSCI7.png",		
-			     "url":"https://bamus-eng-roku.amagi.tv/playlist.m3u8",
-		              "referer": ""
-		    },  
+		   
 		    {
 			    "name": "LoveNature 4K sub thai",
                             "image": "https://i.imgur.com/XWDSCI7.png",
@@ -110,8 +105,7 @@
 	                    name  : "BBC Earth",
                             image : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
                             url	  : "http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8"
-			   //"url"   : "https://www.doofree88.com/live/bbc-earth"
-			    
+			   			    
 		    },
 		
 		    
@@ -138,8 +132,8 @@
 		    {
 			    "name": "TRUE EXPLORE WILD",
                             "image": "https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",
-                            "url": "https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8",
-		            "referer": "https://doofootball.livestream-cdn.com"
+                            "url": "https://mediasv.online/tvchannel_x1/truewild/playlist.m3u8"
+		            
                     },
 		    {
 			    "name": "TRUE EXPLORE LIFE",
