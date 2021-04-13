@@ -114,7 +114,7 @@
 		   {
 			    	"name"   : "True Film HD",
                             	"image"  : "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
-                         	"url"    : "http://160.119.77.117/iptv/hd-tfilm.stream/chunks.m3u8"
+                         	"url"    : "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f"
 		    },	 
 		     {
 			    	"name"   : "True Asian Series",
