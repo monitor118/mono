@@ -95,9 +95,8 @@
 		    {
 			    name    : "Workpoint",
                             image   : "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
-			    url     : "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
-			  referer   : "https://dooball66.com/",
-		     playInNatPlayer: "true"
+			    url     : "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8"
+		
 			   	       
                    },
 
