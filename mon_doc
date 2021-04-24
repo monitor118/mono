@@ -93,9 +93,9 @@
 			    
 			    }, 
 		    	    {
-			     name  :"AFN,
+			     name  :"AFN",
 			     image :"https://russel.fandom.com/wiki/Asian_Food_Network_(Philippines)_Logos?file=Asian_Food_Channel_Philippines_Logo_2008.png",
-			     uri   :"https://we-play.tv/watching/tv/asian-food-channel"
+			     url   :"https://we-play.tv/watching/tv/asian-food-channel"
 			  } 
 		    {  
 			    "name": "Waku Waku Japan",
