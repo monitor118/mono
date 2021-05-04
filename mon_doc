@@ -41,13 +41,7 @@
 			    "url": "https://www.we-play.tv/watching/tv/national-geographic",
 		             "referer": "https://www.we-play.tv"  
                     },
-		    { 
-		    	    "name"  : "Wild Life",
-			    "image" : "https://tv.xtemus.com/images/ch-wildlife.png", 
-			    "url"   : "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5w203f4i5k454y214t2l5w4u536m274p5m4z5b4b4i4w5l4t4p2m484z5v2i4u5f526f4o5n4n4t2k494r453", 
-			    "playInNatPlayer": "true" 
-			    },
-		    		
+		   		    		
 		    {
 			    "name": "Samrujlok",
                             "image": "https://bit.ly/33mwVq4",
