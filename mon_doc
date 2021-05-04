@@ -83,7 +83,7 @@
 		    {
 		  	    name  : "History",
                             image : "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
-                            url   : "https://we-play.tv/watching/tv/history-hd"
+                            url   : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f"
 			    
 			    }, 
 		    	    {
