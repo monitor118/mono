@@ -86,7 +86,7 @@
                             url    : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
 			    userAgent : "Mozilla/5.0 (Linux; Android 8.1.0; SM-N960F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36",
 			    import: false,
-			    playInNatPlayer: "true" 
+			   // playInNatPlayer: "true" 
 		     }, 
 		    	    {
 			     name  :"AFN",
