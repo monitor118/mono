@@ -48,7 +48,7 @@
 		        	name	: "WWE USA",
 				image	: "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
 			        url     :"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
-                                referer": "https://dooball66.com",
+                                referer : "https://dooball66.com",
                                 playInNatPlayer: "true"
 
 			       },
