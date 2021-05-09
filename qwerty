@@ -110,14 +110,13 @@
 			    	"name"   : "True AXN",
                             	"image"  : "https://i.postimg.cc/pXM9pyqH/axn.jpg",
                          	"url"    : "https://www.we-play.tv/watching/tv/axn-hd"
+				
 		    },	 
 		   {
-			    	"name"   : "True Film HD",
-                            	"image"  : "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
-                         	"url"    : "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",
-				"referer": "https://dooball66.com/",
-			        "info"   : "",
-			        "playInNatPlayer": "true"
+			    	"name"           : "True Film HD",
+                            	"image"          : "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
+                        	"url"            :"https://www.we-play.tv/watching/tv/true-film-hd",
+			 	"playInNatPlayer": "true"
 		    },	 
 		     {
 			    	"name"   : "True Asian Series",
