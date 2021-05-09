@@ -119,11 +119,10 @@
 			 	"playInNatPlayer": "true"
 		    },	 
 		     {
-			    	"name"   : "True Asian Series",
-                            	"image"  : "https://www.jpopthailand.com/th/wp-content/uploads/2015/02/380400_354085558003868_1981452853_n.jpg",
-                         	"url"    :"https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/playlist.m3u8",
-				"referer": "https://beinthai.com/"
-				
+			    	"name"           : "True Asian Series",
+                            	"image"          : "https://www.jpopthailand.com/th/wp-content/uploads/2015/02/380400_354085558003868_1981452853_n.jpg",
+                         	"url"            :"https://wacth.tv/tv-player/asian-series.html",
+                                "playInNatPlayer": "true"
 		    }	  
            ]    
         } 
