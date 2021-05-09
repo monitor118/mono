@@ -76,15 +76,18 @@
 		            "referer": "https://player.we-play.tv"
                    },	
                    {
-		  	     name        : "Voice TV 24 ชม.",
-			     image       : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
-			     url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
-			     webviewType : "chrome",
- 		             embed       : true
-		            // referer   : "https://voicetv.co.th/",
-			    // userAgent : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video",
-			    // info      : "",
-			    // playInNatPlayer : "true"
+		  	     name           : "Voice TV 24 ชม.",
+			     image          : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
+			     url            : "https://tv.guchill.com/Voice-TV-Live.html?l=1",
+                             userAgent      : "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+                             playInNatPlayer: "true", 
+                             desktop        : "true"
+			
+			
+			     //url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+			     //webviewType : "chrome",
+ 		             // embed       : true
+		            
 		   },
 		  
 		    {
