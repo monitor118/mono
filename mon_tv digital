@@ -91,12 +91,15 @@
 		   },
 		  
 		    {
-			     name    : "GMM25",
-                             image   : "https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",
-                             url     : "https://cdn6.goprimetime.info/feed/chgmm/tracks-v1a1/mono.m3u8",
-                             desktop :"true"
-                   },
-
+			     name     : "GMM25",
+                             image    : "https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",
+                             url      : "http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8",
+			     userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+			     playInNatPlayer : "true"
+	            },
+		     
+		     
+		     
 		    {
 			    name    : "Workpoint",
                             image   : "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
