@@ -113,8 +113,9 @@
                             image  : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
                             url    :"https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
 			   referer: "https://dooball66.com",
-                            userAgent      : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Safari/537.36",
-                             playInNatPlayer: "true"
+                            //userAgent      : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Safari/537.36",
+                           userAgent: "Mozilla/5.0 (Linux; Android 8.1.0; SM-N960F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36",
+			   playInNatPlayer: "true"
 			    
    
 		    },
