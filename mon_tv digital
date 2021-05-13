@@ -80,8 +80,8 @@
 			     image          : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
 			     url            : "https://tv.guchill.com/Voice-TV-Live.html?l=1",
                              userAgent      : "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-                             playInNatPlayer: "true", 
-                             desktop        : "true"
+                             playInNatPlayer: "true"
+                             
 			
 			
 			     //url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
