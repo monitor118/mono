@@ -79,7 +79,7 @@
 		  	     name           : "Voice TV 24 ชม.",
 			     image          : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
 			     url            : "https://tv.guchill.com/Voice-TV-Live.html?l=1",
-                             userAgent      : "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+                             userAgent      : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
                              playInNatPlayer: "true"
                              
 			
