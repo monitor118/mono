@@ -110,10 +110,10 @@
 	                    name   : "BBC Earth",
                             image  : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
                             url    :"https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
-			 userAgent: "exoplayer_video",
+			 userAgent: "exoplayer_video"
 			 //"import": false,
-			   referer: "https://dooball66.com",
-                           playInNatPlayer: "true"
+			 //  referer: "https://dooball66.com",
+                         //  playInNatPlayer: "true"
 			    
    
 		    },
