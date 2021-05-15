@@ -76,16 +76,11 @@
 		            "referer": "https://player.we-play.tv"
                    },	
                    {
-		  	     name           : "Voice TV ",
-			     image          : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
-			     url            : "https://tv.guchill.com/Voice-TV-Live.html?l=1",
-                             
-                             
-			
-			
-			     //url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+		  	     name        : "Voice TV ",
+			     image       : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
+			     url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
 			     webviewType : "chrome",
- 		              embed       : true
+ 		             embed       : true
 		            
 		   },
 		  
