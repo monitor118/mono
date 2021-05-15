@@ -77,10 +77,11 @@
                    },	
                    {
 		  	     name        : "Voice TV ",
-			     image       : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
-			      url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
-			     webviewType : "chrome",
- 		             embed       : true
+			     immage       : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
+			      url:"https://www.voicetv.co.th/watch"
+//url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+			    // webviewType : "chrome",
+ 		             //embed       : true
 		            
 		   },
 		  
