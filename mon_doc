@@ -109,8 +109,8 @@
 		    {
 	                    name   : "BBC Earth",
                             image  : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-                            url    : "https://beinsport.biz/live/sd-bbcearth/",
-                            playInNatPlayer: "true"
+                            url    : "https://beinsport.biz/live/sd-bbcearth/"
+                           // playInNatPlayer: "true"
 			  
 			  
 			  //url    :"https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
