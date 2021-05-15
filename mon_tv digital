@@ -78,10 +78,9 @@
                    {
 		  	     name        : "Voice TV ",
 			     image       : "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
-			     url :        "chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://usher.ttvnw.net/api/channel/hls/voicetv.m3u8?allow_source=true&fast_bread=true&p=3797316&play_session_id=e25387bc8615cca93898a8dd7e54f26a&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=912ed2fbe57f30dd8539373fb6701ee8ca0ce909&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22voicetv%22%2C%22channel_id%22%3A209787946%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22"
-			    // url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
-			    // webviewType : "chrome",
- 		            // embed       : true
+			      url         : "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+			     webviewType : "chrome",
+ 		             embed       : true
 		            
 		   },
 		  
