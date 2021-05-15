@@ -46,10 +46,10 @@
 			    "name": "Samrujlok",
                             "image": "https://bit.ly/33mwVq4",
 	        	    "url":" http://61.19.242.134/feed/LC8/index.m3u8",
-			   "userAgent": "exoplayer_video",
+			   "userAgent": "exoplayer_video"
       			   // "playInNatPlayer": "true" 
 			    //"userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-N960F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36",
-			     "import": false
+			    // "import": false
 					    
                     },
 		    {	   
