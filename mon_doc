@@ -109,18 +109,8 @@
 		    {
 	                    name   : "BBC Earth",
                             image  : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-                            url    :"https://cdn-service-hd.livestream-cdn.com/iptv/sd-bbcearth.stream/playlist.m3u8?st=TLob29LE3prD143_Dq3t4g&e=1621067011"
-			    //url    : "https://beinsport.biz/live/sd-bbcearth/",
-			   //webviewType: "chrome",
- 		          // embed: true,
-                          //  playInNatPlayer: "true"
-			  
-			  
-			  //url    :"https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
-			   
-			    
-   
-		    },
+                            url    :"https://cdn-service-hd.livestream-cdn.com/iptv/sd-bbcearth.stream/playlist.m3u8?st=J6DbL_QU_Hi5rAv6-w78AQ&e=1621160684"
+	            },
 		    {
 	                    name   : "BBC Earth (web)",
                             image  : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
