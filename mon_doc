@@ -74,7 +74,9 @@
 		   {
 		  	    "name": "H2",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                             "url":"https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8"
+                             "url":"https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8",
+			     "playInNatPlayer": "true"
+			    
 			    //"url": "https://www.we-play.tv/watching/tv/history-h2"
 		            
                     },
