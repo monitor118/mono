@@ -123,9 +123,9 @@
 	                    name   : "BBC Earth (web)",
                             image  : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
                             url    : "https://beinsport.biz/live/sd-bbcearth/",
-			   // webviewType: "chrome",
- 		           embed: true,
-                           playInNatPlayer: "true"
+			    webviewType: "chrome",
+ 		           embed: true
+                           //playInNatPlayer: "true"
 			  
 			    
 		    },
