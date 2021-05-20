@@ -16,7 +16,8 @@
 			
 				"name": "โปรแกรมบอล",  
   				"image": "https://i.ibb.co/BGQNxmv/image.png",  
-  				"url": "https://www.premierdream.com/program/",
+  				"url"  :"https://www.ijube.com/programs/",
+				//"url": "https://www.premierdream.com/program/",
  				"webviewType": "chrome",
  				"embed": true
 				
@@ -84,8 +85,10 @@
 		        {
 			    "name": "True Premier Football HD 2",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
-                              "url": "https://www.andaman888th.com/?p=6894",
-		            "referer": "https:www.andaman888th.com"
+                            "url"  :"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f&ref=none",
+			      "referer": "https://dooball66.com/iframe/index_iframe.html"
+			    //  "url": "https://www.andaman888th.com/?p=6894",
+		            //"referer": "https:www.andaman888th.com"
                         },				   
 
 		    	{
