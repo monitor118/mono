@@ -93,24 +93,28 @@
                         },				   
 
 		    	{
-			    "name": "True Premier Football HD 3",
-                            "image": "https://overseer.blackboxsys.net/images/png/epl-3.png",
-                            "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f"
-			    
-		            
+			    "name"   : "True Premier Football HD 3",
+                            "image"  : "https://overseer.blackboxsys.net/images/png/epl-3.png",
+			    "url"    : "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f",
+			   "referer" : "https://dooball66.com/",
+			   "playInNatPlayer": "true" 
                    	},
 
 		    	{
 			    "name": "True Premier Football HD 4",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-4.png",
-                            "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f"
+                            "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f",
+			    "referer": "https://dooball66.com/",
+			    "playInNatPlayer": "true"
 		      
                    	},
 				   
 		    	{
 			    "name": "True Premier Football HD 5",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-5.png",
-                            "url": ""https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f"
+                            "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
+			    "referer": "https://dooball66.com/",
+	                    "playInNatPlayer": "true"
 		            
                    	},
 
