@@ -99,22 +99,23 @@
 		    	{
 			    "name": "True Premier Football HD 3",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-3.png",
-                            "url": "https://www.andaman888th.com/?p=6896",
-		            "referer": "https://www.andaman888th.com"
+                            "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f"
+			    
+		            
                    	},
 
 		    	{
 			    "name": "True Premier Football HD 4",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-4.png",
-                            "url": "https://www.andaman888th.com/?p=6899",
-		            "referer": "https://www.andaman888th.com"
+                            "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f"
+		      
                    	},
 				   
 		    	{
 			    "name": "True Premier Football HD 5",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-5.png",
-                            "url": "https://www.andaman888th.com/?p=6901",
-		            "referer": "https://www.andaman888th.com"
+                            "url": ""https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f"
+		            
                    	},
 
 		    	{
