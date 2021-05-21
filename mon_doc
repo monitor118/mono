@@ -38,8 +38,9 @@
 		    {
 			    "name": "National Geographic",
                             "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
-			    "url": "https://www.we-play.tv/watching/tv/national-geographic",
-		             "referer": "https://www.we-play.tv"  
+			    //"url": "https://www.we-play.tv/watching/tv/national-geographic",
+			    "url":"https://wacth.tv/tv-player/national-geographic.html"
+		             //"referer": "https://www.we-play.tv"  
                     },
 		   		    		
 		    {
