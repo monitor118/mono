@@ -120,8 +120,8 @@
 		    },	 
 		     {
 			    	"name"           : "True Film HD2",
-                            	"image"          : "https://www.234.in.th/images/2020/11/20/filmhd2.png",
-                        	"url"            :"https://wacth.tv/tv-player/true-film-hd2.html"
+                            	"image"          : "https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/01_True_Film_HD2.png,
+      				"url"            :"https://wacth.tv/tv-player/true-film-hd2.html"
 			 	
 		    },	
 		    {
