@@ -115,10 +115,20 @@
 		   {
 			    	"name"           : "True Film HD",
                             	"image"          : "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
-                        	"url"            :"https://www.we-play.tv/watching/tv/true-film-hd",
-			 	"playInNatPlayer": "true"
+                        	"url"            :"https://wacth.tv/tv-player/true-film-hd.html"
+			 	
 		    },	 
 		     {
+			    	"name"           : "True Film HD2",
+                            	"image"          : "https://www.234.in.th/images/2020/11/20/filmhd2.png",
+                        	"url"            :"https://wacth.tv/tv-player/true-film-hd2.html"
+			 	
+		    },	
+		    {
+		    		"name"		 :"FilmAsiaHD",
+				"image"          :"https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",
+				"url"            :"https://wacth.tv/tv-player/true-film-asia.html"
+		   {
 			    	"name"           : "True Asian Series",
                             	"image"          : "https://www.jpopthailand.com/th/wp-content/uploads/2015/02/380400_354085558003868_1981452853_n.jpg",
                           	"url"            :"https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=hmcb4rf66f",
