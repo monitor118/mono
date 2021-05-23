@@ -16,8 +16,8 @@
 			
 				"name": "โปรแกรมบอล",  
   				"image": "https://i.ibb.co/BGQNxmv/image.png",  
-  				"url"  :"https://www.ijube.com/programs/",
-				//"url": "https://www.premierdream.com/program/",
+  				//"url"  :"https://www.ijube.com/programs/",
+				"url": "https://www.premierdream.com/program/",
  				"webviewType": "chrome",
  				"embed": true
 				
