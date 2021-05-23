@@ -120,7 +120,7 @@
 		    },	 
 		     {
 			    	"name"           : "True Film HD2",
-                            	"image"          : "https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/01_True_Film_HD2.png,
+                            	"image"          : "https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/01_True_Film_HD2.png",
       				"url"            :"https://wacth.tv/tv-player/true-film-hd2.html"
 			 	
 		    },	
