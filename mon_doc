@@ -86,7 +86,7 @@
                             image  : "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
                           //  url    :"https://www.we-play.tv/watching/tv/history-hd",
                               url    : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-                          referer    : "https://dooball66.com",
+                       //   referer    : "https://dooball66.com",
                          playInNatPlayer : "true"
 			    
                             //desktop:"true "
