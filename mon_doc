@@ -72,6 +72,25 @@
 			   "url": "https://www.we-play.tv/watching/tv/discovery-asia",
 		            "referer": ""
                     },
+	            {
+			    name:"Discovery turbo",
+			    image:"https://www.dropbox.com/s/7c9v4t7wc7cjkig/lit2T8.png?dl=1",
+			    url:"https://adictosalatele.com/TV/latinos/discoveryturbo/"
+			    ,referer:""
+		   },
+		   {
+		   	    name:"Discovery Sci ",
+			    image:"https://www.dropbox.com/s/v3r9c8zckmt1ehf/lx5X4f.png?dl=1",
+			    url:"https://adictosalatele.com/TV/latinos/discoverysciencie/",
+			    referer:"https://www.doomovie-hd.com"
+		   },
+		   {
+			   "name": "nasa",
+			   "image": "https://www.dropbox.com/s/ba7ee2purv2olmd/jt5i7y.png?dl=1",  
+			   "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
+			   "playInNatPlayer": "true"
+	            },
+
 		   {
 		  	    "name": "H2",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
@@ -92,6 +111,19 @@
                             
 			   
 		     }, 
+		     {
+		            name:"4k UHD",
+			    image:"https://sv1.picz.in.th/images/2021/03/30/Da4Euq.png",
+			    url:"http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8",
+			    referer:""
+			    },
+
+		          {
+		     	    name:"Nature",
+			    image:"https://www.dropbox.com/s/xsi15c4s3qa9g39/DV9onI.png?dl=1",
+			    url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7034991-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efe33e33-7d88-4efc-9008-6a4d66c45198&userId=&serverSideAds=true",
+			    referer:""
+			    },
 		    	    {
 			     name  :"AFN",
 			     image :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",
@@ -115,7 +147,9 @@
 		    {
 	                    name   : "BBC Earth",
                             image  : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-                            url    :"https://cdn-service-hd.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8?st=259lnpOLTBDwy5Zrt2Xxxw&e=1621781031&edge=1"
+                            url    :"https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
+			    referer:"https://dooball66.com"
+			    
 			             
 	            },
 		    {
@@ -132,11 +166,18 @@
 		    
 		
 		    {
-			    "name": "BBC Lifestyle",
-                            "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
-                            "url": "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8"
+			    "name"  : "BBC Lifestyle",
+                            "image" : "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+                            "url"   : "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8"
 		            
                     },
+		    {
+		    	     "name"  :"True Wild",
+			     "image" :"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
+			      "url"  :"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
+			      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+			      "desktop": "true"
+			      },
 		    {
 		    	     name  : "Nature",
 			     image : "https://sv1.picz.in.th/images/2021/02/10/otLNhE.png",
