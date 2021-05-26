@@ -76,9 +76,12 @@
 			    name:"Discovery turbo",
 			    image:"https://www.dropbox.com/s/7c9v4t7wc7cjkig/lit2T8.png?dl=1",
 			    url:"https://adictosalatele.com/TV/latinos/discoveryturbo/",
-			   "playInNatPlayer": "true",
-			   userAgent: "exoplayer_video",
-			   referer:""
+			   
+"playInNatPlayer": "true",
+webviewType: "chrome",
+ 		           embed: true
+			  // userAgent: "exoplayer_video",
+			  // referer:""
 		   },
 		   {
 		   	    name:"Discovery Sci ",
