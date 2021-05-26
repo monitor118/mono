@@ -78,7 +78,7 @@
 			   "image"  : "https://dsnnepal.com/wp-content/uploads/2020/08/discovery-turbo-hd.png",
 			   "url"    : "https://adictosalatele.com/TV/latinos/discoveryturbo/",
 		           "referer": "https://adictosalatele.com",
-			   "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+			   //"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 			   "playInNatPlayer": "true"
                 },
 		  
