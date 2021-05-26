@@ -77,7 +77,7 @@
 			    image:"https://www.dropbox.com/s/7c9v4t7wc7cjkig/lit2T8.png?dl=1",
 			    url:"https://adictosalatele.com/TV/latinos/discoveryturbo/",
 			   "playInNatPlayer": "true",
-			   userAgent: "exoplayer_video,
+			   userAgent: "exoplayer_video",
 			   referer:""
 		   },
 		   {
