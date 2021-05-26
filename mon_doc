@@ -153,7 +153,8 @@
 	                    name   : "BBC Earth",
                             image  : "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
                             url    :"https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
-			    "playInNatPlayer": "true",
+			   userAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+			    playInNatPlayer: "true",
 			    referer:"https://dooball66.com"
 			    
 			             
