@@ -130,6 +130,7 @@
 		            name:"4k UHD",
 			    image:"https://sv1.picz.in.th/images/2021/03/30/Da4Euq.png",
 			    url:"http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8",
+			    "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 			    referer:"",
 			     playInNatPlayer : "true"
 			    },
