@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg?fit=512%2C512",สำรวจโลก
 http://27.254.130.62/feed/LC8/index.m3u8
@@ -9,3 +8,5 @@ http://27.254.130.62/feed/LC8/index.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-discovery.png",Discovery
 https://www.we-play.tv/watching/tv/discovery-channel
 
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
