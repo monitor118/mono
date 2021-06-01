@@ -1,12 +1,15 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg?fit=512%2C512",สำรวจโลก
-http://27.254.130.62/feed/LC8/index.m3u8
-
-#EXTINF:-1 group-title="สารคดี"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-discovery.png",Discovery
-https://www.we-play.tv/watching/tv/discovery-channel
-
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/04/jIQVCgg4NBeV2Zr5NMqav7MaNWn-200x300.jpg",Nobody (2021) TH
+https://redirect.cherry1688.com/view/952c1296-1cf3-5597-9849-81f517767f0a.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1621081348_1.jpg",Long Weekend
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/Long_Weekend_2021/Long_Weekend_2021_ST.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1620812684_cover2.png",Oxygen 2021
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/Oxygen_2021/Oxygen_T.mp4/index.m3u8
+
