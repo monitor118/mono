@@ -1,6 +1,6 @@
 {
-		"name": "สารคดี",
-	
+	    	"name": "สารคดี",
+	  
 	          "author": "monitor",
 	       	   "image":"https://i.gifer.com/g3Xm.gif",
                    "url": "https://raw.githubusercontent.com/monitor118/mono/master/mon_doc",
@@ -22,12 +22,10 @@
 		    {
 			    "name": "Animal Planet",
                             "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-                    	 //   "url":"https://tv.xtemus.com/play.php?ch=aHR0cHM6Ly93d3cud2UtcGxheS50di93YXRjaGluZy90di9hbmltYWwtcGxhbmV0"
-		             "url": "https://wacth.tv/tv-player/animal-planet.html",
+                    	    "url": "https://wacth.tv/tv-player/animal-planet.html",
                              "referer": "https://wacth.tv/",
                              "playInNatPlayer": "true"
-			     //"url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
-		            
+					            
                     },
 
     
@@ -44,9 +42,8 @@
 		    {
 			    "name": "National Geographic",
                             "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
-			    //"url": "https://www.we-play.tv/watching/tv/national-geographic",
 			    "url":"https://wacth.tv/tv-player/national-geographic.html"
-		             //"referer": "https://www.we-play.tv"  
+		         
                     },
 		   		    		
 		    {
@@ -67,12 +64,11 @@
 			    "name": "Discovery Channel",
                             "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                                     
-			    //"url": "https://www.we-play.tv/watching/tv/discovery-channel"
-			    "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+			     "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
 		            "referer": "https://dooball66.com/",
 
                              "playInNatPlayer": "true"
-			    // "url": "http://160.119.77.116:8081/iptv/sd-discovery.stream/playlist.m3u8"
+			    
 			    
                     },		    
 		    	    {
@@ -82,7 +78,7 @@
 		            "referer": "https://dooball66.com/",
 		            "playInNatPlayer": "true"
                            
-			   //"url": "https://www.we-play.tv/watching/tv/discovery-asia",
+			   
 		            
                     },
 	          
@@ -112,22 +108,18 @@
 		   {
 		  	    "name": "H2",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                            //"url":"https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8",
-			    "url": "https://www.doomovie-hd.com/?r=tv_view&id=58",
+                            "url": "https://www.doomovie-hd.com/?r=tv_view&id=58",
                             "referer": "https://www.doomovie-hd.com/",
      			    "playInNatPlayer": "true"
 			    
-			    //"url": "https://www.we-play.tv/watching/tv/history-h2"
-		            
+			   		            
                     },
 		    {
 		            name:"History",
 			    image:"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
-			 //   url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-                         //	referer:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"
-			 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-                         "referer": "https://dooball66.com",
-                         "playInNatPlayer": "true"
+        		     url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+                           referer: "https://dooball66.com",
+                         playInNatPlayer : "true"
 			    },
 		
 		              
