@@ -25,7 +25,8 @@
                     	 //   "url":"https://tv.xtemus.com/play.php?ch=aHR0cHM6Ly93d3cud2UtcGxheS50di93YXRjaGluZy90di9hbmltYWwtcGxhbmV0"
 		             "url": "https://wacth.tv/tv-player/animal-planet.html",
                              "referer": "https://wacth.tv/",
-                             "playInNatPlayer": "true"//"url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
+                             "playInNatPlayer": "true"
+			     //"url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
 		            
                     },
 
