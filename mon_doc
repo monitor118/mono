@@ -72,9 +72,12 @@
 		    	    {
 			    "name": "Discovery Asia",
                             "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-                           //"url":"https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8",
-			   "url": "https://www.we-play.tv/watching/tv/discovery-asia",
-		            "referer": ""
+			    "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
+		            "referer": "https://dooball66.com/",
+		            "playInNatPlayer": "true"
+                           
+			   //"url": "https://www.we-play.tv/watching/tv/discovery-asia",
+		            
                     },
 	          
 		  {
@@ -103,8 +106,10 @@
 		   {
 		  	    "name": "H2",
                             "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                            "url":"https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8",
-    			    "playInNatPlayer": "true"
+                            //"url":"https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8",
+			    "url": "https://www.doomovie-hd.com/?r=tv_view&id=58",
+                            "referer": "https://www.doomovie-hd.com/",
+     			    "playInNatPlayer": "true"
 			    
 			    //"url": "https://www.we-play.tv/watching/tv/history-h2"
 		            
@@ -112,28 +117,21 @@
 		    {
 		            name:"History",
 			    image:"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
-			    url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-			    referer:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"
+			 //   url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+                         //	referer:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"
+			 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+                         "referer": "https://dooball66.com",
+                         "playInNatPlayer": "true"
 			    },
 		
-		
-		
-		
-		{
-		  	    name   : "History",
-                            image  : "https://wcchistory.files.wordpress.com/2011/12/history-id1.jpg",
-                            url    :"https://www.we-play.tv/watching/tv/history-hd",
-                           playInNatPlayer : "true"
-			    
-                            //desktop:"true "
-			    
-                            
+		              
 			   
 		     }, 
 		     {
 		            name:"4k UHD",
 			    image:"https://sv1.picz.in.th/images/2021/03/30/Da4Euq.png",
 			    url:"http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8"
+			    "playInNatPlayer": "true"
 	            },
 
 		          {
