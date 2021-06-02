@@ -71,34 +71,16 @@
 			    
 			    
                     },		    
-		    	    {
+		    {
 			    "name": "Discovery Asia",
                             "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
 			    "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
 		            "referer": "https://dooball66.com/",
 		            "playInNatPlayer": "true"
-                           
-			   
-		            
+                           			    
                     },
 	          
-		  {
-			   "name"   : "discoveryturbo",  
-			   "image"  : "https://dsnnepal.com/wp-content/uploads/2020/08/discovery-turbo-hd.png",
-			   "url"    : "https://adictosalatele.com/TV/latinos/discoveryturbo/",
-		           "referer": "https://adictosalatele.com",
-			   //"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-			   "playInNatPlayer": "true"
-                },
-		  
-		   {
-		   	    name:"Discovery Sci ",
-			    image:"https://www.dropbox.com/s/v3r9c8zckmt1ehf/lx5X4f.png?dl=1",
-			    url:"https://adictosalatele.com/TV/latinos/discoverysciencie/",
-			    "playInNatPlayer": "true",
-			    referer:"https://www.doomovie-hd.com"
-		   },
-		   {
+		    {
 			   "name": "nasa",
 			   "image": "https://www.dropbox.com/s/ba7ee2purv2olmd/jt5i7y.png?dl=1",  
 			   "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
@@ -123,12 +105,10 @@
 			    },
 		
 		              
-			   
-		     
 		     {
 		            name:"4k UHD",
 			    image:"https://sv1.picz.in.th/images/2021/03/30/Da4Euq.png",
-			    url:"http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8"
+			    url:"http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8",
 			    "playInNatPlayer": "true"
 	            },
 
@@ -154,21 +134,10 @@
 			    "name": "PSI",
                             "image": "https://i.imgur.com/c6Hl1yV.png",
                             "url":"http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
-		     //"url": "https://www.fwiptv.cc/player_demo.php?channel=9039",
 		            "referer": ""
                     },	
 				
-		                        
-	            {
-			     name:"BBC earth",
-			     image:"https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
-			     url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
-			     referer:"https://dooball66.com"
-	            },
-			    
-   
-			    
-		    {
+    	            {
 	                    name   : "BBC Earth (web)",
                             image  : "https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
                             url    : "https://beinsport.biz/live/sd-bbcearth/",
