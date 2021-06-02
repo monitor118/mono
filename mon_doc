@@ -61,7 +61,11 @@
 			    "name": "Discovery Channel",
                             "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                                     
-			    "url": "https://www.we-play.tv/watching/tv/discovery-channel"
+			    //"url": "https://www.we-play.tv/watching/tv/discovery-channel"
+			    "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+		            "referer": "https://dooball66.com/",
+
+                             "playInNatPlayer": "true"
 			    // "url": "http://160.119.77.116:8081/iptv/sd-discovery.stream/playlist.m3u8"
 			    
                     },		    
