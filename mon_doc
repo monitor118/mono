@@ -22,8 +22,10 @@
 		    {
 			    "name": "Animal Planet",
                             "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-                    	    "url":"https://tv.xtemus.com/play.php?ch=aHR0cHM6Ly93d3cud2UtcGxheS50di93YXRjaGluZy90di9hbmltYWwtcGxhbmV0"
-		             //"url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
+                    	 //   "url":"https://tv.xtemus.com/play.php?ch=aHR0cHM6Ly93d3cud2UtcGxheS50di93YXRjaGluZy90di9hbmltYWwtcGxhbmV0"
+		             "url": "https://wacth.tv/tv-player/animal-planet.html",
+                             "referer": "https://wacth.tv/",
+                             "playInNatPlayer": "true"//"url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary",
 		            
                     },
 
@@ -31,7 +33,10 @@
 		    {
 			    "name": "Nat Geo Wild",
                             "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                             "url": "https://www.we-play.tv/watching/tv/nat-geo-wild"
+                             "url": "https://huay222tv.com/tv-player/nat-geo-wild-hd.html",
+                             "referer": "https://huay222tv.com/",
+                              "playInNatPlayer": "true"
+			     
 		            
                     },
 	     
