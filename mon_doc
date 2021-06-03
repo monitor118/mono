@@ -61,22 +61,22 @@
       			    "playInNatPlayer": "true"
 		   },
 		    {
-			    "name": "Discovery Channel",
-                            "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
+			    name: "Discovery Channel",
+                            image: "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                                     
-			     "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-		            "referer": "https://dooball66.com/",
-
+			    // "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+			    
+		            url :"https://wacth.tv/tv-player/discovery-hd.html",
                              "playInNatPlayer": "true"
 			    
 			    
                     },		    
 		    {
-			    "name": "Discovery Asia",
-                            "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-			    "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
-		            "referer": "https://dooball66.com/",
-		            "playInNatPlayer": "true"
+			    name: "Discovery Asia",
+                            image: "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
+			     url:"https://wacth.tv/tv-player/discovery-asia.html",
+			    //"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
+		            playInNatPlayer: "true"
                            			    
                     },
 	          
@@ -98,9 +98,10 @@
 		    {
 		            name    :"History",
 			    image   :"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
-        		    url     : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-                            referer : "https://dooball66.com",
-                         playInNatPlayer : "true"
+        		    url     :"https://www.we-play.tv/watching/tv/history-hd",
+			    //url     : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+                            
+                       
 	            },
 		    {
 	                    name   : "BBC Earth (web)",
