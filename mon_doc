@@ -96,12 +96,34 @@
 			   		            
                     },
 		    {
-		            name:"History",
-			    image:"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
-        		     url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-                           referer: "https://dooball66.com",
+		            name    :"History",
+			    image   :"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
+        		    url     : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+                            referer : "https://dooball66.com",
                          playInNatPlayer : "true"
-			    },
+	            },
+		    {
+	                    name   : "BBC Earth (web)",
+                            image  : "https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
+                            url    : "https://beinsport.biz/live/sd-bbcearth/",
+			    webviewType: "chrome",
+ 		           embed: true
+                           //playInNatPlayer: "true"
+			  
+			    
+		    },
+		    {
+		            name    : "BBC Earth",
+                            image   : "https://ewsat.com/img/BBC_EARTH.png",
+		            url     : "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
+			    referer :"https://dooball66.com"
+		    },
+		    {
+			    "name"  : "BBC Lifestyle",
+                            "image" : "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+                            "url"   : "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8"
+		            
+                    },
 		
 		              
 		     {
@@ -136,24 +158,7 @@
 		            "referer": ""
                     },	
 				
-    	            {
-	                    name   : "BBC Earth (web)",
-                            image  : "https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
-                            url    : "https://beinsport.biz/live/sd-bbcearth/",
-			    webviewType: "chrome",
- 		           embed: true
-                           //playInNatPlayer: "true"
-			  
-			    
-		    },
-		
-		
-		    {
-			    "name"  : "BBC Lifestyle",
-                            "image" : "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
-                            "url"   : "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8"
-		            
-                    },
+    	            
 		    {
 		    	     "name"  :"True Wild",
 			     "image" :"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
