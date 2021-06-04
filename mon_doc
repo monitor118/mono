@@ -10,171 +10,188 @@
                 
 		     
 		   
-		    {
-			    "name": "LoveNature 4K sub thai",
-                            "image": "https://i.imgur.com/XWDSCI7.png",
-                              "url": "https://we-play.tv/watching/tv/lovenature-4k",
-		          "referer": "https://player.we-play.tv"
+			{
+			    	"name": "LoveNature 4K sub thai",
+                            	"image": "https://i.imgur.com/XWDSCI7.png",
+                              	"url": "https://we-play.tv/watching/tv/lovenature-4k",
+		          	"referer": "https://player.we-play.tv"
 	
 			                      	    
-		    },
+		    	},
 		    
-		    {
-			    "name": "Animal Planet",
-                            "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-                    	    "url": "https://wacth.tv/tv-player/animal-planet.html",
-                             "referer": "https://wacth.tv/",
-                             "playInNatPlayer": "true"
+		    	{
+			    	"name": "Animal Planet",
+                            	"image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
+                    	    	"url": "https://wacth.tv/tv-player/animal-planet.html",
+                             	"referer": "https://wacth.tv/",
+                             	"playInNatPlayer": "true"
 					            
-                    },
+                    	},
 
     
-		    {
-			    "name": "Nat Geo Wild",
-                            "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                             "url": "https://huay222tv.com/tv-player/nat-geo-wild-hd.html",
-                             "referer": "https://huay222tv.com/",
-                              "playInNatPlayer": "true"
+		    	{
+			    	"name": "Nat Geo Wild",
+                            	"image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+                             	"url": "https://huay222tv.com/tv-player/nat-geo-wild-hd.html",
+                             	"referer": "https://huay222tv.com/",
+                              	"playInNatPlayer": "true"
 			     
 		            
-                    },
+                    	},
 	     
-		    {
-			    "name": "National Geographic",
-                            "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
-			    "url":"https://wacth.tv/tv-player/national-geographic.html"
+		    	{
+			    	"name": "National Geographic",
+                            	"image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
+			    	"url":"https://wacth.tv/tv-player/national-geographic.html"
 		         
-                    },
+                    	},
 		   		    		
-		    {
-			    "name": "Samrujlok",
-                            "image": "https://bit.ly/33mwVq4",
-	        	    "url":"http://27.254.130.62/feed/LC8/tracks-v1a1/mono.m3u8"
-			  // "userAgent": "exoplayer_video"
+		    	{
+			    	"name": "Samrujlok",
+                            	"image": "https://bit.ly/33mwVq4",
+	        	    	"url":"http://27.254.130.62/feed/LC8/tracks-v1a1/mono.m3u8"
+			  	// "userAgent": "exoplayer_video"
       			   
 					    
-                    },
-		    {	   
-			    "name": "Mysci",
-      			    "image": "http://www.nextsteptv.com/mysci/wp-content/uploads/2018/03/myscihd-01-260361.png",
-      			    "url": "https://boxmovielive.com/live/mysci.m3u8",
-      			    "playInNatPlayer": "true"
-		   },
-		    {
-			    name: "Discovery Channel",
-                            image: "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
+                    	},
+		    	{	   
+			    	"name": "Mysci",
+      			    	"image": "http://www.nextsteptv.com/mysci/wp-content/uploads/2018/03/myscihd-01-260361.png",
+      			    	"url": "https://boxmovielive.com/live/mysci.m3u8",
+      			    	"playInNatPlayer": "true"
+		   	},
+		    	{
+			    	name: "Discovery Channel",
+                            	image: "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                                     
-			    // "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+			    	// "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
 			    
-		            url :"https://wacth.tv/tv-player/discovery-hd.html",
-                             "playInNatPlayer": "true"
+		            	url :"https://wacth.tv/tv-player/discovery-hd.html",
+                             	"playInNatPlayer": "true"
 			    
 			    
-                    },		    
-		    {
-			    name: "Discovery Asia",
-                            image: "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-			     url:"https://wacth.tv/tv-player/discovery-asia.html",
+                    	},		    
+		    	{
+			    	name: "Discovery Asia",
+                            	image: "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
+			     	url:"https://wacth.tv/tv-player/discovery-asia.html",
 			    //"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
-		            playInNatPlayer: "true"
+		            	playInNatPlayer: "true"
                            			    
-                    },
+                    	},
 	          
-		    {
-			   "name": "nasa",
-			   "image": "https://www.dropbox.com/s/ba7ee2purv2olmd/jt5i7y.png?dl=1",  
-			   "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
-			   "playInNatPlayer": "true"
-	            },
+		    	{
+			   	"name": "nasa",
+			   	"image": "https://www.dropbox.com/s/ba7ee2purv2olmd/jt5i7y.png?dl=1",  
+			   	"url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
+			   	"playInNatPlayer": "true"
+	            	},
 
-		   {
-		  	    "name": "H2",
-                            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-                            "url": "http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8",
-                            "playInNatPlayer": "true"
+		   	{
+		  	    	"name": "H2",
+                            	"image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
+                            	"url": "http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8",
+                            	"playInNatPlayer": "true"
 			    
 			   		            
-                    },
-		    {
-		            name    :"History",
-			    image   :"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
-        		    url     :"https://www.we-play.tv/watching/tv/history-hd"
-			    //url     : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-                            
+                    	},
+		    	{
+		            	name    :"History",
+			    	image   :"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
+        		    	url     :"https://www.we-play.tv/watching/tv/history-hd"
+			    	//url     : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+                        
                        
-	            },
-		    {
-	                    name   : "BBC Earth (web)",
-                            image  : "https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
-                            url    : "https://beinsport.biz/live/sd-bbcearth/",
-			    webviewType: "chrome",
- 		           embed: true
+	            	},
+		    	{
+	                    	name   : "BBC Earth (web)",
+                            	image  : "https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
+                            	url    : "https://beinsport.biz/live/sd-bbcearth/",
+			    	webviewType: "chrome",
+ 		           	embed: true
                            //playInNatPlayer: "true"
-			  
-			    
-		    },
-		    {
-		            name    : "BBC Earth",
-                            image   : "https://ewsat.com/img/BBC_EARTH.png",
-		            url     : "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
-			    "userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
-			    referer :"https://dooball66.com"
-		    },
-		     { 
-       			   "name": "BBC EARTH 1",
-        		  "image": "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
-        		    "url": "https://dogtoop.com:8443/bbcearth/TBJSZSjjZR/64",
-                      "userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
-       		"playInNatPlayer": "true"
+		  
 			},
-		    {
-			    "name"  : "BBC Lifestyle",
-                            "image" : "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
-                            "url"   : "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8"
+		    	{
+		            	name    : "BBC Earth",
+                            	image   : "https://ewsat.com/img/BBC_EARTH.png",
+		            	url     : "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
+			    	"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
+			    	referer :"https://dooball66.com"
+		    	},
+		     	{ 
+       			   	"name": "BBC EARTH 1",
+        		  	"image": "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
+        		    	"url": "https://dogtoop.com:8443/bbcearth/TBJSZSjjZR/64",
+                      		"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
+       				"playInNatPlayer": "true"
+			},
+		    	{
+			    	"name"  : "BBC Lifestyle",
+                            	"image" : "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+                            	"url"   : "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8"
 		            
-                    },
+                    	},
 		
 		              
-		     {
-		            name:"4k UHD",
-			    image:"https://sv1.picz.in.th/images/2021/03/30/Da4Euq.png",
-			    url:"http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8"
+		     	{
+		            	name:"4k UHD",
+			    	image:"https://sv1.picz.in.th/images/2021/03/30/Da4Euq.png",
+			    	url:"http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8"
 			    
-	            },
+	            	},
 
-		          {
-		     	    name:"Nature",
-			    image:"https://www.dropbox.com/s/xsi15c4s3qa9g39/DV9onI.png?dl=1",
-			    url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7034991-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efe33e33-7d88-4efc-9008-6a4d66c45198&userId=&serverSideAds=true",
-			    referer:""
-			    },
-		    	    {
-			     name  :"AFN",
-			     image :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",
-			     url   :"https://we-play.tv/watching/tv/asian-food-channel"
-			  } ,
-		    {  
-			    "name": "Waku Waku Japan",
-			    "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
-			    "url": "https://we-play.tv/watching/tv/waku-waku-japan",
-			    "referer": "https://we-play.tv/"
-		    },		
+		       	{
+		     	    	name:"Nature",
+			    	image:"https://www.dropbox.com/s/xsi15c4s3qa9g39/DV9onI.png?dl=1",
+			    	url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7034991-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efe33e33-7d88-4efc-9008-6a4d66c45198&userId=&serverSideAds=true",
+			    	referer:""
+			},
+		    	{
+			     	name  :"AFN",
+			     	image :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",
+			     	url   :"https://we-play.tv/watching/tv/asian-food-channel"
+			} ,
+		    	{  
+			    	"name": "Waku Waku Japan",
+			    	"image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
+			    	"url": "https://we-play.tv/watching/tv/waku-waku-japan",
+			    	"referer": "https://we-play.tv/"
+		    	},		
 		
-		    {
-			    "name": "PSI",
-                            "image": "https://i.imgur.com/c6Hl1yV.png",
-                            "url":"http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
-		            "referer": ""
-                    },	
+		    	{
+			    	"name": "PSI",
+                            	"image": "https://i.imgur.com/c6Hl1yV.png",
+                            	"url":"http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
+		            	"referer": ""
+                    	},	
 				
     	            
-		    {
-		    	     "name"  :"True Wild",
-			     "image" :"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
-			      "url"  :"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
-			      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-			      "desktop": "true"
-			      },
+		    	{
+		    	     	"name"  :"True Wild",
+			     	"image" :"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
+			      	"url"  :"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
+			      	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+			      	"desktop": "true"
+	            	},
+			      
+	            	{ 
+                             	"name": "TRUE EXPLORE SCI ",
+       				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
+	       			"url": "https://dogtoop.com:8443/truesci/tBbB6H7LkQ/174",
+       				"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
+       				"playInNatPlayer": "true" 
+			},
+			{ 
+       				"name": "TRUE EXPLORE LIFE b",
+       				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
+       				"url": "https://dogtoop.com:8443/truelife/HxxtEY4fMq/177",
+       				"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
+       				"playInNatPlayer": "true"
+			},
+			      
+			      
+			      
 		    {
 		    	     name  : "Nature",
 			     image : "https://sv1.picz.in.th/images/2021/02/10/otLNhE.png",
@@ -187,9 +204,7 @@
 			    "url"   : "http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8",
 			    "playInNatPlayer": "true"
 	         }
-
-	
-		 		 				   			      
+		   			      
  
    ]
 }
