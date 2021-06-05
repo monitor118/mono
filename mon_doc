@@ -119,23 +119,17 @@
                            //playInNatPlayer: "true"
 		  
 			},
-		    	{
-		            	name    : "BBC Earth",
-                            	image   : "https://ewsat.com/img/BBC_EARTH.png",
-		            	url     : "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
-			    	"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
-			    	referer :"https://dooball66.com"
-		    	},
-		     	{ 
-       			   	"name": "BBC EARTH 1",
-        		  	"image": "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
-        		    	"url": "https://dogtoop.com:8443/bbcearth/TBJSZSjjZR/64",
-                      		"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
+		    	{ 
+       				"name": "BBC EARTH ",
+        			"image": "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
+        			"url": "https://dogtoop.com:8443/bbcearth/TBJSZSjjZR/64",
+        			"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
        				"playInNatPlayer": "true"
 			},
+		     	
 		    	{
 			    	"name"  : "BBC Lifestyle",
-                            	"image" : "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+                            	"image" : "https://1.bp.blogspot.com/-OnOm7RSatn4/UIcI6ttOGYI/AAAAAAAAdjE/N7x8NIRy38U/s1600/BBC+Lifestyle+logo.jpg",
                             	"url"   : "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8"
 		            
                     	},
