@@ -10,15 +10,21 @@
                 
 		     
 		   
-			{
-			    	"name": "LoveNature 4K sub thai",
-                            	"image": "https://i.imgur.com/XWDSCI7.png",
-                              	"url": "https://we-play.tv/watching/tv/lovenature-4k",
-		          	"referer": "https://player.we-play.tv"
+			//{
+			//    	"name": "LoveNature 4K sub thai",
+                        //    	"image": "https://i.imgur.com/XWDSCI7.png",
+                        //      	"url": "https://we-play.tv/watching/tv/lovenature-4k",
+		        //  	"referer": "https://player.we-play.tv"
 	
 			                      	    
-		    	},
-		    
+		    	//},
+		     { 
+       				"name": "4K LOVE NATURE sub thai",
+       				"image": "http://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",
+       				"url": "https://dogtoop.com:8443/lovenatrue/D3SRdkp2pq/168",
+       				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+       				"playInNatPlayer": "true"  
+},
 		    	{
 			    	"name": "Animal Planet",
                             	"image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
@@ -95,14 +101,21 @@
 			    
 			   		            
                     	},
-		    	{
-		            	name    :"History",
-			    	image   :"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
-        		    	url     :"https://www.we-play.tv/watching/tv/history-hd"
-			    	//url     : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
+		    	//{
+		        //    	name    :"History",
+			//    	image   :"https://www.dropbox.com/s/cm4m24crjlo11h8/hd-history.png?dl=1",
+        		//    	url     :"https://www.we-play.tv/watching/tv/history-hd"
+			//    	//url     : "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
                         
                        
-	            	},
+	            	//},
+			{ 
+      				"name": "History HD",
+      				"image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
+       				"url": "https://fo1iptv.com/tv-player/history-hd.html",
+				"referer": "https://fo1iptv.com/"   
+      	
+			}, 
 		    	{
 	                    	name   : "BBC Earth (web)",
                             	image  : "https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
@@ -152,13 +165,7 @@
 			     	image :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",
 			     	url   :"https://we-play.tv/watching/tv/asian-food-channel"
 			} ,
-		    	{  
-			    	"name": "Waku Waku Japan",
-			    	"image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
-			    	"url": "https://we-play.tv/watching/tv/waku-waku-japan",
-			    	"referer": "https://we-play.tv/"
-		    	},		
-		
+		    		
 		    	{
 			    	"name": "PSI",
                             	"image": "https://i.imgur.com/c6Hl1yV.png",
@@ -183,7 +190,7 @@
        				"playInNatPlayer": "true" 
 			},
 			{ 
-       				"name": "TRUE EXPLORE LIFE b",
+       				"name": "TRUE EXPLORE LIFE ",
        				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
        				"url": "https://dogtoop.com:8443/truelife/HxxtEY4fMq/177",
        				"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
