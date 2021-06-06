@@ -40,11 +40,16 @@
 			{
 				"name": "3BB Sport 1",
 				"image":"https://sv1.picz.in.th/images/2020/12/06/jgW47y.png",
-				"url": "https://www.we-play.tv/watching/tv/3bb-sports-1",
-				"referer": "https://we-play.tv/",
+				"url": "https://dogtoop.com:8443/3bbsport/swjL5Wb8yd/163",
+				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
 				"playInNatPlayer": "true"
 			},
-			
+			 { 
+       				"name": "world snooker",
+       				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",              
+       				"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist.m3u8",
+       				"import": false
+ 			},
 			{
 		        	name	: "WWE USA",
 				image	: "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
@@ -55,19 +60,23 @@
 			      {	
 				name	: "BT SPORTS 1",  
 				image	: "https://doo2you.com/icon/BTSport1HD.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/47",
-				playInNatPlayer: "true"
+				url	:"https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f&ref=none",
+				referer:"https://dooball66.com/"
+				
 				},
 				{
 				name	: "BT SPORTS 2",  
-				image	: "https://doo2you.com/icon/BTSport2HD.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/48",
-				playInNatPlayer: "true"
+				image	: "https://doo2you.com/icon/BTSport2HD.png",
+				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hdbkp&api_key=hmcb4rf66f&ref=none",
+				referer	: "https://dooball66.com/"
+				
 				},
 				{
 				name	: "BT SPORTS 3",  
 				image	: "https://doo2you.com/icon/BTSport3HD.png",  
-				url	: "https://www.doo2you.com/doballsod/tv/49"
+				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f&ref=none",
+				referer	: "https://dooball66.com/iframe/index_iframe.html"
+				
 				},    
 				{
 				name	: "BT SPORTS ESPN",  
@@ -76,28 +85,27 @@
 				},          
 
                         	{
-			    "name": "True Premier Football HD 1",
-                            "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
-                            "url"  :"https://www.we-play.tv/watching/tv/true-premier-football-hd-1"
+			    	"name": "True Premier Football HD 1",
+                            	"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
+                            	"url"  :"https://www.we-play.tv/watching/tv/true-premier-football-hd-1"
 			
                         },
 
 		        {
-			    "name": "True Premier Football HD 2",
-                            "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
-                            "url"  :"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f",
-			    
-			      "referer": "https://dooball66.com",
-			      "playInNatPlayer": "true"
-			  
-                        },				   
+				"name": "True Premier Football HD 2",
+                      		"image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
+				"url": "https://dogtoop.com:8443/epl2010/SwHv7VuUxk/156",
+				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        			"playInNatPlayer": "true"
+
+                        	},				   
 
 		    	{
-			    "name"   : "True Premier Football HD 3",
-                            "image"  : "https://overseer.blackboxsys.net/images/png/epl-3.png",
-			    "url"    : "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f",
-			   "referer" : "https://dooball66.com/",
-			   "playInNatPlayer": "true" 
+			"name"   : "True Premier Football HD 3",
+                       	"image"  : "https://overseer.blackboxsys.net/images/png/epl-3.png",
+			"url": "https://fo1iptv.com/tv-player/true-premuim-3.html",
+			"referer": "https://fo1iptv.com/"  
+			    
                    	},
 
 		    	{
@@ -119,26 +127,39 @@
                    	},
 
 		    	{
-			    "name": "True Sport HD",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-tsport1.png",
-                            "url": "https://player.we-play.tv/channel.php?name=thd1&cate=sports",
-		            "referer": "https://player.we-play.tv"
+			"name": "True Sport HD",
+                       	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport1.png",
+			"image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
+			"url": "https://fo1iptv.com/tv-player/true-sport-1hd.html",
+			"referer": "https://fo1iptv.com/"
+                        
                    	},
 
 			{
-			    "name": "True Sport HD2",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-tsport2.png",
-                            "url": "https://player.we-play.tv/channel.php?name=thd2&cate=sports",
-		            "referer": "https://player.we-play.tv"
+			"name": "True Sport HD2",
+                       	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport2.png",
+			"image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
+			"url": "https://dogtoop.com:8443/truesporthd2/uEuppg7QSm/58",
+			"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        		"playInNatPlayer": "true"
+                            
  		       	},
 		
 		
     			{
-			    "name": "True Sport HD3",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-tsport3.png",
-                            "url": "https://player.we-play.tv/channel.php?name=thd3&cate=sports",
-		            "referer": "https://player.we-play.tv"
+			"name": "True Sport HD3",
+                     	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport3.png",
+			"url": "https://dogtoop.com:8443/truesporthd3/k4KXS5jHms/59",
+			"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        		"playInNatPlayer": "true"
+                            
                      	},	
+			 {	 
+         		"name":"True Sports HD4",
+        		"image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
+	 		"url": "https://fo1iptv.com/tv-player/true-sport-4hd.html",
+			"referer": "https://fo1iptv.com/"
+			},
 		
 			{
 			    "name": "True Sport 2",
@@ -205,27 +226,29 @@
 		            "referer": "https://player.we-play.tv"
                    	},
 
-	    		{
-			    "name": "Golf Channel",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-golf.png",
-                            "url": "https://player.we-play.tv/channel.php?name=golf&cate=sports",
-		            "referer": "https://player.we-play.tv"
-                   	},
 	    		
+			{	
+			"name": "F1",
+			"image": "https://www.dropbox.com/s/er76rjlf06ror4x/PicsArt_04-18-05.46.57.png?dl=1",
+			"url": "https://adictosalatele.com/TV/deportes/formula1/",
+			"referer": ""
+			},
+
 			{
 			    "name": "True Tennis",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-tennis.png",
-                            "url": "https://player.we-play.tv/channel.php?name=tennis&cate=sports",
+			    "url":"https://www.we-play.tv/watching/tv/true-tennis",
 		            "referer": "https://player.we-play.tv"
                    	},
 	   
 	   		{
-			    "name": "NBA",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-nba.png",
-                            "url": "https://player.we-play.tv/channel.php?name=nba&cate=sports",
-		            "referer": "https://player.we-play.tv"
-                   	},
-				   
+			     "name": "NBA",
+			     "image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
+			     "url": "https://wacth.tv/tv-player/nba-hd.html",
+			     "referer": "https://player.we-play.tv"
+			     },
+
+			   
 	    		{
 			    "name": "Motor Vision",
                             "image": "http://www.3visiondistribution.com/uploads/images/Motorvision_story_TV_dark_landscape_whitetypo_copy.png",
