@@ -10,9 +10,11 @@
 		  {
 			    	"name"  : "HBO",
                             	"image" : "https://www.tvchinese.net/uploads/tv/hbohd.jpg",
-                         	 "url"  : "https://www.dropbox.com/s/cxgr1ongofirbrb/hbo_sd.m3u8?dl=1",
-				//"url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
-			  	"referer" : ""
+				"url"	:"https://dogtoop.com:8443/hbo/G5kF4tBb3g/26",
+				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
+				"playInNatPlayer": "true"
+				
+                         	 
                     
 		    },
 		  {
@@ -26,17 +28,18 @@
 		    {
 			    	"name"   : "RedbyHBO",
                             	"image"  : "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
-                         	"url"    : "https://www.we-play.tv/watching/tv/red-by-hbo",
-			  	"referer": ""
-                    
+				"url"	:"https://dogtoop.com:8443/redhbo/dFqPqfqKE3/148",
+				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
+				"playInNatPlayer": "true"
+				
+                         	
 		    },
                         {
 			    	"name"   : "HBO Hits",
                             	"image"  : "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",		
-                         	"url"    : "https://www.we-play.tv/watching/tv/hbo-hits",
-				//"url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
-			  	"referer" : ""
-                    
+                         	"url"	 :"https://dogtoop.com:8443/hbohits/XYTUADvEuv/147",
+				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
+				"playInNatPlayer": "true"
 		   },
 		   {
 			    	"name"   : "HBO family ",
