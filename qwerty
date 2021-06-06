@@ -10,8 +10,8 @@
 		  {
 			    	"name"  : "HBO",
                             	"image" : "https://www.tvchinese.net/uploads/tv/hbohd.jpg",
-				"url"	:"https://dogtoop.com:8443/hbo/G5kF4tBb3g/26",
-				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
+				"url"	: "https://dogtoop.com:8443/hbo/G5kF4tBb3g/26",
+				"userAgent" : "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
 				"playInNatPlayer": "true"
 				
                          	 
@@ -37,7 +37,7 @@
                         {
 			    	"name"   : "HBO Hits",
                             	"image"  : "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",		
-                         	"url": "https://dogtoop.com:8443/hbohits/XYTUADvEuv/147",
+                         	"url"	 : "https://dogtoop.com:8443/hbohits/XYTUADvEuv/147",
  				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
 				"playInNatPlayer": "true
 		   },
