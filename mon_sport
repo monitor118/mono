@@ -53,7 +53,8 @@
 			{
 		        	name	: "WWE USA",
 				image	: "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
-			        url     :"https://ustvgo.tv/wwe-network/",
+			        url :"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
+				// url     :"https://ustvgo.tv/wwe-network/",
                                 playInNatPlayer: "true"
 
 			       },
