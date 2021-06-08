@@ -10,27 +10,21 @@
                 
 		     
 		   
-			//{
-			//    	"name": "LoveNature 4K sub thai",
-                        //    	"image": "https://i.imgur.com/XWDSCI7.png",
-                        //      	"url": "https://we-play.tv/watching/tv/lovenature-4k",
-		        //  	"referer": "https://player.we-play.tv"
-	
-			                      	    
-		    	//},
-		     { 
-       				"name": "4K LOVE NATURE sub thai",
-       				"image": "http://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",
-       				"url": "https://dogtoop.com:8443/lovenatrue/D3SRdkp2pq/168",
-       				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-       				"playInNatPlayer": "true"  
-},
+			{
+			    	"name": "LoveNature 4K sub thai",
+                            	"image": "https://i.imgur.com/XWDSCI7.png",
+                              	"url": "https://we-play.tv/watching/tv/lovenature-4k",
+		          	"referer": "https://player.we-play.tv"
+	              	},
+		    
 		    	{
-			    	"name": "Animal Planet",
-                            	"image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-                    	    	"url": "https://wacth.tv/tv-player/animal-planet.html",
-                             	"referer": "https://wacth.tv/",
-                             	"playInNatPlayer": "true"
+			    	name	: "Animal Planet",
+                            	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
+				url	:"https://www.we-play.tv/watching/tv/animal-planet",
+                    	    	//"url": "https://wacth.tv/tv-player/animal-planet.html",
+				referer	: "https://player.we-play.tv"
+                             	//referer	: "https://wacth.tv/",
+
 					            
                     	},
 
