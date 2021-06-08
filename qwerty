@@ -10,7 +10,8 @@
 		  {
 			    	"name"  : "HBO",
                             	"image" : "https://www.tvchinese.net/uploads/tv/hbohd.jpg",
-				"url"	: "https://dogtoop.com:8443/hbo/G5kF4tBb3g/26",
+				"url"	: "https://dl.dropboxusercontent.com/s/cxgr1ongofirbrb/hbo_sd.m3u8",
+				
 				"userAgent" : "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
 				"playInNatPlayer": "true"
 				
@@ -44,7 +45,7 @@
 		   {
 			    	"name"   : "HBO family ",
                             	"image"  : "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png",
-                         	"url"    : "https://www.we-play.tv/watching/tv/hbo-family",
+                         	"url"    : "https://dl.dropboxusercontent.com/s/64835cjvpiy9gzc/FAMILY-SD.m3u8",
 			  	"referer" : ""
                     
 		   },
