@@ -91,17 +91,16 @@
 			 { 
     				"name": "H2 ",
     				"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    				"url": "https://dogtoop.com:8443/live/h21/5PUyTkxZg7/70.ts",
-    				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-    				"playInNatPlayer": "true"  
+    				"url": "https://www.doomovie-hd.com/?r=tv_view&id=58"
+    				
  
 			},
 		    	
 			{ 
       				"name": "History HD",
       				"image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-       				"url": "https://fo1iptv.com/tv-player/history-hd.html",
-				"referer": "https://fo1iptv.com/"   
+       				"url": "https://we-play.tv/watching/tv/history-hd",
+				"referer": "https://we-play.tv/"   
       	
 			}, 
 		    	{
@@ -167,14 +166,15 @@
 	            	{ 
                              	"name": "TRUE EXPLORE SCI ",
        				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
-	       			"url": "https://dogtoop.com:8443/truesci/tBbB6H7LkQ/174",
-       				"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
-       				"playInNatPlayer": "true" 
+	       			"url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci"
+				
+				
 			},
 			{ 
        				"name": "TRUE EXPLORE LIFE ",
        				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
-       				"url": "https://dogtoop.com:8443/truelife/HxxtEY4fMq/177",
+       				//"url": "hhttps://siamtv88.co/index.php?a=live_details&channel_code=th-explife"
+				url :"https://tv.trueid.net/embed/true-explore-life?autoplay=yes&nopageview=yes",
        				"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
        				"playInNatPlayer": "true"
 			},
