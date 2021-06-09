@@ -173,10 +173,10 @@
 			{ 
        				"name": "TRUE EXPLORE LIFE ",
        				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
-       				//"url": "hhttps://siamtv88.co/index.php?a=live_details&channel_code=th-explife"
-				url :"https://tv.trueid.net/embed/true-explore-life?autoplay=yes&nopageview=yes",
-       				"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
-       				"playInNatPlayer": "true"
+       				"url": "hhttps://siamtv88.co/index.php?a=live_details&channel_code=th-explife"
+				
+       				//"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
+       				//"playInNatPlayer": "true"
 			},
 			      
 			      
