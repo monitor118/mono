@@ -13,7 +13,7 @@
 			{
 			    	"name": "LoveNature 4K sub thai",
                             	"image": "https://i.imgur.com/XWDSCI7.png",
-                              	"url": "https://we-play.tv/watching/tv/lovenature-4k",
+                              	"url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary",
 		          	"referer": "https://player.we-play.tv"
 	              	},
 		    
@@ -21,12 +21,12 @@
 			    	name	: "Animal Planet",
                             	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
 				url	:"https://www.we-play.tv/watching/tv/animal-planet",
-                    	    	//"url": "https://wacth.tv/tv-player/animal-planet.html",
-				referer	: "https://player.we-play.tv"
+                    	    	"url": "https://wacth.tv/tv-player/animal-planet.html"
+				
+				
                              	//referer	: "https://wacth.tv/",
 
-					            
-                    	},
+			},
 
     
 		    	{
