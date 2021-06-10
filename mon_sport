@@ -45,7 +45,8 @@
 			},
 			{
 				"name": "Astro Super Sport3",  
-				"image": "https://ia800802.us.archive.org/22/items/AstroSupersport3/astro%20supersport%203.png",  
+				//"image": "https://ia800802.us.archive.org/22/items/AstroSupersport3/astro%20supersport%203.png",  
+				image :"https://www.dropbox.com/s/zn7eg9j4kim3qbr/jPilm0.png?dl=1",
 				"url": "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8"
 				
 			},
