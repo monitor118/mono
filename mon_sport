@@ -79,34 +79,39 @@
        				"import": false
  			},
 			{
-		        	name	: "WWE USA",
+		        	name	: "WWE ",
 				image	: "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
 			        //url :"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
-				url	: "https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f&ref=none",
-				referer	: "https://dooball66.com"
-				
-                                
-
+				url	: "https://ustvgo.tv/wwe-network/",
+				"playInNatPlayer": "true"
+			
+			       },
+			       {
+			       "name"	:"WWE 1",  
+			       "image"	: "https://media.giphy.com/media/xUPGcunTzcUAHOm2g8/giphy.gif",  
+			       "url": "https://siamtv88.co/index.php?a=live_details&channel_code=us-wwe","userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
+			       "playInNatPlayer": "true"
+			       
 			       },
 			      {	
 				name	: "BT SPORTS 1",  
 				image	: "https://doo2you.com/icon/BTSport1HD.png",  
-				url	:"https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f&ref=none",
-				referer:"https://dooball66.com/"
+				url	:"https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/btsport1/" 
+				//referer:"https://dooball66.com/"
 				
 				},
 				{
 				name	: "BT SPORTS 2",  
 				image	: "https://doo2you.com/icon/BTSport2HD.png",
-				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hdbkp&api_key=hmcb4rf66f&ref=none",
-				referer	: "https://dooball66.com/"
+				url	: "https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/btsport2/" 
+				//referer	: "https://dooball66.com/"
 				
 				},
 				{
 				name	: "BT SPORTS 3",  
 				image	: "https://doo2you.com/icon/BTSport3HD.png",  
-				url	: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f&ref=none",
-				referer	: "https://dooball66.com/iframe/index_iframe.html"
+				url	: "https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/btsport3/"
+				//referer	: "https://dooball66.com/iframe/index_iframe.html"
 				
 				},    
 				{
