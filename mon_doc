@@ -92,9 +92,9 @@
 			 { 
     				"name": "H2 ",
     				"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    				"url": "https://www.doomovie-hd.com/?r=tv_view&id=58"
+    				//"url": "https://www.doomovie-hd.com/?r=tv_view&id=58"
 				
-				//http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8
+				url :"http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8"
     				
  
 			},
@@ -131,11 +131,7 @@
                             	"url"   : "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8"
 		            
                     	},
-			{
-				name 	:"Cable 37",
-				image 	:"https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",
-				url 	:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
-			},	
+			
 		              
 		     	{
 		            	name:"4k UHD",
@@ -178,7 +174,8 @@
 		    	{
 			    	"name": "PSI",
                             	"image": "https://i.imgur.com/c6Hl1yV.png",
-                            	"url":"http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
+                            	"url":"http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
+
 		            	"referer": ""
                     	},	
 				
