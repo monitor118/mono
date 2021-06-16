@@ -149,12 +149,8 @@
                           	"url"            :"https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=hmcb4rf66f",
                                 "referer"        : "https://dooball66.com",
                                 "playInNatPlayer": "true"
-		    },	 
+		    }
 		    
-		    {
-				name 	:"Cable 37 ชลบุรี",
-				image 	:"https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",
-				url 	:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"  
-			}
+		   
            ]    
         } 
