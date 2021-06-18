@@ -110,8 +110,10 @@
    		    {
 		    		"name"   :"True X-ZYTE",
 				"image"  :"https://sv1.picz.in.th/images/2020/11/30/jfJyNR.png",
-				"url"    :"https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f&ref=none",
-				"referer":"https://dooball66.com"
+				//"url"    :"https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f&ref=none",
+				
+				url :"https://edge-m1.onlineprostream.com:459/hmcb4rf66f-th1/hd-xzyte_720/chunks.m3u8"
+				//"referer":"https://dooball66.com"
 		    },
 
 		    {
@@ -146,8 +148,8 @@
 		     {
 			    	"name"           : "True Asian Series",
                             	"image"          : "https://www.jpopthailand.com/th/wp-content/uploads/2015/02/380400_354085558003868_1981452853_n.jpg",
-                          	"url"            :"https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=hmcb4rf66f",
-                                "referer"        : "https://dooball66.com",
+                          	"url"            :"https://wacth.tv/tv-player/asian-series.html",
+                                "referer"        : "https://wacth.tv",
                                 "playInNatPlayer": "true"
 		    },
 		     {
