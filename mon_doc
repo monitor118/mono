@@ -113,7 +113,7 @@
                             	image  : "https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
                             	url    : "https://beinsport.biz/live/sd-bbcearth/",
 			    	webviewType: "chrome",
- 		           	embed: true,
+ 		           	embed: "true",
                                playInNatPlayer: "true"
 		  
 			},
