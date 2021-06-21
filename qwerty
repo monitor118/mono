@@ -105,7 +105,13 @@
 				"image"	 :"https://sv1.picz.in.th/images/2021/01/26/lXBSHz.png",
 				"url"	 :"https://player.we-play.tv/channel.php?name=paramount&cate=entertainment",
 				"referer" :"https://player.we-play.tv"
-				},
+		    },
+		    {
+		     		name	:"Universal",
+     				image	: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/250px-Universal_Pictures_logo.svg.png",              
+     				url	: "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8", 
+      				import	: false
+		    },
 
    		    {
 		    		"name"   :"True X-ZYTE",
@@ -117,6 +123,13 @@
 				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
 				"playInNatPlayer": "true"
 				
+			},
+			{
+				name	: "True X-ZYTE",
+     				image  	:"https://sv1.picz.in.th/images/2020/11/30/jfJyNR.png",
+     				url	: "https://siamtv88.co/index.php?a=live_details&channel_code=hd-xzyte",
+     				userAgent: "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+				playInNatPlayer: "true"
 			},
 
 		    {
