@@ -188,12 +188,8 @@
 				url		:"https://wacth.tv/tv-player/disney-channel.html",
 				playInNatPlayer: "true"
 			
-		    },
-		     {
-				name 	:"Cable 37 ชลบุรี",
-				image 	:"https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",
-				url 	:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"  
-			}
+		    }
+		     
 		    
 		   
            ]    
