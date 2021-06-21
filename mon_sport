@@ -59,19 +59,8 @@
 
 
 
-			{
-				"name": "ROH",  
-				"image": "https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png",  
-				"url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8",
-				"playInNatPlayer": "true"
-			},
-			{
-				"name": "3BB Sport 1",
-				"image":"https://sv1.picz.in.th/images/2020/12/06/jgW47y.png",
-				"url": "https://dogtoop.com:8443/3bbsport/swjL5Wb8yd/163",
-				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-				"playInNatPlayer": "true"
-			},
+	
+	
 			 { 
        				"name": "world snooker",
        				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",              
@@ -119,7 +108,12 @@
 				image	: "https://doo2you.com/icon/btsportespn.png",  
 				url	: "https://www.doo2you.com/doballsod/tv/54"
 				},          
-
+				{
+				"name": "Motorvision",  
+				"image": "https://www.tvalliance.at/wp-content/uploads/2008/06/motorvision-1030x1030.jpg",  
+				"url": "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8",
+				"playInNatPlayer": "true"
+				},
                         	{
 			    	"name": "True Premier Football HD 1",
                             	"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
