@@ -267,8 +267,10 @@
 	    		{
 			    "name": "NFL Network",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
-                            "url": "https://player.ballnaka.tv/?channel=nfl&cate=sport",
-			    "referer": "https://player.ballnaka.tv"
+                            "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-nfl",
+			    "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
+			    "playInNatPlayer": "true"
+			    
 		            
                    	},
     			{
