@@ -240,14 +240,13 @@
 			"url": "https://adictosalatele.com/TV/deportes/formula1/",
 			"referer": ""
 			},
-
 			{
-			    "name": "True Tennis",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-tennis.png",
-			    "url":"https://www.we-play.tv/watching/tv/true-tennis",
-		            "referer": "https://player.we-play.tv"
-                   	},
-	   
+			"name":"TRUE TENNIS HD",
+			"image":"https://doo2you.com/icon/TrueSportTennis.png",
+			"url":"https://siamtv88.co/index.php?a=live_details&channel_code=hd-tennis",
+			"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
+			"playInNatPlayer": "true"
+			},
 	   		{
 			     "name": "NBA",
 			     "image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
