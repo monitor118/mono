@@ -31,36 +31,8 @@
  				embed: true
 				//playInNatPlayer": "true"
 			},
-			{
-				"name": "Astro Super Sport1",  
-				"image": "https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",  
-				"url": "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8"
-				
-			},
-			{
-				"name": "Astro Super Sport2",  
-				"image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",  
-				"url": "http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8"
-				
-			},
-			{
-				"name": "Astro Super Sport3",  
-				//"image": "https://ia800802.us.archive.org/22/items/AstroSupersport3/astro%20supersport%203.png",  
-				image :"https://www.dropbox.com/s/zn7eg9j4kim3qbr/jPilm0.png?dl=1",
-				"url": "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8"
-				
-			},
-			{
-				"name": "Astro Super Sport4",  
-				"image": "https://pngimage.net/wp-content/uploads/2018/05/astro-arena-logo-png-3.png",  
-				"url": "http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8"
-				
-			},
-
-
-
-	
-	
+			
+			
 			 { 
        				"name": "world snooker",
        				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",              
@@ -114,14 +86,14 @@
                         	{
 			    	"name": "True Premier Football HD 1",
                             	"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
-                            	"url"  :"https://www.we-play.tv/watching/tv/true-premier-football-hd-1"
+                            	"url"  :"https://www.doomovie-hd.com/?r=tv_view&id=151"
 			
                         },
 
 		        {
 				"name": "True Premier Football HD 2",
                       		"image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
-				"url": "https://dogtoop.com:8443/epl2010/SwHv7VuUxk/156",
+				"url": "https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
 				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         			"playInNatPlayer": "true"
 
@@ -164,8 +136,7 @@
 
 			{
 			"name": "True Sport HD2",
-                       	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport2.png",
-			"image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
+                       	 "image": "https://overseer.blackboxsys.net/images/png/sd-tsport2.png",
 			"url": "https://dogtoop.com:8443/truesporthd2/uEuppg7QSm/58",
 			"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         		"playInNatPlayer": "true"
@@ -184,29 +155,25 @@
 			 {	 
          		"name":"True Sports HD4",
         		"image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
-	 		"url": "https://fo1iptv.com/tv-player/true-sport-4hd.html",
-			"referer": "https://fo1iptv.com/"
+	 		"url": "https://www.doomovie-hd.com/?r=tv_view&id=116",
+		"
 			},
 		
-			{
-			    "name": "True Sport 2",
-                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport2.png",
-                            "url": "https://player.we-play.tv/channel.php?name=tsp2&cate=sports",
-		            "referer": "https://player.we-play.tv"
-                   	},		
-		
+					
 			{
 			    "name": "True Sport 5",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",
-                            "url": "https://player.we-play.tv/channel.php?name=tsp5&cate=sports",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://www.doomovie-hd.com/?r=tv_view&id=32",
+		        
                    	},		
 		
 			{
 			    "name": "True Sport 6",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport6.png",
-                            "url": "https://player.we-play.tv/channel.php?name=tsp6&cate=sports",
-		            "referer": "https://player.we-play.tv"
+			    "url": "https://livesod88.com/?id=656037&ch=truesport6",
+			    "referer": "https://livesod88.com/",
+			    "playInNatPlayer": "true"
+                            
                    	},		
 		
 			{
@@ -217,26 +184,39 @@
 			    //"url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports",
 		            //"referer": "https://player.we-play.tv"
                    	},
+			{
+				"name": "Euro Sport HD",
+				"image":"https://docs.google.com/uc?export=download&id=1a356P8OdfIA3aN0QC51VOqm0r5SrOn5b",
+				"url": "https://95-213-224-174.livesports24.online/eurosport1ru.m3u8",
+				"playInNatPlayer": "true" //ให้เล่นทันที//
+			},
+			{
+				"name": "Euro Sport HD2",
+				"image":"https://docs.google.com/uc?export=download&id=1Ka9Vb8xIozXvlcvGiog8KC9SXKSXbHDE",
+				"url": "http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=gelow74",
+				"playInNatPlayer": "true" //ให้เล่นทันที//
+			},
+
 
 			{
 			    "name": "FOX Sports HD",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-foxsports1.png",
-                            "url": "https://player.we-play.tv/channel.php?name=fox1&cate=sports",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8",
+			    "playInNatPlayer": "true"
                    	},
 
 			{
 			    "name": "FOX Sports 2",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-foxsports2.png",
-                            "url": "https://player.we-play.tv/channel.php?name=fox2&cate=sports",
-		            "referer": "https://player.we-play.tv"
+                           "url": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8",
+			    "playInNatPlayer": "true"
                    	},
 				   
 	    		{
 			    "name": "FOX Sports 3",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-foxsports3.png",
-                            "url": "https://player.we-play.tv/channel.php?name=fox3&cate=sports",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8",
+		            "playInNatPlayer": "true"
                    	},
 	    		
 			{
@@ -282,12 +262,7 @@
       				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
       				"desktop": "true"
 			},  
-	    		{
-			    "name": "Motor Vision",
-                            "image": "http://www.3visiondistribution.com/uploads/images/Motorvision_story_TV_dark_landscape_whitetypo_copy.png",
-                            "url": "https://player.we-play.tv/channel.php?name=motor-vision&cate=sports",
-		            "referer": "https://player.we-play.tv"
-                   	},		
+	    			
 		
 	    		{
 			    "name": "NFL Network",
