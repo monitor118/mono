@@ -86,7 +86,10 @@
                         	{
 			    	"name": "True Premier Football HD 1",
                             	"image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
-                            	"url"  :"https://www.doomovie-hd.com/?r=tv_view&id=151"
+				url:"https://siamtv88.co/index.php?a=live_details&channel_code=epl-1","imageScale": "centerCrop",
+				"referer": "https://ball8k.com",  
+				"playInNatPlayer": "true" 
+                            	
 			
                         },
 
@@ -147,9 +150,9 @@
     			{
 			"name": "True Sport HD3",
                      	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport3.png",
-			"url": "https://dogtoop.com:8443/truesporthd3/k4KXS5jHms/59",
-			"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        		"playInNatPlayer": "true"
+			"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd3/",
+			"referer": "https://www.andaman888th.com/",
+			"playInNatPlayer": "true"
                             
                      	},	
 			 {	 
