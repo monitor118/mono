@@ -94,11 +94,11 @@
                         },
 
 		        {
-				"name": "True Premier Football HD 2",
-                      		"image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
-				"url": "https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
-				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        			"playInNatPlayer": "true"
+				name: "True Premier Football HD 2",
+                      		image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
+				url:"https://siamtv88.co/index.php?a=live_details&channel_code=epl-2",
+				referer: "https://player.we-play.tv",  
+				playInNatPlayer: "true" 
 
                         	},				   
 
