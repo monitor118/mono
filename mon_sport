@@ -139,9 +139,8 @@
 			{
 			"name": "True Sport HD2",
                        	 "image": "https://overseer.blackboxsys.net/images/png/sd-tsport2.png",
-			"url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport2",
-			"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        		"playInNatPlayer": "true"
+			"url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport2"
+			
                             
  		       	},
 		
@@ -149,8 +148,8 @@
     			{
 			"name": "True Sport HD3",
                      	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport3.png",
-			"url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport3",
-			"playInNatPlayer": "true"
+			"url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport3"
+			
                             
                      	},	
 			 {	 
