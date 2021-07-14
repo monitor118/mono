@@ -166,9 +166,10 @@
 		    	{
 			    	"name": "PSI",
                             	"image": "https://i.imgur.com/c6Hl1yV.png",
-                            	"url":"http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
+                            	"url": "https://www.inwiptv.com/player_demo.php?channel=9039",
+				"referer": "https://www.inwiptv.com/",
 
-		            	"referer": ""
+
                     	},	
 				
     	            
