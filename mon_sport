@@ -94,10 +94,9 @@
                         },
 
 		        {
-				name: "True Premier Football HD 2",
-                      		image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
-				url:"https://siamtv88.co/index.php?a=live_details&channel_code=epl-2",
-				referer: "https://player.we-play.tv",  
+				name	: "True Premier Football HD 2",
+                      		image	:"https://il.mahidol.ac.th/upload/img/2020-11-08-075352.jpg",
+				url	: "https://siamtv88.co/index.php?a=live_details&channel_code=epl-2",
 				playInNatPlayer: "true" 
 
                         	},				   
@@ -140,7 +139,7 @@
 			{
 			"name": "True Sport HD2",
                        	 "image": "https://overseer.blackboxsys.net/images/png/sd-tsport2.png",
-			"url": "https://dogtoop.com:8443/truesporthd2/uEuppg7QSm/58",
+			"url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport2",
 			"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         		"playInNatPlayer": "true"
                             
@@ -150,16 +149,14 @@
     			{
 			"name": "True Sport HD3",
                      	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport3.png",
-			"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd3/",
-			//https://cloudserver.server-cdn-streaming.com/.../9/live.m3u8
-			"referer": "https://www.andaman888th.com/",
+			"url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport3",
 			"playInNatPlayer": "true"
                             
                      	},	
 			 {	 
          		"name":"True Sports HD4",
         		"image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
-	 		"url": "https://www.doomovie-hd.com/?r=tv_view&id=116"
+	 		"url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport4"
 		
 			},
 		
@@ -188,20 +185,7 @@
 			    //"url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports",
 		            //"referer": "https://player.we-play.tv"
                    	},
-			{
-				"name": "Euro Sport HD",
-				"image":"https://docs.google.com/uc?export=download&id=1a356P8OdfIA3aN0QC51VOqm0r5SrOn5b",
-				"url": "https://95-213-224-174.livesports24.online/eurosport1ru.m3u8",
-				"playInNatPlayer": "true" //ให้เล่นทันที//
-			},
-			{
-				"name": "Euro Sport HD2",
-				"image":"https://docs.google.com/uc?export=download&id=1Ka9Vb8xIozXvlcvGiog8KC9SXKSXbHDE",
-				"url": "http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=gelow74",
-				"playInNatPlayer": "true" //ให้เล่นทันที//
-			},
-
-
+			
 			{
 			    "name": "FOX Sports HD",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-foxsports1.png",
