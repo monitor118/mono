@@ -55,7 +55,29 @@
       			   
 					    
                     	},
-		    
+		    		{
+					"name": "DOONEE",
+					"image": "https://docs.google.com/uc?export=download&id=1U9x0buMAbTz9kNdIRQ-23FikuIh-x5zk",
+					"url": "http://161.82.243.130:1936/HDDoonee/Doonee/playlist.m3u8"
+				},
+				{
+					"name": "WOLRD ANIMAL",
+					"image":"https://docs.google.com/uc?export=download&id=1rKSYUqghWD3QThQaJoSxxUzBKzpfDjKu",
+					"url": "http://159.192.73.198:1072/wanimal",
+					"userAgent": "MXPlayer/1.36.11 (Linux; Android 10; th-TH; Mi MIX 2S Build/QKQ1.190828.002 test-keys)"
+				},
+				{
+					"name": "XPLORE ",
+					"image":"https://docs.google.com/uc?export=download&id=1VB_VRurdlFBBygfwISAvXh-qMNAlMw5J",
+					"url": "https://xplore-plex.amagi.tv/playlist1080-p.m3u8",
+					"referer": ""
+				},
+				{
+					"name": "ANIMAL LIVE",
+					"image":"https://docs.google.com/uc?export=download&id=1VCcdwKisRF9N6F5tJrdxnlDG3cwpea2e",
+					"url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8"
+					},
+
 		    	{
 			    	name: "Discovery Channel",
                             	image: "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
@@ -196,8 +218,39 @@
        				//"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
        				//"playInNatPlayer": "true"
 			},
+			{
+				"name": "JOURNY",
+				"image":"https://docs.google.com/uc?export=download&id=1Y4OEMEFXqVX3a50AUuxGhjh1RDALd1FZ",
+				"url": "https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8",
+				"referer": "",
+				"playInNatPlayer": "true"
+			},
+			{
+				"name": "MOTIRCYCLIST",
+				"image":"https://docs.google.com/uc?export=download&id=1XCRGNMUJnSzXASBtT2k82cE2NprWSVKE",
+				"url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8"
+			},
 			      
-			      
+			{
+				"name": "BEACHES LIVE",
+				"image":"https://docs.google.com/uc?export=download&id=1VD5Vr9iKFUOyAe3tWnZMqax5N1dgPDEO",
+				"url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8",
+				"referer": ""
+			},
+			{
+				"name": "TROPICS LIVE",
+				"image":"https://docs.google.com/uc?export=download&id=1VDlyjSdvrmeYADt0N8tLitwPg32Ihaow" ,
+				"url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8",
+				"referer": ""
+			},
+			{
+				"name": "WATERFALLS LIVE ",
+				"image":"https://docs.google.com/uc?export=download&id=1VHVV1rk4pjnnqPeNCkjfLCSIy-iO2P9l",
+				"url": "https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8",
+				"referer": ""
+			},
+
+
 			      
 		    {
 		    	     name  : "Nature",
