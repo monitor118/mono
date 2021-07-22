@@ -130,10 +130,10 @@
 		    	{
 			"name": "True Sport HD",
                        	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport1.png",
-			//"image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-			"url": "https://fo1iptv.com/tv-player/true-sport-1hd.html",
-			"referer": "https://fo1iptv.com/"
-                        
+			"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd/",
+			"referer": "https://player.we-play.tv"
+			},
+			
                    	},
 
 			{
@@ -170,8 +170,8 @@
 			{
 			    "name": "True Sport 6",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport6.png",
-			    "url": "https://livesod88.com/?id=656037&ch=truesport6",
-			    "referer": "https://livesod88.com/",
+			    "url": "https://www.doomovie-hd.com/?r=tv_view&id=33",
+			    "referer": "",
 			    "playInNatPlayer": "true"
                             
                    	},		
@@ -179,10 +179,9 @@
 			{
 			    "name": "True Sport 7",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
-                            "url":"https://www.we-play.tv/watching/tv/true-sports-7"
-			   
-			    //"url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports",
-		            //"referer": "https://player.we-play.tv"
+			    "url":"https://player.we-play.tv/channel.php?name=tsp7&cate=sports",
+			    "referer": "https://player.we-play.tv"
+			    
                    	},
 			
 			{
