@@ -47,14 +47,12 @@
                     	},
 		   		    		
 		    	{
-			    	"name": "Samrujlok",
-                            	"image": "https://bit.ly/33mwVq4",
-	        	    	//"url":"http://27.254.130.62/feed/LC8/tracks-v1a1/mono.m3u8"
-				url :"http://203.159.95.172:8081/live/explore/playlist.m3u8"
-			  	// "userAgent": "exoplayer_video"
-      			   
-					    
-                    	},
+			    	name	: "Samrujlok",
+                            	image	: "https://bit.ly/33mwVq4",
+	        	    	url 	:"https://cdn6.goprimetime.info/feed/202105171329/LC8/index.m3u8",
+				userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+				playInNatPlayer: "true"
+                   	},
 		    		{
 					"name": "DOONEE",
 					"image": "https://docs.google.com/uc?export=download&id=1U9x0buMAbTz9kNdIRQ-23FikuIh-x5zk",
@@ -189,7 +187,8 @@
 			    	"name": "PSI",
                             	"image": "https://i.imgur.com/c6Hl1yV.png",
                             	"url": "https://www.inwiptv.com/player_demo.php?channel=9039",
-				"referer": "https://www.inwiptv.com/"
+				"referer": "https://www.inwiptv.com/",
+				"playInNatPlayer": "true"
 
 
                     	},	
