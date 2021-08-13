@@ -166,9 +166,10 @@
 		
 					
 			{
-			    "name": "True Sport 5",
-                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",
-                            "url": "https://www.doomovie-hd.com/?r=tv_view&id=32"
+			    name : "True Sport 5",
+                            image: "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",
+                            url  : "https://player.we-play.tv/channel.php?name=tsp5&cate=sports",
+			    referer: "https://player.we-play.tv"
 		        
                    	},		
 		
@@ -184,11 +185,21 @@
 			{
 			    "name": "True Sport 7",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
-			    "url":"https://www.doomovie-hd.com/?r=tv_view&id=60",
+			    "url":"https://365liveball.com/truesport?channel=truesport7",
+			    "referer": "https://player.we-play.tv"
+			    
 			    //http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
-			    "referer": ""
+			    
 			    
                    	},
+			{
+			    "name": "True Sport 7",
+                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
+			    "url":"http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8",
+			    "referer": "https://player.we-play.tv"
+		    
+                   	},
+			
 			
 			{
 			    "name": "FOX Sports HD",
@@ -267,15 +278,16 @@
     			{
 			     "name":"Eursport 1",
 			     "image":"https://il.mahidol.ac.th/upload/img/2020-09-07-051537.jpg",
-			     "url":"https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8",
-			     "referer":"https://cdn1.mobiletv.bg"
+			     "url":"https://www.we-play.tv/watching/tv/eurosport-asia",
+			     "referer": "https://player.we-play.tv"
+			 
 			 },
 	
 			{
 			     "name":"Eursport 2",
 			     "image":"https://il.mahidol.ac.th/upload/img/2020-09-07-051552.jpg",
-			     "url":"https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8",
-			     "referer":"https://cdn1.mobiletv.bg"
+			     "url":"http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8?Manujaz",
+			     "referer":""
 			 }
 						 			  	
 		    ]
