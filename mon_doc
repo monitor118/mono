@@ -16,7 +16,12 @@
                               	"url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary",
 		          	"referer": "https://player.we-play.tv"
 	              	},
-		    
+		    {
+			    	"name": "LoveNature 4K sub thai 1",
+                            	"image": "https://i.imgur.com/XWDSCI7.png",
+                              	"url": "https://we-play.live/watching/tv/lovenature-4k",
+		          	"referer": "https://player.we-play.tv"
+	              	},
 		    	{
 			    	name	: "Animal Planet",
                             	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
