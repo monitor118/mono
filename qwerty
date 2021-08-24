@@ -70,7 +70,7 @@
 		
 		    {
 		    		"name"   : "FOX Action",
-		   		"image"  :"https://upload.wikimedia.org/wikipedia/commons/b/bc/Fox_action.png",
+		   		"image"  :"https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png",
 				"url"    : "https://www.we-play.tv/watching/tv/fox-action-movies"
 		    },
 		    {
@@ -94,12 +94,7 @@
 				"image"  :"https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",
 				 "url"   :"https://www.we-play.tv/watching/tv/warner-tv"
 		    },
-		     {
-				"name"   : "Warner TV 1",
-				"image"  :"https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",
-				 "url"   :"http://203.154.243.89:1205"
-
-		    },
+		     
 		    {
 		    		"name"   :"Paramount",
 				"image"	 :"https://sv1.picz.in.th/images/2021/01/26/lXBSHz.png",
