@@ -12,35 +12,39 @@
                     {
 			    "name": "CH3",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-ch3.png",
-                            "url": "https://player.we-play.tv/channel.php?name=ch3hd&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8",
+		            "playInNatPlayer": "true"
                     },
 		    
 		    {
 			    "name": "CH5",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-ch5.png",
-                            "url": "https://www.inwiptv.com/player_demo.php?channel=27190",
-			    "referer": "https://www.inwiptv.com/"
+                            "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/chunklist.m3u8",
+		            "playInNatPlayer": "true"
 			    
                    },
 				   
 		    {
 			    "name": "CH7",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-ch7.png",
-                            "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8",
+			    "referer": "https://www.ch7.com/",
+			       "playInNatPlayer": "true"
+		         
                    },
 
 		    {
 			    "name": "MCOT HD",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-mcot.png",
-                            "url": "https://player.we-play.tv/channel.php?name=mcothd&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                            "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/mcothd/chunklist.m3u8",
+			     "playInNatPlayer": "true"
+		            
                    },
 		   {
 			    "name": "NBT",
                             "image": "https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png",
-                            "url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8"
+                            "url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
+			     "playInNatPlayer": "true"
 		            //"referer": "https://player.we-play.tv"
                    },
 		   
@@ -48,23 +52,27 @@
 		    {
 			    "name": "Thai PBS",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-tpbs.png",
-                            "url": "https://player.we-play.tv/channel.php?name=thaipbs&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://freelive.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8",
+			    "referer": "https://www.thaipbs.or.th/",
+			     "playInNatPlayer": "true"
+		            
                    },
 
 		    {
 			    "name": "PPTV HD",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-pptv.png",
-                            "url": "https://player.we-play.tv/channel.php?name=pptv&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                            "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist.m3u8",
+			     "playInNatPlayer": "true"
+		   
                    },
 				   
 
 		    {
 			    "name": "ไทยรัฐ",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-thairath.png",
-                            "url": "https://player.we-play.tv/channel.php?name=thairathtv&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                            "url": "https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
+			    "playInNatPlayer": "true"
+		            
                    },				   
 
 		    {
@@ -80,8 +88,9 @@
 		    {
 			    "name": "Amarin TV",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-amarin.png",
-                            "url": "https://player.we-play.tv/channel.php?name=amarintv&cate=digitaltv",
-		            "referer": "https://player.we-play.tv"
+                            "url": "http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8",
+			    "playInNatPlayer": "true"
+		            
                    },	
                    {
 		  	     name        : "Voice TV ",
