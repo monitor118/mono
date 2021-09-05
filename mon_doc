@@ -13,8 +13,9 @@
 			{
 			    	"name": "LoveNature 4K sub thai",
                             	"image": "https://i.imgur.com/XWDSCI7.png",
-                              	"url": "https://demandafrica-oando.amagi.tv/index.m3u8",
-		          	"playInNatPlayer": "true"
+                              	"url": "https://we-play.tv/watching/tv/lovenature-4k",
+			        "referer": "https://we-play.tv/",
+				"playInNatPlayer": "true"
 	              	},
 		    {
 			    	"name": "LoveNature 4K sub thai 1",
