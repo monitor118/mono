@@ -50,7 +50,7 @@
 				image	: "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
 			        //url :"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
 				//url	: "https://ustvgo.tv/wwe-network/"
-				url     :"http://89.187.185.100/WWE/index.m3u8",
+				url     :"http://89.187.185.100/WWE/index.m3u8"
 				//"playInNatPlayer": "true"
 			
 			       },
