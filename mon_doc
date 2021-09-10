@@ -112,15 +112,15 @@
 				playInNatPlayer: "true"
                    	},
 			   		
-		    	{
-			    	"name": "PSI",
-                            	"image": "https://i.imgur.com/c6Hl1yV.png",
-                            	"url": "https://www.inwiptv.com/player_demo.php?channel=9039",
-				"referer": "https://www.inwiptv.com/",
-				"playInNatPlayer": "true"
+		    	//{
+			//    	"name": "PSI",
+                        //    	"image": "https://i.imgur.com/c6Hl1yV.png",
+                        //    	"url": "https://www.inwiptv.com/player_demo.php?channel=9039",
+			//	"referer": "https://www.inwiptv.com/",
+			//	"playInNatPlayer": "true"
 
 
-                    	},
+                   // 	},
 		    		{
 					"name": "DOONEE",
 					"image": "https://docs.google.com/uc?export=download&id=1U9x0buMAbTz9kNdIRQ-23FikuIh-x5zk",
