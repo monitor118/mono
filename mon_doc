@@ -26,13 +26,10 @@
 		    	{
 			    	name	: "Animal Planet",
                             	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-				url	:"https://www.we-play.tv/watching/tv/animal-planet",
-                    	    	"url": "https://wacth.tv/tv-player/animal-planet.html"
-				
-				
-                             	//referer	: "https://wacth.tv/",
-
-			},
+				url: "https://we-play.tv/watching/tv/animal-planet",
+				referer: "https://we-play.tv/",
+			        playInNatPlayer: "true"
+       			},
 
     
 		    	{
@@ -56,20 +53,18 @@
 		    	{
 			    	name: "Discovery Channel",
                             	image: "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
-                                    
-			    	// "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-			    
-		            	url :"https://wacth.tv/tv-player/discovery-hd.html",
-                             	"playInNatPlayer": "true"
+                                url :"https://we-play.tv/watching/tv/discovery-channel",
+				referer: "https://we-play.tv/",
+			        playInNatPlayer: "true"
 			    
 			    
                     	},		    
 		    	{
 			    	name: "Discovery Asia",
                             	image: "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-			     	url:"https://wacth.tv/tv-player/discovery-asia.html",
-			    //"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
-		            	playInNatPlayer: "true"
+			     	url: "https://we-play.tv/watching/tv/discovery-asia",
+				referer: "https://we-play.tv/",
+			      	playInNatPlayer: "true"
                            			    
                     	},
 		   		    	
@@ -127,12 +122,7 @@
 					"image": "https://docs.google.com/uc?export=download&id=1U9x0buMAbTz9kNdIRQ-23FikuIh-x5zk",
 					"url": "http://161.82.243.130:1936/HDDoonee/Doonee/playlist.m3u8"
 				},
-				{
-					"name": "WOLRD ANIMAL",
-					"image":"https://docs.google.com/uc?export=download&id=1rKSYUqghWD3QThQaJoSxxUzBKzpfDjKu",
-					"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist_Fuso_Uhd.m3u8",
-					"userAgent": "MXPlayer/1.36.11 (Linux; Android 10; th-TH; Mi MIX 2S Build/QKQ1.190828.002 test-keys)"
-				},
+				
 				{
 					"name": "XPLORE ",
 					"image":"https://docs.google.com/uc?export=download&id=1VB_VRurdlFBBygfwISAvXh-qMNAlMw5J",
