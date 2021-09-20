@@ -48,20 +48,11 @@
 			{
 		        	name	: "WWE ",
 				image	: "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
-			        //url :"https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
-				//url	: "https://ustvgo.tv/wwe-network/"
-				url     :"http://89.187.185.100/WWE/index.m3u8"
-				//"playInNatPlayer": "true"
+			        url     : "https://ustvgo.tv/wwe-network",
+				playInNatPlayer: "true"
 			
 			       },
-			       {
-			       "name"	:"WWE 1",  
-			       "image"	: "https://media.giphy.com/media/xUPGcunTzcUAHOm2g8/giphy.gif",  
-			       "url": "https://siamtv88.co/index.php?a=live_details&channel_code=us-wwe",
-			       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
-			       "playInNatPlayer": "true"
-			       
-			       },
+			      
 			      {	
 				name	: "BT SPORTS 1",  
 				image	: "https://doo2you.com/icon/BTSport1HD.png",  
