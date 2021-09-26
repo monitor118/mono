@@ -52,6 +52,13 @@
 				playInNatPlayer: "true"
 			
 			       },
+			       	name	: "WWE Youtube ",
+				image	: "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
+			        url     : "https://www.youtube.com/c/WWE/videos",
+				playInNatPlayer: "true"
+			
+			       },
+			
 			      
 			      {	
 				name	: "BT SPORTS 1",  
