@@ -34,10 +34,11 @@
 			
 			
 			 { 
-       				"name": "world snooker",
-       				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",              
-       				"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist.m3u8",
-       				"import": false
+       				name: "snooker live Youtube",
+       				image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",              
+				url :"https://www.youtube.com/results?search_query=snooker+live"
+       				//"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist.m3u8",
+       				//"import": false
  			},
 			{ 
        				"name": "world snooker1",
