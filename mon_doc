@@ -33,20 +33,19 @@
 
     
 		    	{
-			    	"name": "Nat Geo Wild",
+			    	"name": "Nat Geo Wild USA",
                             	"image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                             	"url": "https://we-play.live/watching/tv/nat-geo-wild",
-                             	"referer": "https://player.we-play.tv",
-                              	"playInNatPlayer": "true"
+                             	"url": "http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8"
+                             	
 			     
 		            
                     	},
 	     
 		    	{
-			    	"name": "National Geographic",
+			    	"name": "National Geographic USA",
                             	"image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
-				  url:"https://we-play.live/watching/tv/national-geographic"
-			    	//"url":"https://wacth.tv/tv-player/national-geographic.html"
+				url:"http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8"
+			    	
 		         
                     	},
 			
