@@ -36,7 +36,7 @@
 			    	name: "Nat Geo Wild ",
                             	image: "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
                              	//"url": "http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8"
-				url:https://we-play.live/watching/tv/nat-geo-wild
+				url:"https://we-play.live/watching/tv/nat-geo-wild"
                              	
 			     
 		            
@@ -45,7 +45,7 @@
 		    	{
 			    	name: "National Geographic",
                             	image: "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
-				url:   "https://we-play.live/watching/tv/national-geographic
+				url:   "https://we-play.live/watching/tv/national-geographic"
 				//url:"http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8"
 			    	
 		         
