@@ -112,8 +112,8 @@
 		    	{
 			"name"   : "True Premier Football HD 3",
                        	"image"  : "https://overseer.blackboxsys.net/images/png/epl-3.png",
-			"url": "https://fo1iptv.com/tv-player/true-premuim-3.html",
-			"referer": "https://fo1iptv.com/"  
+			"url": "https://we-play.live/watching/tv/true-premier-football-hd-3"
+			
 			    
                    	},
 
@@ -195,12 +195,26 @@
 			    
                    	},
 			{
-			    "name": "True Sport 7",
-                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
-			    "url":"http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8",
-			    "referer": "https://player.we-play.tv"
-		    
-                   	},
+			   "name": "true vision SPOTV ",
+			   "image": "https://drive.google.com/uc?id=1fS7lwvD18GJGuOSnNC46PaTkqdlvzYbh",
+			   "url": "https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8",
+		           "referer": "https://www.we-play.tv/",
+			   "playInNatPlayer": "true"
+			},	
+			{
+			   "name": "true vision SPOTV 2",
+			   "image": "https://drive.google.com/uc?id=1fQPSqmNk8l30OZ2ZsCe01PZ3ZuZD3Qui",
+			   "url": "https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8",
+			   "referer": "https://we-play.tv/",
+			   "playInNatPlayer": "true"
+			},	
+			{
+			  "name": "true vision SPOTV 3 ",
+			  "image": "https://drive.google.com/uc?id=1fP6jKGP7wHNYYDkDY45Bl-ZMqT8n4qcL",
+			  "url": "https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8",
+			  "referer": "https://we-play.tv/",
+			  "playInNatPlayer": "true"
+			 },
 			
 			
 			{
@@ -254,8 +268,8 @@
 	   		{
 			     "name": "NBA",
 			     "image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
-			     "url": "https://wacth.tv/tv-player/nba-hd.html",
-			     "referer": "https://player.we-play.tv"
+			     "url": "https://www.liveballsod.com/tv-online/ch043/"
+			     
 			     },
 
 			  {   
@@ -270,9 +284,7 @@
 	    		{
 			    "name": "NFL Network",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
-                            "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-nfl",
-			    "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", 
-			    "playInNatPlayer": "true"
+                            "url": "https://we-play.live/watching/tv/nfl-network"
 			    
 		            
                    	},
