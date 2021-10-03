@@ -22,7 +22,7 @@
 		  {
 			    	"name"  : "HBO Signature",
                             	"image" : "https://i.ibb.co/pKqqD75/HBO-signature.png",
-                         	"url"   : "https://we-play.tv/watching/tv/hbo-signature",
+                         	"url"   : "https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8",
 			  	"referer"  : ""
                     
 		    },
@@ -39,14 +39,13 @@
                         {
 			    	"name"   : "HBO Hits",
                             	"image"  : "https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",		
-                         	"url"	 : "https://dogtoop.com:8443/hbohits/XYTUADvEuv/147",
- 				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-				"playInNatPlayer": "true"
+                         	"url"	 : "https://we-play.live/watching/tv/hbo-hits",
+ 				"playInNatPlayer": "true"
 		   },
 		   {
 			    	"name"   : "HBO family ",
                             	"image"  : "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png",
-                         	"url"    : "https://dl.dropboxusercontent.com/s/64835cjvpiy9gzc/FAMILY-SD.m3u8",
+                         	"url"    : "https://we-play.live/watching/tv/hbo-family",
 			  	"referer" : ""
                     
 		   },
@@ -61,7 +60,7 @@
 		    {
 		    		"name"   :"Paramount",
 				"image"	 :"https://sv1.picz.in.th/images/2021/01/26/lXBSHz.png",
-				"url"	 :"https://player.we-play.tv/channel.php?name=paramount&cate=entertainment",
+				"url"	 :"https://we-play.tv/watching/tv/paramount-channel",
 				"referer" :"https://player.we-play.tv"
 		    },
 		    {
@@ -85,21 +84,20 @@
 			{
 				name	: "True X-ZYTE",
      				image  	:"https://sv1.picz.in.th/images/2020/11/30/jfJyNR.png",
-     				url	: "https://siamtv88.co/index.php?a=live_details&channel_code=hd-xzyte",
-     				userAgent: "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-				playInNatPlayer: "true"
+     				url	: "https://we-play.live/watching/tv/true-xzyte",
+     				playInNatPlayer: "true"
 			},
 
 		    {
 			    	"name"   : "True AXN",
                             	"image"  : "https://i.postimg.cc/pXM9pyqH/axn.jpg",
-                         	"url"    : "https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8"
+                         	"url"    : "https://www.doofootball.com/dootv/live/axn#main_dootv"
 				
 		    },	 
 		    {
 				"name": "True Thai Film HD",
 				"image":"http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-				"url": "https://we-play.live/watching/tv/true-film-hd",
+				"url": "",
 				"referer": ""
 			},
 			{
