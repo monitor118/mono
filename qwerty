@@ -51,43 +51,6 @@
                     
 		   },
 		    
-		    {
-			    	"name"   : "FOX ไทย",
-                            	"image"  : "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
-                         	 "url"   :"https://www.we-play.tv/watching/tv/fox-thai",
-				//"url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8",
-			  	"referer" : ""
-                    
-		   },
-		    {
-			    	"name"   : "FOX Life",
-                            	"image"  : "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",
-                         	"url"    :"https://www.we-play.tv/watching/tv/fox-life",
-				//"url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8",
-				"referer" :"https://www.we-play.tv"
-			  	
-                    },	    
-		
-		    {
-		    		"name"   : "FOX Action",
-		   		"image"  :"https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png",
-				"url"    : "https://www.we-play.tv/watching/tv/fox-action-movies"
-		    },
-		    {
-		    		name   	: "FOX Premium",
-				image	:"https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png",
-				//"url"    :"https://www.we-play.tv/watching/tv/fox-movies"
-				url	:"https://www.we-play.live/watching/tv/fox-movies-soundtrack"
-				
-			
-				//"url": "http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8"
-		    },
-		    {
-				"name"   : "FOX Family",
-				"image"  :"http://tvsmagazine.com/images/channels/sm_FFM.jpg",
-				 "url"   :"https://www.we-play.tv/watching/tv/fox-family-movies"
-		    },
-		    
 		    
 		    {
 				"name"   : "Warner TV",
@@ -133,57 +96,57 @@
                          	"url"    : "https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8"
 				
 		    },	 
-		   {
-			    	"name"           : "True Film HD",
-                            	"image"          : "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",
-                        	"url"            :"https://wacth.tv/tv-player/true-film-hd.html"
-			 	
-		    },	 
-		     {
-			    	"name"           : "True Film HD2",
-                            	"image"          : "https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/01_True_Film_HD2.png",
-      				"url"            :"https://wacth.tv/tv-player/true-film-hd2.html"
-			 	
-		    },	
 		    {
-		    		"name"		 :"FilmAsiaHD",
-				"image"          :"https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",
-				"url"            :"https://wacth.tv/tv-player/true-film-asia.html"
-		    },		
+				"name": "True Thai Film HD",
+				"image":"http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
+				"url": "https://we-play.live/watching/tv/true-film-hd",
+				"referer": ""
+			},
+			{
+				"name": "True Movie Hits",
+				"image": "https://sv1.picz.in.th/images/2021/07/06/s8ZWRV.jpg",
+				"url": "https://www.doofree88.com/live/movie-hits",
+				"referer":""
+			},
+			{
+				"name": "True Chinese More",
+				"image": "https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png",              
+				"url": "https://we-play.live/watching/tv/true-chinese-more",
+				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+				"playInNatPlayer": "true"
+			},
+			{ 
+				"name": "True Asian More",
+				"image": "https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",              
+				"url": "https://we-play.live/watching/tv/true-asian-more",
+				"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+				"playInNatPlayer": "true"
+			},
+			{
+				"name":"True Korean More",
+				"image":"https://cms.dmpcdn.com/livetv/2021/09/28/d446d890-2009-11ec-9629-7dc4459cd94d_webp_320.png",
+				"url":"https://we-play.live/watching/tv/true-korean-more",
+				"playInNatPlayere": "true"
+			},
+			{
+				"name":"Dreamworks",
+				"image":"https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",
+				"url":"https://we-play.live/watching/tv/dreamworks",
+				"playInNatPlayere": "true"
+			},
+			{
+				"name": "True Flim HD",  
+				"image":"https://overseer.blackboxsys.net/images/png/hd-tfilm.png",  
+				"url": "https://we-play.live/watching/tv/true-film-hd",
+				"referer": ""
+			},
+			{ 
+				"name": "TRUE SERIES",
+				"image":"http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
+				"url": "https://wacth.tv/tv-player/true-series.html",
+				"referer": ""
+			}
 		   
-		     {
-		                name             :"True series",
-				image            :"https://wacth.officebk.co/uploads/tv_image/true-series.png",
-				url              : "https://fo1iptv.com/tv-player/true-series-384uaxyvkw3w.html"
-	             },			   
-		     {
-			    	"name"           : "True Asian Series",
-                            	"image"          : "https://www.jpopthailand.com/th/wp-content/uploads/2015/02/380400_354085558003868_1981452853_n.jpg",
-                          	"url"            :"https://wacth.tv/tv-player/asian-series.html",
-                                "referer"        : "https://wacth.tv",
-                                "playInNatPlayer": "true"
-		    },
-		    {
-				name		: "TOONEE",  
-				image		: "https://cms.dmpcdn.com/livetv/2020/09/03/4c26a640-ede0-11ea-bbdd-775d9efe2958_320.png",  
-				url		: "http://27.254.130.62/feed/LC23/playlist.m3u8",
-				userAgent	: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-				playInNatPlayer	: "true"
-		},
-		{
-				name		: "True Spark Play",
-				image		: "https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",              
-				url		: "https://dogtoop.com:8443/trueplay/ejnsfrwWrz/116",
-				userAgent	: "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-				playInNatPlayer: "true"
-		},
-		    {
-				name		:"Disney Channel",
-				image		:"https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/disney-269x151.png",
-				url		:"https://wacth.tv/tv-player/disney-channel.html",
-				playInNatPlayer: "true"
-			
-		    }
 //		     กล่องฟิล์ม
 //https://cdn6.goprimetime.info/.../2021051.../LC52/index.m3u8
 //ซามูไร
