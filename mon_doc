@@ -35,7 +35,7 @@
 		    	{
 			    	name: "Nat Geo Wild ",
                             	image: "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                             	//"url": "http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8"
+                             	//"url": "http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8" //usa
 				url:"https://we-play.live/watching/tv/nat-geo-wild"
                              	
 			     
@@ -45,8 +45,9 @@
 		    	{
 			    	name: "National Geographic",
                             	image: "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
-				url:   "https://we-play.live/watching/tv/national-geographic"
-				//url:"http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8"
+				//url:   "https://we-play.live/watching/tv/national-geographic"
+				url:"https://www.doofree88.com/live/national-geographic"
+				//url:"http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8"//usa
 			    	
 		         
                     	},
@@ -80,7 +81,8 @@
 			{ 
       				"name": "History HD",
       				"image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-				"url": "https://www.we-play.live/watching/tv/history-hd"
+				//"url": "https://www.we-play.live/watching/tv/history-hd"
+				"url":"https://www.doofree88.com/live/history"
 				
        				
       	
@@ -179,29 +181,7 @@
 		 	
 				
     	            
-		    	{
-		    	     	"name"  :"True Wild",
-			     	"image" :"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
-			      	"url"  :"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
-			      	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-			      	"desktop": "true"
-	            	},
-			      
-	            	{ 
-                             	"name": "TRUE EXPLORE SCI ",
-       				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
-	       			"url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci"
-				
-				
-			},
-			{ 
-       				"name": "TRUE EXPLORE LIFE ",
-       				"image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
-       				"url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-explife"
-				
-       				//"userAgent": "ExoMedia 4.3.0 (43000) / Android 5 / Mi MIX 2S",
-       				//"playInNatPlayer": "true"
-			},
+		    	
 			{
 				"name": "JOURNY",
 				"image":"https://docs.google.com/uc?export=download&id=1Y4OEMEFXqVX3a50AUuxGhjh1RDALd1FZ",
