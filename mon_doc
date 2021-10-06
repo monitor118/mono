@@ -104,11 +104,21 @@
         			
 			},					
 		    	{
-			    	name	: "Samrujlok",
-                            	image	: "https://bit.ly/33mwVq4",
-	        	    	url 	:"http://203.159.95.172:8081/live/explore/playlist.m3u8",
-				playInNatPlayer: "true"
-                   	},
+				"name": "สำรวจโลก ",
+				"image": "https://www.dropbox.com/s/n9x7lj1stgmsgle/jhdq9Z.png?dl=1",
+				"url": "https://bit.ly/3B3Gidg ",
+				//  url:"http://203.159.95.172:8081/live/explore/playlist.m3u8",
+				"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+				"playInNatPlayer": "true"
+				},
+				{
+				name:"PSI สาระดี",
+				image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",
+				url:"https://bit.ly/3riMjyA",
+				"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+				"userAgent": "exoplayer_video",
+				"playInNatPlayer": "true"
+				},
 						
 				{
 					"name": "XPLORE ",
