@@ -17,12 +17,7 @@
 			        "referer": "https://we-play.tv/",
 				"playInNatPlayer": "true"
 	              	},
-		    {
-			    	"name": "LoveNature 4K sub thai 1",
-                            	"image": "https://i.imgur.com/XWDSCI7.png",
-                              	"url": "https://bit.ly/3i4HwN2",
-		          	"referer": "https://player.we-play.tv"
-	              	},
+		    
 		    	{
 			    	name	: "Animal Planet",
                             	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
@@ -35,8 +30,8 @@
 		    	{
 			    	name: "Nat Geo Wild ",
                             	image: "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                             	//"url": "http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8" //usa
-				url:"https://we-play.live/watching/tv/nat-geo-wild"
+                                url  : "http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8" //usa
+				
                              	
 			     
 		            
