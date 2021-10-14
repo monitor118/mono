@@ -105,6 +105,16 @@
 				"playInNatPlayer": "true"
 				},
 				{
+				"name":"MYSCI",
+				"image":"https://www.img.in.th/images/e179aaac6cd733fa0b8e9fd476980e1a.png",
+				"imageScale": "fitStart",
+				"url":"https://cdn6.goprimetime.info/feed/202105171329/LC37/index.m3u8",
+				"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+				"playInNatPlayer": "true"
+				},
+				
+				
+				{
 				name:"PSI สาระดี",
 				image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",
 				url:"https://bit.ly/3riMjyA",
