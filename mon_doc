@@ -30,7 +30,7 @@
 		    	{
 			    	name: "Nat Geo Wild ",
                             	image: "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                                url:"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8" //rus
+                                url:"http://iptv-line.com:8080/live/monitor/diskcopy/17978.m3u8" 
 			     
 		            
                     	},
