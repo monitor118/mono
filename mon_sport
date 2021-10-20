@@ -1,4 +1,4 @@
-{
+
 		"name": "กีฬา",
 	
 	        "author": "monitor",
@@ -54,13 +54,7 @@
 				playInNatPlayer: "true"
 			
 			       },
-			       {
-		        	name	: "WWE ",
-				image	: "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
-			        url     : "http://iptv-line.com:8080/live/monitor/diskcopy/46800.m3u8"
-		                   //http://iptv-line.com:8080/live/monitor/diskcopy/111687.m3u8
-				  // http://iptv-line.com:8080/live/monitor/diskcopy/8529.m3u8
-			       },
+			      
 			       
 			       {
 			       	name	: "WWE Youtube ",
@@ -206,14 +200,14 @@
 			{
 			   "name": "true vision SPOTV ",
 			   "image": "https://drive.google.com/uc?id=1fS7lwvD18GJGuOSnNC46PaTkqdlvzYbh",
-			   "url": "https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8",
+			   "url": "https://www.we-play.live/watching/tv/spotv",
 		           "referer": "https://www.we-play.tv/",
 			   "playInNatPlayer": "true"
 			},	
 			{
 			   "name": "true vision SPOTV 2",
 			   "image": "https://drive.google.com/uc?id=1fQPSqmNk8l30OZ2ZsCe01PZ3ZuZD3Qui",
-			   "url": "https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8",
+			   "url": "https://we-play.live/watching/tv/spotv2",
 			   "referer": "https://we-play.tv/",
 			   "playInNatPlayer": "true"
 			},	
@@ -226,39 +220,19 @@
 			 },
 			
 			
-			{
-			    "name": "FOX Sports HD",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-foxsports1.png",
-                            "url": "https://we-play.live/watching/tv/fox-sports-hd",
-			    "playInNatPlayer": "true"
-                   	},
-
-			{
-			    "name": "FOX Sports 2",
-                            "image": "https://overseer.blackboxsys.net/images/png/hd-foxsports2.png",
-                           "url": "https://we-play.live/watching/tv/fox-sports-2",
-			    "playInNatPlayer": "true"
-                   	},
-				   
-	    		{
-			    "name": "FOX Sports 3",
-                            "image": "https://overseer.blackboxsys.net/images/png/sd-foxsports3.png",
-                            "url": "https://we-play.live/watching/tv/fox-sports-3",
-		            "playInNatPlayer": "true"
-                   	},
-	    		
+			
 			{
 			    "name": "beIN SPORTS 1",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
-                            "url": "https://livesod88.com/?id=639139&ch=bein1",
-			    "referer": "https://livesod88.com/"
+                            "url": "https://we-play.live/watching/tv/bein-sports-1"
+			    
                    	},
 
 	    		{
 			    "name": "beIN SPORTS 2",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-bein2.png",
-                            "url": "https://livesod88.com/?id=654071&ch=bein2",
-			    "referer": "https://livesod88.com/"
+                            "url": "https://we-play.live/watching/tv/bein-sports-2"
+			    
                    	},
 
 	    		
