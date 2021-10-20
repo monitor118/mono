@@ -192,7 +192,7 @@
 			{
 			   "name": "true vision SPOTV ",
 			   "image": "https://drive.google.com/uc?id=1fS7lwvD18GJGuOSnNC46PaTkqdlvzYbh",
-			   "url": "https://www.we-play.live/watching/tv/spotv",
+			   "url": "https://we-play.live/watching/tv/spotv",
 		           "referer": "https://www.we-play.tv/",
 			   "playInNatPlayer": "true"
 			},	
@@ -240,14 +240,7 @@
 			     
 			     },
 
-			  {   
-     				"name": "Esports Thai Leagues",
-      				"image": "https://cms.dmpcdn.com/livetv/2020/12/28/c8ce2320-48c2-11eb-9b6d-3fdf37c2e48e_320.jpg",
-      				"url": "https://tv.trueid.net/embed/ESPORTSTHAILEAGUESTV?autoplay=yes&nopageview=yes",
-      				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      				"desktop": "true"
-			},  
-	    			
+			      			
 		
 	    		{
 			    "name": "NFL Network",
