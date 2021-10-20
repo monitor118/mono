@@ -143,7 +143,7 @@
 			"name": "True Sport HD",
                        	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport1.png",
 			"url":"https://we-play.live/watching/tv/true-sports-hd",
-			//"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd/",
+			
 			"referer": "https://player.we-play.tv"
 			},
 			
@@ -179,15 +179,7 @@
 		        
                    	},		
 		
-			{
-			    "name": "True Sport 6",
-                            "image": "https://overseer.blackboxsys.net/images/png/sd-tsport6.png",
-			    "url": "https://www.doomovie-hd.com/?r=tv_view&id=33",
-			    "referer": "",
-			    "playInNatPlayer": "true"
-                            
-                   	},		
-		
+					
 			{
 			    "name": "True Sport 7",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
@@ -211,15 +203,7 @@
 			   "referer": "https://we-play.tv/",
 			   "playInNatPlayer": "true"
 			},	
-			{
-			  "name": "true vision SPOTV 3 ",
-			  "image": "https://drive.google.com/uc?id=1fP6jKGP7wHNYYDkDY45Bl-ZMqT8n4qcL",
-			  "url": "https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8",
-			  "referer": "https://we-play.tv/",
-			  "playInNatPlayer": "true"
-			 },
-			
-			
+					
 			
 			{
 			    "name": "beIN SPORTS 1",
@@ -252,6 +236,7 @@
 			     "name": "NBA",
 			     "image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
 			     "url": "https://www.liveballsod.com/tv-online/ch043/"
+			     //url :"https://we-play.live/watching/tv/nba-tv"
 			     
 			     },
 
