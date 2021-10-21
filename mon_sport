@@ -249,12 +249,37 @@
 			    
 		            
                    	},
+			//{
+			//   name:"Fox Sport",
+			//   image :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZl-SpdoZYTzvv3QDXxCXEjq05iahDad5Gw&usqp=CAU",
+			//   url :"http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31155?checkedby:iptvcat.com"
+			
+			//},
 			{
-			   name:"Fox Sport",
-			   image :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZl-SpdoZYTzvv3QDXxCXEjq05iahDad5Gw&usqp=CAU",
-			   url :"http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31155?checkedby:iptvcat.com"
+			   name:"Fox Sport1",
+			   image :"https://www.img.in.th/images/ea43e63ff73bb8d4e326b3bb1d13ccd2.png",
+			   url :"http://38.131.11.9:1080/play/a02k"
 			
 			},
+			{
+			   name:"Fox Sport2",
+			   image :"https://www.img.in.th/images/0e7232b96e85cde5e98d96de74940a26.png",
+			   url :"http://38.131.11.9:1080/play/a033"
+			
+			},
+			{
+			   name:"Fox Sport3",
+			   image :"https://www.img.in.th/images/85387996fd1a9aa255d0ae0f53c0171d.png",
+			   url :"http://38.131.11.9:1080/play/a034"
+			
+			},
+			{
+			   name:"Fox Sport Premium",
+			   image :"https://www.img.in.th/images/96cb3469813635843cf76a6073253ee7.jpg",
+			   url :"http://38.131.11.9:1080/play/a00c"
+			
+			},
+			
     			{
 			     "name":"Eursport 1",
 			     "image":"https://img2.thaipng.com/20180525/cyr/kisspng-eurosport-2-logo-television-5b08b54fa58fc1.4097871515272973596782.jpg",
