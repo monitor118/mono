@@ -49,7 +49,7 @@
 			    	name: "Discovery UK Channel",
                             	image: "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                                 //url :"https://we-play.tv/watching/tv/discovery-channel",
-				url :":https://doofootball.livestream-cdn.com/iptv/uk-discovery.stream/playlist.m3u8",
+				url :"https://doofootball.livestream-cdn.com/iptv/uk-discovery.stream/playlist.m3u8",
 				referer: "https://we-play.tv/",
 			        playInNatPlayer: "true"
 			    
