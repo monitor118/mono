@@ -137,7 +137,7 @@
 			    name: "True Premier Football HD 5",
                             image: "https://overseer.blackboxsys.net/images/png/epl-5.png",
 			     //url:"https://we-play.live/watching/tv/true-premier-football-hd-5",
-                            //"url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
+                            "url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
 		            referer: "",
 			    playInNatPlayer: "true"
 		            
@@ -156,7 +156,7 @@
 			"name": "True Sport HD2",
                        	 "image": "https://overseer.blackboxsys.net/images/png/sd-tsport2.png",
 			//"url": "https://we-play.live/watching/tv/true-sports-hd-2"
-			 url:"https://www.doofree88.com/live/sport-hd-2",
+			 url:"https://www.doofree88.com/live/sport-hd-2"
 			
                             
  		       	},
