@@ -28,8 +28,9 @@
 		    	{
 			    	name	: "Animal Planet",
                             	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-				url: "https://we-play.tv/watching/tv/animal-planet",
-				referer: "https://we-play.tv/",
+				//url: "https://we-play.tv/watching/tv/animal-planet",
+				url:"https://www.doomovie-hd.com/?r=tv_view&id=55",
+				referer: "https://www.doomovie-hd.com",
 			        playInNatPlayer: "true"
        			},
 
@@ -72,7 +73,8 @@
 		    	{
 			    	name: "Discovery Asia",
                             	image: "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-			     	url: "https://we-play.tv/watching/tv/discovery-asia",
+			     	//url: "https://we-play.tv/watching/tv/discovery-asia",
+				url:"https://www.doomovie-hd.com/?r=tv_view&id=57",
 				referer: "https://we-play.tv/",
 			      	playInNatPlayer: "true"
                            			    
@@ -81,7 +83,8 @@
  			{ 
     				"name": "H2 ",
     				"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    				url :"https://www.we-play.live/watching/tv/history-h2"
+    				//url :"https://www.we-play.live/watching/tv/history-h2"
+				url:"https://www.doofree88.com/live/h2"
     				
  
 			},
