@@ -168,9 +168,9 @@
 			//"url": "https://we-play.live/watching/tv/true-sports-hd-3"
 			//url:"https://www.doofree88.com/live/sport-hd-3"
 			url :"https://www.ball8k.com/channel?ch=truesporthd3",
-			"referer": "https:ball8k.com",
+			"referer": "https://www.ball8k.com/",
 			"info": "PlayIDTV",
-	                 "playInNatPlayer": "true"
+	                "playInNatPlayer": "true"
 			
 			
 			
