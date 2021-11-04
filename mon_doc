@@ -71,7 +71,7 @@
                             	image: "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                                 //url : "https://we-play.live/watching/tv/discovery-channel"
 				url:"https://www.doofootball.com/dootv/live/discovery#main_dootv",
-				referer: "https://doofootball.com",
+				referer: "https://doofootball.com"
                                 
 		        },
 				
