@@ -139,6 +139,7 @@
 				{
 				name:"TRUE SCI",
 			        image:"https://www.ilike-movie.com/uploads/png/sd-expsci.png",
+				imageScale: "fitStart",
 				url:"https://www.doofootball.com/dootv/live/truesci#main_dootv",
 				PlayInNatPlayer: "true"
 				},
