@@ -28,8 +28,9 @@
 		    	{
 			    	name	: "Animal Planet",
                             	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-				//url: "https://we-play.live/watching/tv/animal-planet",
-				url:"https://www.doomovie-hd.com/?r=tv_view&id=55",
+				url: "https://we-play.live/watching/tv/animal-planet",
+				        
+				//url:"https://www.doomovie-hd.com/?r=tv_view&id=55",
 				//referer: "https://www.doomovie-hd.com",
 			        playInNatPlayer: "true"
        			},
