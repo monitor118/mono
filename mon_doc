@@ -146,17 +146,14 @@
 				url:"https://www.doofootball.com/dootv/live/truesci#main_dootv",
 				PlayInNatPlayer: "true"
 				},
-				
-				
-				
+																
 				{
-				name:"PSI สาระดี",
-				image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",
-				url:"https://bit.ly/3riMjyA",
-				"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-				"userAgent": "exoplayer_video",
-				"playInNatPlayer": "true"
-				},
+				 name:"PSI SARADEE",
+				 image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",
+				 url:"https://bit.ly/3riMjyA",
+				 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+				 playInNatPlayer: "true"
+				 },
 						
 				{
 					"name": "XPLORE ",
