@@ -222,7 +222,9 @@
 			{
 			    "name": "beIN SPORTS 1",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
-                            "url": "https://we-play.live/watching/tv/bein-sports-1"
+                            "url": "https://we-play.live/watching/tv/bein-sports-1",
+			    referer:"https://player.we-play.tv"
+			            
 			    
                    	},
 
