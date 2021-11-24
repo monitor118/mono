@@ -237,14 +237,30 @@
                             "url": "https://we-play.live/watching/tv/bein-sports-2"
 			    
                    	},
+			{
+			    "name": "Bein Sports 3 ",
+			    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png",
+		 	    "url": "https://www.warpfootball.games/live/?ch=bein3",
+			    "referer": "https://www.warpfootball.games/" ,
+ 			    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"
+			},
+			{
+			    "name": "Bein Sports 4 TH",
+			    "image": "https://middleeast.in-24.com/sport/content/uploads/2021/07/17/5ee0c0cf45.jpg",
+			    "url": "https://www.warpfootball.games/live/?ch=bein4",
+			    "referer": "https://www.warpfootball.games/" ,
+			    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"
+		       },
+			{
+			    "name": "Bein Sports 5 TH",
+			    "image": "https://i.pinimg.com/originals/17/1f/3e/171f3e1648cf8c5b46e26db9d2386466.gif",
+			    "url": "https://www.warpfootball.games/live/?ch=bein5",
+			    "referer": "https://www.warpfootball.games/" ,
+			    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"
+		      },	
+
 
 	    		
-			{	
-			"name": "F1",
-			"image": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
-			"url": "https://adictosalatele.com/TV/deportes/formula1/",
-			"referer": ""
-			},
 			{
 			"name":"TRUE TENNIS HD",
 			"image":"https://doo2you.com/icon/TrueSportTennis.png",
