@@ -77,6 +77,16 @@
 				
                                 
 		        },
+			
+			{
+				"name": "Discovery",  
+				"image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",  
+				"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+				"referer": "https://dooball66.com",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+				"info": "dooball66",
+				"desktop": "true"
+			},
 				
 		    	{
 			    	name: "Discovery Asia",
@@ -87,7 +97,13 @@
 				
                            			    
                     	},
-		   		    	
+				name :"World Animal",
+				image :"https://sv1.picz.in.th/images/2021/08/17/2HTU7l.jpg",
+				 url :"http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist_Fuso_Uhd.m3u8"
+		        },
+
+
+
  			{ 
     				"name": "H2 ",
     				"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
