@@ -139,7 +139,7 @@
 				
         			
 			},	
-				{
+		        {
 			    	"name"  : "BBC Lifestyle",
                             	"image" : "https://1.bp.blogspot.com/-OnOm7RSatn4/UIcI6ttOGYI/AAAAAAAAdjE/N7x8NIRy38U/s1600/BBC+Lifestyle+logo.jpg",
                             	"url"   : "http://udoofree.com/movie2/103/single-live?watch=1"
@@ -169,6 +169,7 @@
 				url:"http://udoofree.com/movie2/95/single-live?watch=1",
 				PlayInNatPlayer: "true"
 				},
+				{
 				name:"TRUE LIFE",
 			        image:"https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-explife.png",
 				imageScale: "fitStart",
