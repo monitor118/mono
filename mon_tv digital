@@ -12,8 +12,8 @@
                     {
 			    "name": "CH3",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-ch3.png",
-                            "url": "https://tv.trueid.net/embed/ch3-hd?autoplay=yes&nopageview=yes",
-		            "playInNatPlayer": "true"
+                            "url": "https://tv.trueid.net/embed/ch3-hd?autoplay=yes&nopageview=yes"
+		           // "playInNatPlayer": "true"
                     },
 		    
 		    {
