@@ -122,15 +122,7 @@
        				
       	
 			}, 
-		    	{
-	                    	name   : "BBC Earth (web)",
-                            	image  : "https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA",
-                            	url    : "https://beinsport.biz/live/sd-bbcearth/",
-			    	webviewType: "chrome",
- 		           	embed: "true",
-                               playInNatPlayer: "true"
-		  
-			},
+		    	
 		    	{ 
        				name: "BBC EARTH ",
         			image: "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
@@ -139,6 +131,14 @@
 				
         			
 			},	
+			
+		        {
+			         name:"BBC USA",
+				 image:"https://sv1.picz.in.th/images/2021/11/05/unHhmP.png",
+				 url:"https://ustvgo.tv/bbc-america-live/",
+				 referer:""
+		        },
+		
 		        {
 			    	"name"  : "BBC Lifestyle",
                             	"image" : "https://1.bp.blogspot.com/-OnOm7RSatn4/UIcI6ttOGYI/AAAAAAAAdjE/N7x8NIRy38U/s1600/BBC+Lifestyle+logo.jpg",
@@ -162,20 +162,7 @@
 				"playInNatPlayer": "true"
 				},
 				
-				{
-				name:"TRUE SCI",
-			        image:"https://www.ilike-movie.com/uploads/png/sd-expsci.png",
-				imageScale: "fitStart",
-				url:"http://udoofree.com/movie2/95/single-live?watch=1",
-				PlayInNatPlayer: "true"
-				},
-				{
-				name:"TRUE LIFE",
-			        image:"https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-explife.png",
-				imageScale: "fitStart",
-				url:"http://udoofree.com/movie2/94/single-live?watch=1",
-				PlayInNatPlayer: "true"
-				},
+				
 											
 											
 											
