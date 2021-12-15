@@ -34,9 +34,9 @@
 			
 			
 			 { 
-       				name: "snooker live Youtube",
+       				name: "Soccor",
        				image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",              
-				url :"https://www.youtube.com/results?search_query=snooker+live"
+				url :"https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"
        				//"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist.m3u8",
        				//"import": false
  			},
