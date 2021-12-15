@@ -21,7 +21,8 @@
 			{
 			    	"name": "LoveNature 4K Eng",
                             	"image": "https://i.imgur.com/XWDSCI7.png",
-                              	"url": "https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"
+                              	//"url": "https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"
+				          url:"https://www.doo2you.com/doballsod/iframe/tv.php?id=234"
 			        //"referer": "https://we-play.tv/",
 				//"playInNatPlayer": "true"
 	              	},
