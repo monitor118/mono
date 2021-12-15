@@ -34,8 +34,8 @@
 			
 			
 			 { 
-       				name: "Soccor",
-       				image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",              
+       				name: "Sport TV",
+       				image: "https://yt3.ggpht.com/ytc/AKedOLSwinTZfVX65S9lu1WU-WqeubKOTH0nTa1saSgflg=s900-c-k-c0x00ffffff-no-rj",              
 				url :"https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"
        				//"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist.m3u8",
        				//"import": false
