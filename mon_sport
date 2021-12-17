@@ -33,13 +33,9 @@
 			},
 			
 			
-			 { 
-       				name: "Sport TV",
-       				image: "https://yt3.ggpht.com/ytc/AKedOLSwinTZfVX65S9lu1WU-WqeubKOTH0nTa1saSgflg=s900-c-k-c0x00ffffff-no-rj",              
-				url :"https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8"
-       				//"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist.m3u8",
-       				//"import": false
- 			},
+			 
+			//	url :"https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8" sport TV ch1
+       			
 			{ 
        				"name": "world snooker1",
        				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZPyYGrBe35ByJ4RP9D2mtCPuZul_cLltBA&usqp=CAU",              
@@ -153,7 +149,7 @@
 			//"url":"https://we-play.live/watching/tv/true-sports-hd",
 			 url:"https://www.doofree88.com/live/sport-hd-1",
 			
-			"referer": "https://player.we-play.tv"
+			"referer": "https://we-play.live/"
 			},
 			
 			{
@@ -192,7 +188,7 @@
                             image: "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",
                             //url  : "https://we-play.live/watching/tv/true-sports-5",
 			    url:"https://www.doofree88.com/live/sport-5",
-			    referer: "https://player.we-play.tv"
+			    referer: "https://we-play.live"
 		        
                    	},		
 		
@@ -202,7 +198,7 @@
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
 			    //"url":"https://we-play.live/watching/tv/true-sports-7",
 			    url:"https://www.doofree88.com/live/sport-7",
-			    "referer": "https://player.we-play.tv"
+			    "referer": "https://we-play.live"
 			    
 			    
 			    
@@ -211,14 +207,14 @@
 			   "name": "true vision SPOTV ",
 			   "image": "https://drive.google.com/uc?id=1fS7lwvD18GJGuOSnNC46PaTkqdlvzYbh",
 			   "url": "https://we-play.live/watching/tv/spotv",
-		           "referer": "https://www.we-play.tv/",
+		           "referer": "https://we-play.live/",
 			   "playInNatPlayer": "true"
 			},	
 			{
 			   "name": "true vision SPOTV 2",
 			   "image": "https://drive.google.com/uc?id=1fQPSqmNk8l30OZ2ZsCe01PZ3ZuZD3Qui",
 			   "url": "https://we-play.live/watching/tv/spotv2",
-			   "referer": "https://we-play.tv/",
+			   "referer": "https://we-play.live/",
 			   "playInNatPlayer": "true"
 			},	
 					
@@ -263,19 +259,22 @@
 		      {
 			    "name": "Sport TV 1",
 			    "image": "https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",
-			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=224"
+			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=224",
+			    referer :"https://we-play.live/"
 			    
 		      },	
 		      {
 			    "name": "Sport TV 2",
 			    "image": "https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",
-			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=225"
+			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=225",
+			    referer :"https://we-play.live/"
 			    
 		      },	
 		      		      {
 			    "name": "Sport TV 3",
 			    "image": "https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",
-			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=226"
+			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=226",
+			    referer :"https://we-play.live/"
 			    
 		      },	
 
@@ -283,13 +282,15 @@
 		      {
 			    "name": "Sport TV 4",
 			    "image": "https://we-play.live/uploads/posters/sport-tv-4-poster1602801172.jpeg",
-			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=227"
+			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=227",
+			    referer :"https://we-play.live/"
 			    
 		      },	
     {
 			    "name": "Sport TV 5",
 			    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ018lna-Lssetg3WW0jsN2dchi9xRFEBn37YWwRLyqColQy1kinFeT1wQxg2tXsrnffpY&usqp=CAU",
-			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=228"
+			    "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=228",
+			    referer :"https://we-play.live/"
 			    
 		      },	
 
