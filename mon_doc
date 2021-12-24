@@ -13,10 +13,12 @@
 			{
 			    	"name": "LoveNature 4K sub thai",
                             	"image": "https://i.imgur.com/XWDSCI7.png",
-                              	"url": "https://we-play.live/watching/tv/lovenature-4k",
-				       
-			        "referer": "https://we-play.tv/",
-				"playInNatPlayer": "true"
+                              	"url":"https://1o0.in/baa59c",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+				"desktop": "true"
+//				"url": "https://we-play.live/watching/tv/lovenature-4k",
+//				"referer": "https://we-play.tv/",
+//				"playInNatPlayer": "true"
 	              	},
 			{
 			    	"name": "LoveNature 4K Eng",
@@ -29,7 +31,8 @@
 		    	{
 			    	name	: "Animal Planet",
                             	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-				url: "https://we-play.live/watching/tv/animal-planet",
+				//url: "https://we-play.live/watching/tv/animal-planet",
+				url :"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
 				        
 				//url:"https://www.doomovie-hd.com/?r=tv_view&id=55",
 				//referer: "https://www.doomovie-hd.com",
@@ -58,8 +61,9 @@
 			    	name: "National Geographic",
                             	image: "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",
 				url:   "https://we-play.live/watching/tv/national-geographic"
+				url:"https://www.doofootball.com/dootv/live/natgeo#main_dootv"
       				//url :"https://www.doofree88.com/live/national-geographic",
-				//url:"https://www.doofootball.com/dootv/live/natgeo#main_dootv",
+				
 			        //referer :"https://www.doofootball.com"
 				
 				
@@ -78,7 +82,8 @@
 			{
 			  	name: "Discovery Channel",
                             	image: "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
-                                url : "https://we-play.live/watching/tv/discovery-channel"
+                                //url : "https://we-play.live/watching/tv/discovery-channel"
+				url:"https://www.doofootball.com/dootv/live/discovery#main_dootv"
 				
 				//url:"https://www.doofootball.com/dootv/live/discovery#main_dootv",
 				
@@ -89,7 +94,8 @@
 		    	{
 			    	name: "Discovery Asia",
                             	image: "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",
-			     	url: "https://we-play.live/watching/tv/discovery-asia"
+			     	//url: "https://we-play.live/watching/tv/discovery-asia"
+				url :"https://www.doofootball.com/dootv/live/discoveryasia#main_dootv"
 				
 				//url:"https://www.doomovie-hd.com/?r=tv_view&id=57",
 				
@@ -106,7 +112,13 @@
  			{ 
     				"name": "H2 ",
     				"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    				url :"https://we-play.live/watching/tv/history-h2"
+    				//url :"https://we-play.live/watching/tv/history-h2"
+				"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=hmcb4rf66f&ref=none",
+				"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+				"desktop": "true"
+				
+				
+				
 				 //url:"https://www.doomovie-hd.com/?r=tv_view&id=58"
 				//url:"https://www.doofree88.com/live/h2"
     				
@@ -116,7 +128,11 @@
 			{ 
       				"name": "History HD",
       				"image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-				"url": "https://we-play.live/watching/tv/history-hd"
+				"url":"https://www.doofootball.com/dootv/live/history#main_dootv",
+				"referer":"https://dooball66.com/"
+				
+				
+				//"url": "https://we-play.live/watching/tv/history-hd"
 				//"url":"https://www.doofree88.com/live/history"
 				
        				
@@ -126,8 +142,12 @@
 		    	{ 
        				name: "BBC EARTH ",
         			image: "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
-        			url: "https://www.doofree88.com/live/bbc-earth",
-				Referer="https://www.doofree88.com"
+        			url: "https://1o0.in/f91128",
+				userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+				desktop: "true"
+				
+				//url: "https://www.doofree88.com/live/bbc-earth",
+				//Referer="https://www.doofree88.com"
 				
         			
 			},	
@@ -148,7 +168,8 @@
 		    	{
 				"name": "สำรวจโลก ",
 				"image": "https://www.dropbox.com/s/n9x7lj1stgmsgle/jhdq9Z.png?dl=1",
-				"url": "https://bit.ly/3B3Gidg ",
+				"url": "https://bit.ly/3Balqka",
+				
 				//  url:"http://203.159.95.172:8081/live/explore/playlist.m3u8",
 				"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 				"playInNatPlayer": "true"
@@ -157,7 +178,8 @@
 				"name":"MYSCI",
 				"image":"https://www.img.in.th/images/e179aaac6cd733fa0b8e9fd476980e1a.png",
 				"imageScale": "fitStart",
-				"url":"https://cdn6.goprimetime.info/feed/202105171329/LC37/index.m3u8",
+				//"url":"https://cdn6.goprimetime.info/feed/202105171329/LC37/index.m3u8",
+				"url":https://bit.ly/3oJy322",
 				"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 				"playInNatPlayer": "true"
 				},
