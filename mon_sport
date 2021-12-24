@@ -111,7 +111,8 @@
 		        {
 				name	: "True Premier Football HD 2",
                       		image	:"https://www.dropbox.com/s/zeogjug53zaapxy/lXuZxu.png?dl=1",
-				url	: "https://www.we-play.tv/watching/tv/true-premier-football-hd-2",
+				//url	: "https://www.we-play.tv/watching/tv/true-premier-football-hd-2",
+				  url:"https://www.doo2you.com/doballsod/iframe/tv.php?id=206"
 				           
 				//url:"https://www.doofree88.com/live/premier-football-hd-2",
 				playInNatPlayer: "true" 
@@ -163,7 +164,7 @@
                        	 "image": "https://overseer.blackboxsys.net/images/png/sd-tsport2.png",
 			//"url": "https://www.we-play.tv/watching/tv/true-sports-hd-2"
 			          
-			 url:"https://www.doofree88.com/live/sport-hd-2"
+			 url:"https://www.doo2you.com/doballsod/iframe/tv.php?id=213"
 			
                             
  		       	},
@@ -173,7 +174,7 @@
 			"name": "True Sport HD3",
                      	"image": "https://overseer.blackboxsys.net/images/png/hd-tsport3.png",
 			//"url": "https://we-play.live/watching/tv/true-sports-hd-3"
-			url:"https://365liveball.com/truesport?channel=truesporthd3",
+			url:"https://www.doo2you.com/doballsod/iframe/tv.php?id=214",
 			//url:"https://www.doofree88.com/live/sport-hd-3",
 			
 	              	"referer": "https://www.doofree88.com/",
@@ -187,7 +188,7 @@
          		"name":"True Sports HD4",
         		"image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
 	 		//"url": "https://we-play.live/watching/tv/true-sports-5"
-			url:"http://gg.gg/true-sport-4hd"
+			url:"https://www.doo2you.com/doballsod/iframe/tv.php?id=215"
 			//https://www.doofree88.com/live/sport-hd-4"
 		
 			},
