@@ -114,6 +114,7 @@
     				"image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
     				//url :"https://we-play.live/watching/tv/history-h2"
 				"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=hmcb4rf66f&ref=none",
+				"embed": true
 				"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 				"desktop": "true"
 				
