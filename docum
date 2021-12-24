@@ -17,11 +17,11 @@
 				userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 				desktop: "true"
 
-	              	}
+	              	},
 			{
-			    	name	: "Animal Planet",
-                            	image	: "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-				 url    :"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+			    	name  : "Animal Planet",
+                            	image : "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
+				 url  : "https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
 							
 			        playInNatPlayer: "true"
        			}
