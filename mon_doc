@@ -13,9 +13,8 @@
 			{
 			    name        :"LoveNature 4K sub thai",
                 image       :"https://i.imgur.com/XWDSCI7.png",
-                //url         :"https://1o0.in/baa59c",
-		url :"https://squidmantv.lfctv.online/baphoplus/livetv.m3u8?sv=4&chid=V0164&user=passthelovefw@gmail.com&pass=a61c99&token=723f286fa20b16e764b63a692163b5175db917aa",
-				userAgent   :"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+                url         :"https://1o0.in/baa59c",
+		userAgent   :"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 				desktop     :"true"
 //				//"url": "https://we-play.live/watching/tv/lovenature-4k",
 ///				//"referer": "https://we-play.tv/",
