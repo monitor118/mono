@@ -80,11 +80,8 @@
  			{ 
     		    name        :"H2 ",
     			image       :"http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    			url         :"https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=hmcb4rf66f&ref=none",
-				embed       :"true",
-				referer     :"https://dooball66.com",
-				userAgent   :"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-				desktop     :"true"
+    			url         :"https://www.livedoomovie.com:4431/02_H2HD_720p/chunklist.m3u8"
+				
 				
 				
 				
@@ -95,8 +92,8 @@
 			{ 
       		    name        :"History HD",
       	        image       :"http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-				url         :"https://www.doofootball.com/dootv/live/history#main_dootv",
-				"referer":"https://dooball66.com/"
+				url         :"https://www.livedoomovie.com:4431/02_HISTORYHD_720p/chunklist.m3u8"
+				//"referer":"https://dooball66.com/"
 				
 				
 				//"url": "https://we-play.live/watching/tv/history-hd"
