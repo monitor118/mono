@@ -23,7 +23,8 @@
             {
 			        name	    :"Animal Planet",
                 	        image	    :"https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",
-				url         :"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+				//url         :"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+				url:"https://smart-tv.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8",
 			     	referer     :""
        		},            
 
