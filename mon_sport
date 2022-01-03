@@ -205,16 +205,16 @@
                             //url  : "https://we-play.live/watching/tv/true-sports-5",
 			    url:"https://365liveball.com/truesport?channel=truesport5",
 			    referer: "https://we-play.live"
-		        
+		    
                    	},		
 		
 					
 			{
 			    "name": "True Sport 7",
                             "image": "https://overseer.blackboxsys.net/images/png/sd-tsport7.png",
-			    //"url":"https://we-play.live/watching/tv/true-sports-7",
-			    url:"https://www.doofree88.com/live/sport-7",
-			    "referer": "https://we-play.live"
+			     //url:"https://www.doofree88.com/live/sport-7",
+			    url :":"https://168dooball.com/live/truesport-7"
+			    //"referer": "https://we-play.live"
 			    
 			    
 			    
@@ -222,14 +222,14 @@
 			{
 			   "name": "true vision SPOTV ",
 			   "image": "https://drive.google.com/uc?id=1fS7lwvD18GJGuOSnNC46PaTkqdlvzYbh",
-			   "url": "https://we-play.live/watching/tv/spotv",
+			   "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=231",
 		           "referer": "https://we-play.live/",
 			   "playInNatPlayer": "true"
 			},	
 			{
 			   "name": "true vision SPOTV 2",
 			   "image": "https://drive.google.com/uc?id=1fQPSqmNk8l30OZ2ZsCe01PZ3ZuZD3Qui",
-			   "url": "https://we-play.live/watching/tv/spotv2",
+			   "url": "https://www.doo2you.com/doballsod/iframe/tv.php?id=232",
 			   "referer": "https://we-play.live/",
 			   "playInNatPlayer": "true"
 			},	
@@ -238,9 +238,8 @@
 			{
 			    "name": "beIN SPORTS 1",
                             "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
-                            //"url": "https://we-play.live/watching/tv/bein-sports-1",
-			      url:"https://www.doofree88.com/live/bein-sports-1",
-			   referer:"https://www.liveballsod.com/"
+                            url:"https://movieeiei.com/play-live/?ch=bein1&home=Celtic&away=Ferencvarosi%20TC"
+			   
 			  			    
                    	},
 
@@ -315,7 +314,7 @@
 			{
 			"name":"TRUE TENNIS HD",
 			"image":"https://doo2you.com/icon/TrueSportTennis.png",
-			"url":"https://we-play.live/watching/tv/true-tennis",
+			"url":"https://www.warpfootball.games/live/?ch=truetennis",
 			"playInNatPlayer": "true"
 			},
 	   		{
