@@ -106,13 +106,13 @@
 			{ 
       		    name        :"History HD",
       	        image       :"http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-				//url         :"https://www.livedoomovie.com:4431/02_HISTORYHD_720p/chunklist.m3u8"
-				url :"https://www.doo2you.com/doballsod/iframe/tv.php?id=240"
-				//"referer":"https://dooball66.com/"
+				url :"https://www.livedoomovie.com:4431/02_HISTORYHD_720p/chunklist.m3u8"
+				//url :"https://www.doo2you.com/doballsod/iframe/tv.php?id=240"
 				
 				
-				//"url": "https://we-play.live/watching/tv/history-hd"
-				//"url":"https://www.doofree88.com/live/history"
+				
+				
+				
 			},
   	        { 
        		    name        :"BBC EARTH ",
