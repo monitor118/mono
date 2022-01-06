@@ -16,7 +16,7 @@
                 url         :"https://1o0.in/baa59c",
 		userAgent   :"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 				desktop     :"true"
-//				//"url": "https://we-play.live/watching/tv/lovenature-4k",
+                                //http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 ///				//"referer": "https://we-play.tv/",
 				//"playInNatPlayer": "true"
 	        },
@@ -72,7 +72,8 @@
 			  	name        :"Discovery Channel",
                 image       :"https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                                 //url : "https://we-play.live/watching/tv/discovery-channel"
-				url         :"https://www.doofootball.com/dootv/live/discovery#main_dootv"
+				//url         :"https://www.doofootball.com/dootv/live/discovery#main_dootv"
+				url :"http://ip2121.com:8081/web1/discovery/playlist.m3u8"
 				
 		    },
 			
