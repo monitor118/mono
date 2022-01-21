@@ -33,17 +33,18 @@
 
 		    {
 			   	name        :"Nat Geo Wild ",
-                image       :"https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+                		image       :"https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
 				url         :"http://203.154.243.88:11088/hi/natgeo",
-				userAgent   :"Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+				userAgent   :"exoplayer_video",
+				//userAgent   :"Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 				playInNatPlayer: "true"
 			    		            
             },
             {
 				name        :"Net WILD ",
 				image       :"https://www.dropbox.com/s/guqkkl8ubnzaolg/jhdQmu.png?dl=1",
-				//url         :"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8",
-				  url:"http://udoofree.com/movie2/175/single-live?watch=1",
+				url         :"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8",
+				//  url:"http://udoofree.com/movie2/175/single-live?watch=1",
 				playInNatPlayer:"true"
 			},
 	     
@@ -53,6 +54,13 @@
 				url         :"https://we-play.live/watching/tv/national-geographic"
       				
             },
+	                 { 
+			   name  	:"INWILD",
+			   image	:"https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",
+			   url		: "https://inwild-samsung-uk.amagi.tv/playlist.m3u8",
+			   userAgent	: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+			   playInNatPlayer: "true"
+			   },
 	    	{
 			    name        :"Discovery UK Channel",
             	image       :"https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
@@ -60,16 +68,7 @@
 				referer     :"https://www.chomfootball.com"
 				
 			},		    
-			{
-
-			"name":"Discovery Channel",
-			"image":"https://dl.dropbox.com/s/5yy8q1x1v3zybyj/discovery-channel.png",
-			"url":"https://embed.dooball66.com/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-			"referer": "https://dooball66.com/",
-			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-			"desktop": "true",
-			"embed": "true"
-			},
+		
 			{
 			  	name        :"Discovery Channel",
                 image       :"https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
@@ -137,12 +136,6 @@
 				referer     :""
 		    },
 		
-		    {
-			    name        :"BBC Lifestyle",
-                image       :"https://1.bp.blogspot.com/-OnOm7RSatn4/UIcI6ttOGYI/AAAAAAAAdjE/N7x8NIRy38U/s1600/BBC+Lifestyle+logo.jpg",
-                url         :"http://udoofree.com/movie2/103/single-live?watch=1"
-		            
-            },
 		    {
 			    name        :"สำรวจโลก ",
 				image       :"https://www.dropbox.com/s/n9x7lj1stgmsgle/jhdq9Z.png?dl=1",
