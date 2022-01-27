@@ -223,7 +223,7 @@
 			{
 				"name": "TLC",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
-				"url": "https://we-play.tv/watching/tv/tlc-hd",
+				url :"https://www.we-play.live/watching/tv/tlc-hd",
 				"referer": "https://we-play.tv/",
 				"playInNatPlayer": "true"
 			},
