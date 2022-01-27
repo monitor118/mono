@@ -139,7 +139,8 @@
 		    {
 			    name        :"สำรวจโลก ",
 				image       :"https://www.dropbox.com/s/n9x7lj1stgmsgle/jhdq9Z.png?dl=1",
-				url         :"https://bit.ly/3Balqka",
+				//url         :"https://bit.ly/3Balqka",
+				url :"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
 				
 				//  url:"http://203.159.95.172:8081/live/explore/playlist.m3u8",
 			    userAgent   :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
@@ -162,7 +163,13 @@
 				 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 				 playInNatPlayer: "true"
 				 },
-						
+					
+				{
+				  name:"Filmon 360",
+				  image:"https://i.imgur.com/Jh3Ccrn.png",
+				  url:"https://www.filmon.com/vr-streams/4136.high/playlist.m3u8?fluxustv.m3u8",
+				  referer:"https://freenote.biz/raw/Kk7Jv5Dnz6"
+				 }	
 				{
 					"name": "XPLORE ",
 					"image":"https://docs.google.com/uc?export=download&id=1VB_VRurdlFBBygfwISAvXh-qMNAlMw5J",
