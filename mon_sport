@@ -200,8 +200,8 @@
 			{
 			    name : "True Sport 5",
                             image: "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",
-			    url :"//www.warpfootball.games/live/?ch=truesport5"
-                            //url:"https://365liveball.com/truesport?channel=truesport5",
+			   //url :"//www.warpfootball.games/live/?ch=truesport5"
+                            url:"https://365liveball.com/truesport?channel=truesport5",
 			    //referer: "https://we-play.live"
 		    
                    	},		
