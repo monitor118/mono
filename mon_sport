@@ -168,8 +168,8 @@
 			"name": "True Sport HD2",
                        	 "image": "https://overseer.blackboxsys.net/images/png/sd-tsport2.png",
 			
-			          
-			 url:"https://www.doo2you.com/doballsod/iframe/tv.php?id=213"
+			url :"https://www.warpfootball.games/live/?ch=truesporthd2"
+			 //url:"https://www.doo2you.com/doballsod/iframe/tv.php?id=213"
 			
                             
  		       	},
@@ -200,8 +200,9 @@
 			{
 			    name : "True Sport 5",
                             image: "https://overseer.blackboxsys.net/images/png/sd-tsport5.png",
-                            url:"https://365liveball.com/truesport?channel=truesport5",
-			    referer: "https://we-play.live"
+			    url :"//www.warpfootball.games/live/?ch=truesport5"
+                            //url:"https://365liveball.com/truesport?channel=truesport5",
+			    //referer: "https://we-play.live"
 		    
                    	},		
 		
