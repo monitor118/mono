@@ -350,7 +350,9 @@
 			     	"name":"Eursport 1",
 			     	"image":"https://img2.thaipng.com/20180525/cyr/kisspng-eurosport-2-logo-television-5b08b54fa58fc1.4097871515272973596782.jpg",
 			     
-			     	url :"http://www.freeintertv.com/view/id-207/United_Kingdom-Sport-2-1"
+			     	url :"http://www.freeintertv.com/view/id-207/United_Kingdom-Sport-2-1",
+				"referer":"http://www.freeintertv.com",
+				"playInNatPlayer": "true"
 			 	
 			 },
 	
