@@ -335,20 +335,33 @@
 			
 			
     			{
-			     "name":"Eursport 1",
-			     "image":"https://img2.thaipng.com/20180525/cyr/kisspng-eurosport-2-logo-television-5b08b54fa58fc1.4097871515272973596782.jpg",
+			     	"name":"Eursport 1",
+			     	"image":"https://img2.thaipng.com/20180525/cyr/kisspng-eurosport-2-logo-television-5b08b54fa58fc1.4097871515272973596782.jpg",
 			     //"url":"https://www.doofree88.com/live/eurosport"
-			     url :"https://we-play.live/watching/tv/eurosport-asia"
+			     //url :"https://we-play.live/watching/tv/eurosport-asia"
 			     //url :"http://www.freeintertv.com/view/id-207/United_Kingdom-1-2-1"
 			     
+			 	"url": "https://wigistream.to/embed/49eenoo8djy",
+                    		"referer":"https://wigistream.to/embed/49eenoo8djy",
+                    		"embed": false
+			 },
 			 
+    			{
+			     	"name":"Eursport 1",
+			     	"image":"https://img2.thaipng.com/20180525/cyr/kisspng-eurosport-2-logo-television-5b08b54fa58fc1.4097871515272973596782.jpg",
+			     
+			     	url :"http://www.freeintertv.com/view/id-207/United_Kingdom-Sport-2-1"
+			 	
 			 },
 	
 			{
-			     "name":"Eursport 2",
-			     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCb1vKfPXfEQ04ZLSm6QjTwmtATbiRg1MBP4O85-gTOlomjyqyvDOS2NMOkoadSV_gUhI&usqp=CAU",
-			     "url":"https://www.doofree88.com/live/eurosport-2",
-			     "referer":""
+			     	"name":"Eursport 2",
+			     	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCb1vKfPXfEQ04ZLSm6QjTwmtATbiRg1MBP4O85-gTOlomjyqyvDOS2NMOkoadSV_gUhI&usqp=CAU",
+			      	"url":"https://wigistream.to/embed/9dr6zjlt",
+                    		"referer":"https://wigistream.to/embed/9dr6zjlt",
+		         	"embed": false
+			  //   "url":"https://www.doofree88.com/live/eurosport-2",
+			  //   "referer":""
 			 }
 						 			  	
 		    ]
