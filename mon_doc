@@ -57,7 +57,8 @@
 				name	    :"Net Geo WILD ",
 				image	    :"https://www.dropbox.com/s/mo81vnpzu4h6kv0/jhdQmu.png?dl=1",
 				url	    :"https://ustvgo.tv/nat-geo-wild-live",
-				referer	    : "https://photocall.tv/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+				referer	    : "https://photocall.tv/",
+				userAgent   : "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 			        info	    : "",
 				desktop	    : "true"
 			},
@@ -199,13 +200,7 @@
 				 info		: "",
 				 desktop	: "true"
 			},
-			{
-				name		:" TRUE WILD",
-				image		:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
-				url		:"https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-				info		: "",
-				desktop		: "true"
-			},
+			
 			{
 				name		:"media",
 				image		: "https://www.dropbox.com/s/5ssssamm2wp7twg/jt5i7y.png?dl=1",  
