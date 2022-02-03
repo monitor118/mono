@@ -40,12 +40,26 @@
 				playInNatPlayer: "true"
 			    		            
             },
+	    {
+	    			name		:"NAT GEO WILD Thai",
+				image		:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
+				url		:"http://203.154.243.88:11088/hi/natgeo",
+				userAgent	:"exoplayer_video"
+		}
             {
-				name        :"Net WILD ",
+				name        :"Net Geo WILD ",
 				image       :"https://www.dropbox.com/s/guqkkl8ubnzaolg/jhdQmu.png?dl=1",
 				url         :"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8",
 				//  url:"http://udoofree.com/movie2/175/single-live?watch=1",
 				playInNatPlayer:"true"
+			},
+			{
+				name	    :"Net Geo WILD ",
+				image	    :"https://www.dropbox.com/s/mo81vnpzu4h6kv0/jhdQmu.png?dl=1",
+				url	    :"https://ustvgo.tv/nat-geo-wild-live",
+				referer	    : "https://photocall.tv/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+			        info	    : "",
+				desktop	    : "true"
 			},
 	     
 		    {
@@ -99,6 +113,13 @@
 				image       :"https://sv1.picz.in.th/images/2021/08/17/2HTU7l.jpg",
 				url         :"http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist_Fuso_Uhd.m3u8"
 		    },
+		{
+			name		:"WORLD ANIMAL",
+			image		: "https://www.dropbox.com/s/qdosk6qbpisfl2z/149038149_430413028377673_5843273126868376110_n.png?dl=1",
+			url		: "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+			playInNatPlayer	: "true"
+		},
+ 
  			{ 
     		    name        :"H2 ",
     			image       :"http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
@@ -125,10 +146,10 @@
 				
 				
 			},
-  	        { 
-       		    name        :"BBC EARTH ",
-        		image       :"http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
-        		url         :"https://1o0.in/f91128",
+  	        	{ 
+       		    		name        :"BBC EARTH ",
+        			image       :"http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
+        			url         :"https://1o0.in/f91128",
 				userAgent   :"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 				desktop     :"true"
 				
@@ -136,18 +157,18 @@
 				//Referer="https://www.doofree88.com"
 			},	
 			
+
 		    {
-			    name        :"BBC USA",
+			    	name        :"BBC USA",
 				image       :"https://sv1.picz.in.th/images/2021/11/05/unHhmP.png",
 				url         :"https://ustvgo.tv/bbc-america-live/",
 				referer     :""
 		    },
 		
 		    {
-			    name        :"สำรวจโลก ",
+			    	name        :"สำรวจโลก ",
 				image       :"https://www.dropbox.com/s/n9x7lj1stgmsgle/jhdq9Z.png?dl=1",
-				//url         :"https://bit.ly/3Balqka",
-				url :"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
+				 url :"  https://1o0.in/6702c1",
 				
 				//  url:"http://203.159.95.172:8081/live/explore/playlist.m3u8",
 			    userAgent   :"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
@@ -170,6 +191,49 @@
 				 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 				 playInNatPlayer: "true"
 				 },
+			{
+				 name		:"TRUE LIFE",
+				 image		:"https://www.dropbox.com/s/j858tllcpwgdg9s/%E0%B8%81%E0%B8%94%E0%B9%80%E0%B8%81%E0%B9%80%E0%B9%80.png?dl=1",
+				 url		:"https://1o0.in/d57d35",
+				 referer	:"https://dooball66.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+				 info		: "",
+				 desktop	: "true"
+			},
+			{
+				name		:" TRUE WILD",
+				image		:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
+				url		:"https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+				info		: "",
+				desktop		: "true"
+			},
+			{
+				name		:"media",
+				image		: "https://www.dropbox.com/s/5ssssamm2wp7twg/jt5i7y.png?dl=1",  
+				url		: "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
+				playInNatPlayer	: "true"
+			},
+
+			{
+				name		:"public",
+				image		: "https://www.dropbox.com/s/5ssssamm2wp7twg/jt5i7y.png?dl=1",
+				url		:"https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8",
+				playInNatPlayer": "true"
+			},
+
+
+			{	
+				name		:"space ",
+				image		: "https://www.dropbox.com/s/5ssssamm2wp7twg/jt5i7y.png?dl=1",
+				url		:"https://ov-space-sp.ottera.tv/out/v1/190362790edc41c2bd6dd7653c2009f9/index_1.m3u8",
+				referer		: "https://photocall.tv/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+				info		: "",
+				desktop		: "true"
+				},
+			{
+				name:		 :"sciencie",
+				image:"https://www.dropbox.com/s/qn6pcuk5wzxt4pc/lx5X4f.png?dl=1",
+				url:"https://ustvgo.tv/science/",referer:"https://www.doomovie-hd.com"
+		 	},
 					
 				{
 				  name:"Filmon 360",
