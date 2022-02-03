@@ -1,0 +1,43 @@
+{	
+      "name": "สารคดี",	
+			"author": "monitor", 
+			"image": "https://i.gifer.com/g3Xm.gif",  
+			"url": "https://raw.githubusercontent.com/monitor118/mono/master/doc3",
+			        
+			"info": "monitor",	
+"stations":[
+
+		{
+			"name": "Lovenature ",
+			"image": "https://www.dropbox.com/s/k72qwf6f8j2xv4y/jhd5bI.png?dl=1",
+			"url":"https://we-play.live/watching/tv/lovenature-4k",
+			"referer": "",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+			"desktop": "true"
+		},
+		{
+			name:"ANimal Planet",
+			image:"https://www.dropbox.com/s/r2vzrw0aitv7z5h/jfM371.png?dl=1",
+			url:"https://we-play.live/watching/tv/animal-planet",
+			referer:""
+		},
+	   {
+	    	name		:"NAT GEO WILD Thai",
+				image		:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
+				url		:"http://203.154.243.88:11088/hi/natgeo",
+				userAgent	:"exoplayer_video"
+		}
+			
+			
+			
+			
+			
+
+
+
+
+
+
+
+		  ]
+		}
