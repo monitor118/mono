@@ -14,18 +14,19 @@
 			"info": "monitor",	
 "stations":[
 
-
-
-{name:"      1080p",image:"https://www.dropbox.com/s/r2vzrw0aitv7z5h/jfM371.png?dl=1",url:"https://we-play.live/watching/tv/animal-planet",referer:""},
-{name:"      ",image:"https://www.dropbox.com/s/r2vzrw0aitv7z5h/jfM371.png?dl=1",url:"https://wacth.tv/tv-player/animal-planet.html","isHost": true },
-
-{"name": "           ","image": "https://www.dropbox.com/s/r2vzrw0aitv7z5h/jfM371.png?dl=1","url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
-{"name": "         ","image": "https://www.dropbox.com/s/r2vzrw0aitv7z5h/jfM371.png?dl=1","url":"https://www.doofootball.com/dootv/live/animalplanet#main_dootv","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
-
-
-
-{"name": "  Lovenature ","image": "https://www.dropbox.com/s/k72qwf6f8j2xv4y/jhd5bI.png?dl=1",
-"url":"https://we-play.live/watching/tv/lovenature-4k","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+		{
+			"name": "Lovenature ",
+			"image": "https://www.dropbox.com/s/k72qwf6f8j2xv4y/jhd5bI.png?dl=1",
+			"url":"https://we-play.live/watching/tv/lovenature-4k",
+			"referer": "",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+			"desktop": "true"
+		},
+		{
+			name:"ANimal Planet",
+			image:"https://www.dropbox.com/s/r2vzrw0aitv7z5h/jfM371.png?dl=1",
+			url:"https://we-play.live/watching/tv/animal-planet",referer:""
+		},
 
 {"name": " ","image": "https://www.dropbox.com/s/k72qwf6f8j2xv4y/jhd5bI.png?dl=1",
 "url":"https://1o0.in/baa59c","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
