@@ -26,7 +26,24 @@
 				image		:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
 				url		:"http://203.154.243.88:11088/hi/natgeo",
 				userAgent	:"exoplayer_video"
-		}
+		},
+		 
+		 {
+				name        :"Net Geo WILD ",
+				image       :"https://www.dropbox.com/s/guqkkl8ubnzaolg/jhdQmu.png?dl=1",
+				url         :"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8",
+				//  url:"http://udoofree.com/movie2/175/single-live?watch=1",
+				playInNatPlayer:"true"
+			},
+			{
+				name	    :"Net Geo WILD ",
+				image	    :"https://www.dropbox.com/s/mo81vnpzu4h6kv0/jhdQmu.png?dl=1",
+				url	    :"https://ustvgo.tv/nat-geo-wild-live",
+				referer	    : "https://photocall.tv/",
+				userAgent   : "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+			        info	    : "",
+				desktop	    : "true"
+			}
 			
 			
 			
