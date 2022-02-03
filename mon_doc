@@ -45,7 +45,7 @@
 				image		:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
 				url		:"http://203.154.243.88:11088/hi/natgeo",
 				userAgent	:"exoplayer_video"
-		}
+		},
             {
 				name        :"Net Geo WILD ",
 				image       :"https://www.dropbox.com/s/guqkkl8ubnzaolg/jhdQmu.png?dl=1",
@@ -92,7 +92,7 @@
 		
 			{
 			  	name        :"Discovery Channel",
-                image       :"https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
+                		image       :"https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
                                 url : "https://we-play.live/watching/tv/discovery-channel"
 				//url         :"https://www.doofootball.com/dootv/live/discovery#main_dootv"
 				//url :"http://ip2121.com:8081/web1/discovery/playlist.m3u8"
